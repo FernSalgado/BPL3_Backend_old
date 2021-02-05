@@ -1,0 +1,16 @@
+C:\Users\FERNANDODASILVASALGA\source\repos\BPL3\BPL3\bin\Debug\netcoreapp3.1\BPL3.exe
+C:\Users\FERNANDODASILVASALGA\source\repos\BPL3\BPL3\bin\Debug\netcoreapp3.1\BPL3.deps.json
+C:\Users\FERNANDODASILVASALGA\source\repos\BPL3\BPL3\bin\Debug\netcoreapp3.1\BPL3.runtimeconfig.json
+C:\Users\FERNANDODASILVASALGA\source\repos\BPL3\BPL3\bin\Debug\netcoreapp3.1\BPL3.runtimeconfig.dev.json
+C:\Users\FERNANDODASILVASALGA\source\repos\BPL3\BPL3\bin\Debug\netcoreapp3.1\BPL3.dll
+C:\Users\FERNANDODASILVASALGA\source\repos\BPL3\BPL3\bin\Debug\netcoreapp3.1\BPL3.pdb
+C:\Users\FERNANDODASILVASALGA\source\repos\BPL3\BPL3\obj\Debug\netcoreapp3.1\BPL3.csprojAssemblyReference.cache
+C:\Users\FERNANDODASILVASALGA\source\repos\BPL3\BPL3\obj\Debug\netcoreapp3.1\BPL3.AssemblyInfoInputs.cache
+C:\Users\FERNANDODASILVASALGA\source\repos\BPL3\BPL3\obj\Debug\netcoreapp3.1\BPL3.AssemblyInfo.cs
+C:\Users\FERNANDODASILVASALGA\source\repos\BPL3\BPL3\obj\Debug\netcoreapp3.1\BPL3.csproj.CoreCompileInputs.cache
+C:\Users\FERNANDODASILVASALGA\source\repos\BPL3\BPL3\obj\Debug\netcoreapp3.1\BPL3.dll
+C:\Users\FERNANDODASILVASALGA\source\repos\BPL3\BPL3\obj\Debug\netcoreapp3.1\BPL3.pdb
+C:\Users\FERNANDODASILVASALGA\source\repos\BPL3\BPL3\obj\Debug\netcoreapp3.1\BPL3.genruntimeconfig.cache
+C:\Users\FERNANDODASILVASALGA\source\repos\BPL3\BPL3\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\FERNANDODASILVASALGA\source\repos\BPL3\BPL3\obj\Debug\netcoreapp3.1\BPL3.csproj.CopyComplete
+C:\Users\FERNANDODASILVASALGA\source\repos\BPL3\BPL3\bin\Debug\netcoreapp3.1\AngleSharp.dll

@@ -1,0 +1,317 @@
+[
+  {
+    "Name": "Dying Sun",
+    "Obtained": "False",
+    "SetName": "Shaper's Set"
+  },
+  {
+    "Name": "Shaper's Touch",
+    "Obtained": "True",
+    "SetName": "Shaper's Set"
+  },
+  {
+    "Name": "Solstice Vigil",
+    "Obtained": "False",
+    "SetName": "Shaper's Set"
+  },
+  {
+    "Name": "Starforge",
+    "Obtained": "False",
+    "SetName": "Shaper's Set"
+  },
+  {
+    "Name": "Voidwalker",
+    "Obtained": "False",
+    "SetName": "Shaper's Set"
+  },
+  {
+    "Name": "Impresence (Phys)",
+    "Obtained": "False",
+    "SetName": "Elder's Set"
+  },
+  {
+    "Name": "Impresence (Fire)",
+    "Obtained": "False",
+    "SetName": "Elder's Set"
+  },
+  {
+    "Name": "Impresence (Cold)",
+    "Obtained": "False",
+    "SetName": "Elder's Set"
+  },
+  {
+    "Name": "Impresence (Lightning)",
+    "Obtained": "False",
+    "SetName": "Elder's Set"
+  },
+  {
+    "Name": "Impresence (Chaos)",
+    "Obtained": "False",
+    "SetName": "Elder's Set"
+  },
+  {
+    "Name": "Cyclopean Coil",
+    "Obtained": "False",
+    "SetName": "Elder's Set"
+  },
+  {
+    "Name": "Hopeshredder",
+    "Obtained": "False",
+    "SetName": "Elder's Set"
+  },
+  {
+    "Name": "Blasphemer's Grasp",
+    "Obtained": "True",
+    "SetName": "Elder's Set"
+  },
+  {
+    "Name": "Shimmeron",
+    "Obtained": "False",
+    "SetName": "Elder's Set"
+  },
+  {
+    "Name": "Nebuloch",
+    "Obtained": "True",
+    "SetName": "Elder's Set"
+  },
+  {
+    "Name": "Watcher's Eye",
+    "Obtained": "False",
+    "SetName": "Elder's Set"
+  },
+  {
+    "Name": "The Eternity Shroud",
+    "Obtained": "False",
+    "SetName": "Uber Elder's Set"
+  },
+  {
+    "Name": "Disintegrator",
+    "Obtained": "True",
+    "SetName": "Uber Elder's Set"
+  },
+  {
+    "Name": "Voidfletcher",
+    "Obtained": "False",
+    "SetName": "Uber Elder's Set"
+  },
+  {
+    "Name": "Mark of the Elder",
+    "Obtained": "False",
+    "SetName": "Uber Elder's Set"
+  },
+  {
+    "Name": "Mark of the Shaper",
+    "Obtained": "False",
+    "SetName": "Uber Elder's Set"
+  },
+  {
+    "Name": "Indigon",
+    "Obtained": "False",
+    "SetName": "Uber Elder's Set"
+  },
+  {
+    "Name": "Voidforge",
+    "Obtained": "False",
+    "SetName": "Uber Elder's Set"
+  },
+  {
+    "Name": "Watcher's Eye",
+    "Obtained": "False",
+    "SetName": "Uber Elder's Set"
+  },
+  {
+    "Name": "Bottled Faith",
+    "Obtained": "False",
+    "SetName": "Synthesis Set"
+  },
+  {
+    "Name": "Circle of Anguish",
+    "Obtained": "False",
+    "SetName": "Synthesis Set"
+  },
+  {
+    "Name": "Circle of Fear",
+    "Obtained": "False",
+    "SetName": "Synthesis Set"
+  },
+  {
+    "Name": "Circle of Guilt",
+    "Obtained": "False",
+    "SetName": "Synthesis Set"
+  },
+  {
+    "Name": "Circle of Nostalgia",
+    "Obtained": "True",
+    "SetName": "Synthesis Set"
+  },
+  {
+    "Name": "Circle of Regret",
+    "Obtained": "False",
+    "SetName": "Synthesis Set"
+  },
+  {
+    "Name": "Garb of the Ephemeral",
+    "Obtained": "False",
+    "SetName": "Synthesis Set"
+  },
+  {
+    "Name": "Offering to the Serpent",
+    "Obtained": "False",
+    "SetName": "Synthesis Set"
+  },
+  {
+    "Name": "Mask of the Tribunal",
+    "Obtained": "False",
+    "SetName": "Synthesis Set"
+  },
+  {
+    "Name": "Storm's Gift",
+    "Obtained": "False",
+    "SetName": "Synthesis Set"
+  },
+  {
+    "Name": "Perepiteia",
+    "Obtained": "False",
+    "SetName": "Synthesis Set"
+  },
+  {
+    "Name": "Nebulis",
+    "Obtained": "False",
+    "SetName": "Synthesis Set"
+  },
+  {
+    "Name": "Atziri's Acuity",
+    "Obtained": "False",
+    "SetName": "Uber Atziri's Set"
+  },
+  {
+    "Name": "Atziri's Disfavour",
+    "Obtained": "False",
+    "SetName": "Uber Atziri's Set"
+  },
+  {
+    "Name": "The Vertex",
+    "Obtained": "False",
+    "SetName": "Uber Atziri's Set"
+  },
+  {
+    "Name": "Atziri's Splendour",
+    "Obtained": "False",
+    "SetName": "Uber Atziri's Set"
+  },
+  {
+    "Name": "Viridi's Veil",
+    "Obtained": "False",
+    "SetName": "Maven's Set"
+  },
+  {
+    "Name": "Doppelg�nger Guise",
+    "Obtained": "False",
+    "SetName": "Maven's Set"
+  },
+  {
+    "Name": "Arn's Anguish",
+    "Obtained": "False",
+    "SetName": "Maven's Set"
+  },
+  {
+    "Name": "Legacy of Fury",
+    "Obtained": "False",
+    "SetName": "Maven's Set"
+  },
+  {
+    "Name": "Graven's Secret",
+    "Obtained": "False",
+    "SetName": "Maven's Set"
+  },
+  {
+    "Name": "Olesya's Delight",
+    "Obtained": "False",
+    "SetName": "Maven's Set"
+  },
+  {
+    "Name": "The Formless Inferno",
+    "Obtained": "False",
+    "SetName": "Xoph's Set"
+  },
+  {
+    "Name": "Xoph's Blood",
+    "Obtained": "False",
+    "SetName": "Xoph's Set"
+  },
+  {
+    "Name": "Xoph's Nurture",
+    "Obtained": "False",
+    "SetName": "Xoph's Set"
+  },
+  {
+    "Name": "The Pandemonius",
+    "Obtained": "True",
+    "SetName": "Tul's Set"
+  },
+  {
+    "Name": "The Perfect Form",
+    "Obtained": "True",
+    "SetName": "Tul's Set"
+  },
+  {
+    "Name": "Tulfall",
+    "Obtained": "True",
+    "SetName": "Tul's Set"
+  },
+  {
+    "Name": "Choir of the Storm",
+    "Obtained": "False",
+    "SetName": "Esh's Set"
+  },
+  {
+    "Name": "Hand of Wisdom and Action",
+    "Obtained": "False",
+    "SetName": "Esh's Set"
+  },
+  {
+    "Name": "Esh's Visage",
+    "Obtained": "False",
+    "SetName": "Esh's Set"
+  },
+  {
+    "Name": "The Surrender",
+    "Obtained": "False",
+    "SetName": "Uul-Netol's Set"
+  },
+  {
+    "Name": "The Red Trail",
+    "Obtained": "False",
+    "SetName": "Uul-Netol's Set"
+  },
+  {
+    "Name": "Uul-Netol's Embrace",
+    "Obtained": "False",
+    "SetName": "Uul-Netol's Set"
+  },
+  {
+    "Name": "Skin of the Lords",
+    "Obtained": "False",
+    "SetName": "Chayula's Set"
+  },
+  {
+    "Name": "United in Dream",
+    "Obtained": "False",
+    "SetName": "Chayula's Set"
+  },
+  {
+    "Name": "The Blue Nightmare",
+    "Obtained": "False",
+    "SetName": "Chayula's Set"
+  },
+  {
+    "Name": "The Green Nightmare",
+    "Obtained": "False",
+    "SetName": "Chayula's Set"
+  },
+  {
+    "Name": "The Red Nightmare",
+    "Obtained": "False",
+    "SetName": "Chayula's Set"
+  }
+]
