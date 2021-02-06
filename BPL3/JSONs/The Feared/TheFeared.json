@@ -1,0 +1,25 @@
+{
+  "Name": "The Feared",
+  "Leader": "Pebble",
+  "TotalPoints": 12338,
+  "LevelPoints": 12238,
+  "DelvePoints": 80,
+  "SetPoints": 20,
+  "StashUrl": "https://www.pathofexile.com/account/view-stash/kingZentun/e5a6ad636baba642290595f1e0f64f11ed86f0c63e9b05b2bcf0a0c84375a740",
+  "AllowedClasses": [
+    "Scion",
+    "Ascendant",
+    "Shadow",
+    "Saboteur",
+    "Assassin",
+    "Trickster",
+    "Ranger",
+    "Pathfinder",
+    "Raider",
+    "Deadeye",
+    "Templar",
+    "Hierophant",
+    "Guardian",
+    "Inquisitor"
+  ]
+}

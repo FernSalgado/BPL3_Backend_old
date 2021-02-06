@@ -1,0 +1,25 @@
+{
+  "Name": "The Twisted",
+  "Leader": "Pebble",
+  "TotalPoints": 11208,
+  "LevelPoints": 10854,
+  "DelvePoints": 94,
+  "SetPoints": 260,
+  "StashUrl": "https://www.pathofexile.com/account/view-stash/_NxName_/d25a989864ab30eea1e0986c7364b97a70b7e445dfa10530a7e25279d83ca073",
+  "AllowedClasses": [
+    "Scion",
+    "Ascendant",
+    "Shadow",
+    "Saboteur",
+    "Assassin",
+    "Trickster",
+    "Ranger",
+    "Pathfinder",
+    "Raider",
+    "Deadeye",
+    "Templar",
+    "Hierophant",
+    "Guardian",
+    "Inquisitor"
+  ]
+}

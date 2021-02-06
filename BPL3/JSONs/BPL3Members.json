@@ -1,0 +1,7238 @@
+[
+  {
+    "CharacterName": "ROB_Pebble",
+    "AccountName": "MoxPebble",
+    "TeamName": "The Hidden",
+    "Level": 97,
+    "Delve": 0,
+    "Rank": 15,
+    "Class": "Invalid Class (Guardian)"
+  },
+  {
+    "CharacterName": "ROB_NoName",
+    "AccountName": "_NxName_",
+    "TeamName": "The Formed",
+    "Level": 96,
+    "Delve": 118,
+    "Rank": 32,
+    "Class": "Invalid Class (Inquisitor)"
+  },
+  {
+    "CharacterName": "COP_SheriffBadger",
+    "AccountName": "ThisIsBadger",
+    "TeamName": "The Twisted",
+    "Level": 94,
+    "Delve": 239,
+    "Rank": 113,
+    "Class": "Invalid Class (Necromancer)"
+  },
+  {
+    "CharacterName": "ROB_Hehulk",
+    "AccountName": "Hehulk",
+    "TeamName": "The Feared",
+    "Level": 95,
+    "Delve": 312,
+    "Rank": 69,
+    "Class": "Guardian"
+  },
+  {
+    "CharacterName": "COP_shuta",
+    "AccountName": "shuta6667",
+    "TeamName": "The Hidden",
+    "Level": 87,
+    "Delve": 55,
+    "Rank": 328,
+    "Class": "Champion"
+  },
+  {
+    "CharacterName": "ykjiyjjutj",
+    "AccountName": "zillayali",
+    "TeamName": "The Formed",
+    "Level": 1,
+    "Delve": 0,
+    "Rank": 872,
+    "Class": "Invalid Class (Templar)"
+  },
+  {
+    "CharacterName": null,
+    "AccountName": "mirthemulder1",
+    "TeamName": "The Twisted",
+    "Level": 0,
+    "Delve": 0,
+    "Rank": 0,
+    "Class": null
+  },
+  {
+    "CharacterName": null,
+    "AccountName": "Thetedster",
+    "TeamName": "The Feared",
+    "Level": 0,
+    "Delve": 0,
+    "Rank": 0,
+    "Class": null
+  },
+  {
+    "CharacterName": null,
+    "AccountName": "Pyrox5",
+    "TeamName": "The Hidden",
+    "Level": 0,
+    "Delve": 0,
+    "Rank": 0,
+    "Class": null
+  },
+  {
+    "CharacterName": "COP_OddPhoenix",
+    "AccountName": "OddPhoenix",
+    "TeamName": "The Formed",
+    "Level": 89,
+    "Delve": 71,
+    "Rank": 270,
+    "Class": "Occultist"
+  },
+  {
+    "CharacterName": null,
+    "AccountName": "newcaracter1",
+    "TeamName": "The Twisted",
+    "Level": 0,
+    "Delve": 0,
+    "Rank": 0,
+    "Class": null
+  },
+  {
+    "CharacterName": "ROB_Wryx",
+    "AccountName": "Wryxian",
+    "TeamName": "The Feared",
+    "Level": 82,
+    "Delve": 0,
+    "Rank": 408,
+    "Class": "Assassin"
+  },
+  {
+    "CharacterName": "COP_Ajies",
+    "AccountName": "aajies",
+    "TeamName": "The Hidden",
+    "Level": 91,
+    "Delve": 65,
+    "Rank": 205,
+    "Class": "Necromancer"
+  },
+  {
+    "CharacterName": "COP_BONKLuna",
+    "AccountName": "lunglung01",
+    "TeamName": "The Formed",
+    "Level": 93,
+    "Delve": 64,
+    "Rank": 147,
+    "Class": "Champion"
+  },
+  {
+    "CharacterName": "ROB_Screwby",
+    "AccountName": "HiShinUnit",
+    "TeamName": "The Twisted",
+    "Level": 58,
+    "Delve": 0,
+    "Rank": 586,
+    "Class": "Assassin"
+  },
+  {
+    "CharacterName": "ROB_Poudee",
+    "AccountName": "Poudee",
+    "TeamName": "The Feared",
+    "Level": 95,
+    "Delve": 200,
+    "Rank": 84,
+    "Class": "Assassin"
+  },
+  {
+    "CharacterName": "COP_BASTARD",
+    "AccountName": "AAATopshelf",
+    "TeamName": "The Hidden",
+    "Level": 11,
+    "Delve": 0,
+    "Rank": 743,
+    "Class": "Duelist"
+  },
+  {
+    "CharacterName": "COP_Raphobia",
+    "AccountName": "TherosPherae",
+    "TeamName": "The Formed",
+    "Level": 81,
+    "Delve": 0,
+    "Rank": 420,
+    "Class": "Ascendant"
+  },
+  {
+    "CharacterName": "ROB_RaiRob",
+    "AccountName": "PaRadoX125",
+    "TeamName": "The Twisted",
+    "Level": 96,
+    "Delve": 500,
+    "Rank": 47,
+    "Class": "Trickster"
+  },
+  {
+    "CharacterName": "ROB_Clyde",
+    "AccountName": "Veladre",
+    "TeamName": "The Feared",
+    "Level": 83,
+    "Delve": 0,
+    "Rank": 396,
+    "Class": "Assassin"
+  },
+  {
+    "CharacterName": "COP_Linmei",
+    "AccountName": "TheCursedPlague",
+    "TeamName": "The Hidden",
+    "Level": 96,
+    "Delve": 118,
+    "Rank": 41,
+    "Class": "Necromancer"
+  },
+  {
+    "CharacterName": "COP_Meep_Steels_Too",
+    "AccountName": "meep_42",
+    "TeamName": "The Formed",
+    "Level": 94,
+    "Delve": 135,
+    "Rank": 105,
+    "Class": "Champion"
+  },
+  {
+    "CharacterName": "ROB_ARCHMAGE",
+    "AccountName": "Emilundpixeln",
+    "TeamName": "The Twisted",
+    "Level": 94,
+    "Delve": 168,
+    "Rank": 92,
+    "Class": "Ascendant"
+  },
+  {
+    "CharacterName": "ROB_jtom",
+    "AccountName": "DetectiveBubbles",
+    "TeamName": "The Feared",
+    "Level": 92,
+    "Delve": 106,
+    "Rank": 177,
+    "Class": "Saboteur"
+  },
+  {
+    "CharacterName": "COP_Fatarchmage",
+    "AccountName": "Faatality",
+    "TeamName": "The Hidden",
+    "Level": 86,
+    "Delve": 0,
+    "Rank": 339,
+    "Class": "Necromancer"
+  },
+  {
+    "CharacterName": "COP_Brunftkugeln",
+    "AccountName": "Kewrdy",
+    "TeamName": "The Formed",
+    "Level": 93,
+    "Delve": 103,
+    "Rank": 137,
+    "Class": "Chieftain"
+  },
+  {
+    "CharacterName": null,
+    "AccountName": "awildozzy",
+    "TeamName": "The Twisted",
+    "Level": 0,
+    "Delve": 0,
+    "Rank": 0,
+    "Class": null
+  },
+  {
+    "CharacterName": "ROB_Rhodry",
+    "AccountName": "Gnarfy",
+    "TeamName": "The Feared",
+    "Level": 96,
+    "Delve": 501,
+    "Rank": 38,
+    "Class": "Assassin"
+  },
+  {
+    "CharacterName": "COPS__LtXorMcClane",
+    "AccountName": "XorianHubclan",
+    "TeamName": "The Hidden",
+    "Level": 90,
+    "Delve": 0,
+    "Rank": 250,
+    "Class": "Gladiator"
+  },
+  {
+    "CharacterName": "COP_Kogzu",
+    "AccountName": "koksu26",
+    "TeamName": "The Formed",
+    "Level": 7,
+    "Delve": 0,
+    "Rank": 756,
+    "Class": "Marauder"
+  },
+  {
+    "CharacterName": "ROB_FireManatee",
+    "AccountName": "Tectonics",
+    "TeamName": "The Twisted",
+    "Level": 95,
+    "Delve": 200,
+    "Rank": 71,
+    "Class": "Trickster"
+  },
+  {
+    "CharacterName": "ROB_CoronaIsStillaBeer",
+    "AccountName": "Humpa",
+    "TeamName": "The Feared",
+    "Level": 94,
+    "Delve": 48,
+    "Rank": 96,
+    "Class": "Guardian"
+  },
+  {
+    "CharacterName": "COP_Apa",
+    "AccountName": "Spoton",
+    "TeamName": "The Hidden",
+    "Level": 69,
+    "Delve": 0,
+    "Rank": 525,
+    "Class": "Champion"
+  },
+  {
+    "CharacterName": null,
+    "AccountName": "og_Derpy",
+    "TeamName": "The Formed",
+    "Level": 0,
+    "Delve": 0,
+    "Rank": 0,
+    "Class": null
+  },
+  {
+    "CharacterName": "RPB_Jag",
+    "AccountName": "jaguar0405",
+    "TeamName": "The Twisted",
+    "Level": 89,
+    "Delve": 101,
+    "Rank": 265,
+    "Class": "Assassin"
+  },
+  {
+    "CharacterName": "ROB_DEEP_DEEP_DEEP",
+    "AccountName": "ADSKILLER",
+    "TeamName": "The Feared",
+    "Level": 88,
+    "Delve": 73,
+    "Rank": 293,
+    "Class": "Trickster"
+  },
+  {
+    "CharacterName": "COP_MikeWiLL_Quaked_It",
+    "AccountName": "Conflictions",
+    "TeamName": "The Hidden",
+    "Level": 93,
+    "Delve": 200,
+    "Rank": 119,
+    "Class": "Gladiator"
+  },
+  {
+    "CharacterName": "COP_luki",
+    "AccountName": "chyks",
+    "TeamName": "The Formed",
+    "Level": 11,
+    "Delve": 0,
+    "Rank": 745,
+    "Class": "Duelist"
+  },
+  {
+    "CharacterName": "ROB_Judd",
+    "AccountName": "WindowClown",
+    "TeamName": "The Twisted",
+    "Level": 83,
+    "Delve": 0,
+    "Rank": 395,
+    "Class": "Trickster"
+  },
+  {
+    "CharacterName": "ROB_chuck",
+    "AccountName": "zambie73",
+    "TeamName": "The Feared",
+    "Level": 40,
+    "Delve": 0,
+    "Rank": 630,
+    "Class": "Assassin"
+  },
+  {
+    "CharacterName": "COP_KenCrookedFfu",
+    "AccountName": "Kenpaffu",
+    "TeamName": "The Hidden",
+    "Level": 84,
+    "Delve": 40,
+    "Rank": 392,
+    "Class": "Champion"
+  },
+  {
+    "CharacterName": null,
+    "AccountName": "MOSTPOSITIVEMAN",
+    "TeamName": "The Formed",
+    "Level": 0,
+    "Delve": 0,
+    "Rank": 0,
+    "Class": null
+  },
+  {
+    "CharacterName": "ROB_Keks",
+    "AccountName": "Eddythegreat",
+    "TeamName": "The Twisted",
+    "Level": 92,
+    "Delve": 53,
+    "Rank": 185,
+    "Class": "Trickster"
+  },
+  {
+    "CharacterName": "ROB_Faux",
+    "AccountName": "AlexFaux",
+    "TeamName": "The Feared",
+    "Level": 82,
+    "Delve": 46,
+    "Rank": 412,
+    "Class": "Guardian"
+  },
+  {
+    "CharacterName": null,
+    "AccountName": "Pkillaz",
+    "TeamName": "The Hidden",
+    "Level": 0,
+    "Delve": 0,
+    "Rank": 0,
+    "Class": null
+  },
+  {
+    "CharacterName": "COP_BonkerOfWorlds",
+    "AccountName": "Roonike",
+    "TeamName": "The Formed",
+    "Level": 15,
+    "Delve": 0,
+    "Rank": 726,
+    "Class": "Marauder"
+  },
+  {
+    "CharacterName": "ROB_SolidPirate",
+    "AccountName": "Shmoziku",
+    "TeamName": "The Twisted",
+    "Level": 90,
+    "Delve": 76,
+    "Rank": 235,
+    "Class": "Assassin"
+  },
+  {
+    "CharacterName": "ROB_bluesair",
+    "AccountName": "bluesair",
+    "TeamName": "The Feared",
+    "Level": 74,
+    "Delve": 0,
+    "Rank": 482,
+    "Class": "Trickster"
+  },
+  {
+    "CharacterName": "COPS_Tyty_YEPCOPS",
+    "AccountName": "Tytykiller",
+    "TeamName": "The Hidden",
+    "Level": 98,
+    "Delve": 501,
+    "Rank": 9,
+    "Class": "Elementalist"
+  },
+  {
+    "CharacterName": null,
+    "AccountName": "SOHAM02",
+    "TeamName": "The Formed",
+    "Level": 0,
+    "Delve": 0,
+    "Rank": 0,
+    "Class": null
+  },
+  {
+    "CharacterName": "ROB_Soapie",
+    "AccountName": "soapiee",
+    "TeamName": "The Twisted",
+    "Level": 92,
+    "Delve": 80,
+    "Rank": 153,
+    "Class": "Pathfinder"
+  },
+  {
+    "CharacterName": "ROB_Red",
+    "AccountName": "RedxFrost",
+    "TeamName": "The Feared",
+    "Level": 95,
+    "Delve": 208,
+    "Rank": 56,
+    "Class": "Trickster"
+  },
+  {
+    "CharacterName": "Cop_WhatsPoppin",
+    "AccountName": "ZidaneOrtef",
+    "TeamName": "The Hidden",
+    "Level": 81,
+    "Delve": 0,
+    "Rank": 418,
+    "Class": "Necromancer"
+  },
+  {
+    "CharacterName": "COP_Aero",
+    "AccountName": "ruemaster",
+    "TeamName": "The Formed",
+    "Level": 84,
+    "Delve": 0,
+    "Rank": 385,
+    "Class": "Chieftain"
+  },
+  {
+    "CharacterName": "ROB_PhilMcKraken",
+    "AccountName": "Kreeshawn",
+    "TeamName": "The Twisted",
+    "Level": 84,
+    "Delve": 0,
+    "Rank": 384,
+    "Class": "Assassin"
+  },
+  {
+    "CharacterName": "ROB_nog",
+    "AccountName": "Noggerrr",
+    "TeamName": "The Feared",
+    "Level": 96,
+    "Delve": 0,
+    "Rank": 33,
+    "Class": "Assassin"
+  },
+  {
+    "CharacterName": "COP_KentaAnimeme",
+    "AccountName": "Lejvingdude",
+    "TeamName": "The Hidden",
+    "Level": 92,
+    "Delve": 0,
+    "Rank": 163,
+    "Class": "Necromancer"
+  },
+  {
+    "CharacterName": "COP_Stofftiger",
+    "AccountName": "Stofft1ger",
+    "TeamName": "The Formed",
+    "Level": 88,
+    "Delve": 60,
+    "Rank": 303,
+    "Class": "Occultist"
+  },
+  {
+    "CharacterName": "ROB_Moop",
+    "AccountName": "Avomath",
+    "TeamName": "The Twisted",
+    "Level": 94,
+    "Delve": 301,
+    "Rank": 98,
+    "Class": "Pathfinder"
+  },
+  {
+    "CharacterName": "ROB_Nifty",
+    "AccountName": "NiftyDolphin",
+    "TeamName": "The Feared",
+    "Level": 86,
+    "Delve": 54,
+    "Rank": 344,
+    "Class": "Saboteur"
+  },
+  {
+    "CharacterName": "COP_conalddrump",
+    "AccountName": "Concentrated32",
+    "TeamName": "The Hidden",
+    "Level": 95,
+    "Delve": 500,
+    "Rank": 75,
+    "Class": "Necromancer"
+  },
+  {
+    "CharacterName": "COP_Syntex",
+    "AccountName": "Synteximus",
+    "TeamName": "The Formed",
+    "Level": 93,
+    "Delve": 101,
+    "Rank": 120,
+    "Class": "Necromancer"
+  },
+  {
+    "CharacterName": "ROB_Memerald",
+    "AccountName": "EmeraldBoy",
+    "TeamName": "The Twisted",
+    "Level": 9,
+    "Delve": 0,
+    "Rank": 750,
+    "Class": "Ranger"
+  },
+  {
+    "CharacterName": "ROB_TheGoat_Eater",
+    "AccountName": "TheGoat_Eater",
+    "TeamName": "The Feared",
+    "Level": 77,
+    "Delve": 0,
+    "Rank": 461,
+    "Class": "Pathfinder"
+  },
+  {
+    "CharacterName": "COP_Shatterz",
+    "AccountName": "ToCh",
+    "TeamName": "The Hidden",
+    "Level": 32,
+    "Delve": 0,
+    "Rank": 658,
+    "Class": "Duelist"
+  },
+  {
+    "CharacterName": "COP_LaCroixBoix",
+    "AccountName": "Shadeyrou",
+    "TeamName": "The Formed",
+    "Level": 58,
+    "Delve": 0,
+    "Rank": 584,
+    "Class": "Gladiator"
+  },
+  {
+    "CharacterName": "ROB_Huan",
+    "AccountName": "goldhuan",
+    "TeamName": "The Twisted",
+    "Level": 84,
+    "Delve": 61,
+    "Rank": 394,
+    "Class": "Trickster"
+  },
+  {
+    "CharacterName": "ROB_Benz",
+    "AccountName": "MiracleFromMars",
+    "TeamName": "The Feared",
+    "Level": 90,
+    "Delve": 61,
+    "Rank": 252,
+    "Class": "Assassin"
+  },
+  {
+    "CharacterName": "COP_phrog",
+    "AccountName": "Luis_8_6",
+    "TeamName": "The Hidden",
+    "Level": 78,
+    "Delve": 0,
+    "Rank": 449,
+    "Class": "Champion"
+  },
+  {
+    "CharacterName": null,
+    "AccountName": "NoNNyNaJa",
+    "TeamName": "The Formed",
+    "Level": 0,
+    "Delve": 0,
+    "Rank": 0,
+    "Class": null
+  },
+  {
+    "CharacterName": "ROB_Dhalinar",
+    "AccountName": "Amunkaidon",
+    "TeamName": "The Twisted",
+    "Level": 91,
+    "Delve": 151,
+    "Rank": 202,
+    "Class": "Trickster"
+  },
+  {
+    "CharacterName": "ROB_TheOriathJob",
+    "AccountName": "Plixt",
+    "TeamName": "The Feared",
+    "Level": 92,
+    "Delve": 85,
+    "Rank": 193,
+    "Class": "Deadeye"
+  },
+  {
+    "CharacterName": "COP_yfeah",
+    "AccountName": "yfeah",
+    "TeamName": "The Hidden",
+    "Level": 95,
+    "Delve": 500,
+    "Rank": 59,
+    "Class": "Occultist"
+  },
+  {
+    "CharacterName": "COP_ZoltanShadow",
+    "AccountName": "ZoltanShadow",
+    "TeamName": "The Formed",
+    "Level": 53,
+    "Delve": 0,
+    "Rank": 593,
+    "Class": "Gladiator"
+  },
+  {
+    "CharacterName": "ROBedThingsAreNowMine",
+    "AccountName": "skyninja13",
+    "TeamName": "The Twisted",
+    "Level": 34,
+    "Delve": 0,
+    "Rank": 648,
+    "Class": "Saboteur"
+  },
+  {
+    "CharacterName": "ROB_Battery",
+    "AccountName": "BatteryChris",
+    "TeamName": "The Feared",
+    "Level": 93,
+    "Delve": 0,
+    "Rank": 131,
+    "Class": "Assassin"
+  },
+  {
+    "CharacterName": null,
+    "AccountName": "fluxables",
+    "TeamName": "The Hidden",
+    "Level": 0,
+    "Delve": 0,
+    "Rank": 0,
+    "Class": null
+  },
+  {
+    "CharacterName": "COP_TimeTravelingPleb",
+    "AccountName": "JovaDragon",
+    "TeamName": "The Formed",
+    "Level": 40,
+    "Delve": 0,
+    "Rank": 632,
+    "Class": "Champion"
+  },
+  {
+    "CharacterName": null,
+    "AccountName": "themadbrad10",
+    "TeamName": "The Twisted",
+    "Level": 0,
+    "Delve": 0,
+    "Rank": 0,
+    "Class": null
+  },
+  {
+    "CharacterName": null,
+    "AccountName": "Echo3",
+    "TeamName": "The Feared",
+    "Level": 0,
+    "Delve": 0,
+    "Rank": 0,
+    "Class": null
+  },
+  {
+    "CharacterName": null,
+    "AccountName": "ReynarCelBazat",
+    "TeamName": "The Hidden",
+    "Level": 0,
+    "Delve": 0,
+    "Rank": 0,
+    "Class": null
+  },
+  {
+    "CharacterName": "COP_supportUnit",
+    "AccountName": "kilamaos",
+    "TeamName": "The Formed",
+    "Level": 81,
+    "Delve": 0,
+    "Rank": 426,
+    "Class": "Ascendant"
+  },
+  {
+    "CharacterName": "ROB_StealYoShii",
+    "AccountName": "rogerdanger",
+    "TeamName": "The Twisted",
+    "Level": 87,
+    "Delve": 0,
+    "Rank": 313,
+    "Class": "Assassin"
+  },
+  {
+    "CharacterName": "ROBHellFrozenRain",
+    "AccountName": "frogmaster82",
+    "TeamName": "The Feared",
+    "Level": 84,
+    "Delve": 39,
+    "Rank": 380,
+    "Class": "Trickster"
+  },
+  {
+    "CharacterName": "COP_Hexachord",
+    "AccountName": "devlinux",
+    "TeamName": "The Hidden",
+    "Level": 33,
+    "Delve": 0,
+    "Rank": 651,
+    "Class": "Occultist"
+  },
+  {
+    "CharacterName": "COP_A_STEEL",
+    "AccountName": "NigBag",
+    "TeamName": "The Formed",
+    "Level": 73,
+    "Delve": 0,
+    "Rank": 493,
+    "Class": "Champion"
+  },
+  {
+    "CharacterName": "ROB_SlickRick",
+    "AccountName": "KawaiiAF",
+    "TeamName": "The Twisted",
+    "Level": 69,
+    "Delve": 0,
+    "Rank": 522,
+    "Class": "Hierophant"
+  },
+  {
+    "CharacterName": "ROB_Dmonic",
+    "AccountName": "DmonicGamer",
+    "TeamName": "The Feared",
+    "Level": 41,
+    "Delve": 0,
+    "Rank": 629,
+    "Class": "Trickster"
+  },
+  {
+    "CharacterName": null,
+    "AccountName": "Critator",
+    "TeamName": "The Hidden",
+    "Level": 0,
+    "Delve": 0,
+    "Rank": 0,
+    "Class": null
+  },
+  {
+    "CharacterName": "COP_Gn",
+    "AccountName": "Gavinator42",
+    "TeamName": "The Formed",
+    "Level": 97,
+    "Delve": 163,
+    "Rank": 23,
+    "Class": "Necromancer"
+  },
+  {
+    "CharacterName": "ROB_Sven",
+    "AccountName": "Sven42",
+    "TeamName": "The Twisted",
+    "Level": 96,
+    "Delve": 0,
+    "Rank": 51,
+    "Class": "Ascendant"
+  },
+  {
+    "CharacterName": "ROB_Flikom",
+    "AccountName": "AtomTiger",
+    "TeamName": "The Feared",
+    "Level": 96,
+    "Delve": 168,
+    "Rank": 48,
+    "Class": "Deadeye"
+  },
+  {
+    "CharacterName": "COP_Lux_Eterna",
+    "AccountName": "V1kingsfan",
+    "TeamName": "The Hidden",
+    "Level": 92,
+    "Delve": 113,
+    "Rank": 162,
+    "Class": "Gladiator"
+  },
+  {
+    "CharacterName": "COP_blank",
+    "AccountName": "ennryuu",
+    "TeamName": "The Formed",
+    "Level": 81,
+    "Delve": 62,
+    "Rank": 419,
+    "Class": "Elementalist"
+  },
+  {
+    "CharacterName": "ROB_Sunset",
+    "AccountName": "Nuppu",
+    "TeamName": "The Twisted",
+    "Level": 90,
+    "Delve": 126,
+    "Rank": 238,
+    "Class": "Inquisitor"
+  },
+  {
+    "CharacterName": "ROB_Feir",
+    "AccountName": "FeirMe",
+    "TeamName": "The Feared",
+    "Level": 48,
+    "Delve": 0,
+    "Rank": 599,
+    "Class": "Assassin"
+  },
+  {
+    "CharacterName": "COP_LaSpesaSeiTu",
+    "AccountName": "allevart88",
+    "TeamName": "The Hidden",
+    "Level": 91,
+    "Delve": 155,
+    "Rank": 218,
+    "Class": "Occultist"
+  },
+  {
+    "CharacterName": "COP_DogPOG",
+    "AccountName": "rumblestrips",
+    "TeamName": "The Formed",
+    "Level": 85,
+    "Delve": 69,
+    "Rank": 368,
+    "Class": "Necromancer"
+  },
+  {
+    "CharacterName": null,
+    "AccountName": "bonespurr",
+    "TeamName": "The Twisted",
+    "Level": 0,
+    "Delve": 0,
+    "Rank": 0,
+    "Class": null
+  },
+  {
+    "CharacterName": "ROB_diggz",
+    "AccountName": "diggzBL",
+    "TeamName": "The Feared",
+    "Level": 96,
+    "Delve": 502,
+    "Rank": 46,
+    "Class": "Trickster"
+  },
+  {
+    "CharacterName": "COP_urmom",
+    "AccountName": "Brindy11",
+    "TeamName": "The Hidden",
+    "Level": 23,
+    "Delve": 0,
+    "Rank": 696,
+    "Class": "Scion"
+  },
+  {
+    "CharacterName": "COP_EEOEOEOEO",
+    "AccountName": "eshketite",
+    "TeamName": "The Formed",
+    "Level": 8,
+    "Delve": 0,
+    "Rank": 753,
+    "Class": "Marauder"
+  },
+  {
+    "CharacterName": "ROB_le_tox",
+    "AccountName": "halo1v2",
+    "TeamName": "The Twisted",
+    "Level": 76,
+    "Delve": 39,
+    "Rank": 466,
+    "Class": "Pathfinder"
+  },
+  {
+    "CharacterName": null,
+    "AccountName": "Emanuel9119",
+    "TeamName": "The Feared",
+    "Level": 0,
+    "Delve": 0,
+    "Rank": 0,
+    "Class": null
+  },
+  {
+    "CharacterName": "COP_ChocoTotemZ",
+    "AccountName": "kacleec",
+    "TeamName": "The Hidden",
+    "Level": 92,
+    "Delve": 89,
+    "Rank": 152,
+    "Class": "Chieftain"
+  },
+  {
+    "CharacterName": "COP_Redn_MonkaS",
+    "AccountName": "TheGamingOfDemons",
+    "TeamName": "The Formed",
+    "Level": 95,
+    "Delve": 173,
+    "Rank": 77,
+    "Class": "Champion"
+  },
+  {
+    "CharacterName": null,
+    "AccountName": "iMAracCoon",
+    "TeamName": "The Twisted",
+    "Level": 0,
+    "Delve": 0,
+    "Rank": 0,
+    "Class": null
+  },
+  {
+    "CharacterName": null,
+    "AccountName": "Boatingeon",
+    "TeamName": "The Feared",
+    "Level": 0,
+    "Delve": 0,
+    "Rank": 0,
+    "Class": null
+  },
+  {
+    "CharacterName": "COP_Armando_Owen_Bailey",
+    "AccountName": "Adelena",
+    "TeamName": "The Hidden",
+    "Level": 94,
+    "Delve": 154,
+    "Rank": 103,
+    "Class": "Berserker"
+  },
+  {
+    "CharacterName": "COP_Meem",
+    "AccountName": "meemorize",
+    "TeamName": "The Formed",
+    "Level": 81,
+    "Delve": 0,
+    "Rank": 415,
+    "Class": "Necromancer"
+  },
+  {
+    "CharacterName": "ROB_ShockingScrooge",
+    "AccountName": "DerFlau",
+    "TeamName": "The Twisted",
+    "Level": 88,
+    "Delve": 59,
+    "Rank": 298,
+    "Class": "Pathfinder"
+  },
+  {
+    "CharacterName": "Rob_ShockEx",
+    "AccountName": "Firecloud",
+    "TeamName": "The Feared",
+    "Level": 58,
+    "Delve": 0,
+    "Rank": 583,
+    "Class": "Pathfinder"
+  },
+  {
+    "CharacterName": null,
+    "AccountName": "oniblah",
+    "TeamName": "The Hidden",
+    "Level": 0,
+    "Delve": 0,
+    "Rank": 0,
+    "Class": null
+  },
+  {
+    "CharacterName": "COP______p_______",
+    "AccountName": "Dreadgrave22",
+    "TeamName": "The Formed",
+    "Level": 88,
+    "Delve": 67,
+    "Rank": 308,
+    "Class": "Necromancer"
+  },
+  {
+    "CharacterName": "ROB_Krohalt",
+    "AccountName": "Krohalt",
+    "TeamName": "The Twisted",
+    "Level": 1,
+    "Delve": 0,
+    "Rank": 848,
+    "Class": "Invalid Class (Duelist)"
+  },
+  {
+    "CharacterName": "ROB_defq",
+    "AccountName": "defQ",
+    "TeamName": "The Feared",
+    "Level": 78,
+    "Delve": 0,
+    "Rank": 451,
+    "Class": "Saboteur"
+  },
+  {
+    "CharacterName": "COP_Derpstar",
+    "AccountName": "scscofield4200",
+    "TeamName": "The Hidden",
+    "Level": 69,
+    "Delve": 0,
+    "Rank": 526,
+    "Class": "Gladiator"
+  },
+  {
+    "CharacterName": null,
+    "AccountName": "muximusic",
+    "TeamName": "The Formed",
+    "Level": 0,
+    "Delve": 0,
+    "Rank": 0,
+    "Class": null
+  },
+  {
+    "CharacterName": null,
+    "AccountName": "impurfect",
+    "TeamName": "The Twisted",
+    "Level": 0,
+    "Delve": 0,
+    "Rank": 0,
+    "Class": null
+  },
+  {
+    "CharacterName": null,
+    "AccountName": "bulbostas",
+    "TeamName": "The Feared",
+    "Level": 0,
+    "Delve": 0,
+    "Rank": 0,
+    "Class": null
+  },
+  {
+    "CharacterName": "COP_Heist_EleBoi",
+    "AccountName": "smallpurplemonjk",
+    "TeamName": "The Hidden",
+    "Level": 87,
+    "Delve": 76,
+    "Rank": 323,
+    "Class": "Elementalist"
+  },
+  {
+    "CharacterName": "COP_BleedusMaximus",
+    "AccountName": "tyronis2",
+    "TeamName": "The Formed",
+    "Level": 64,
+    "Delve": 0,
+    "Rank": 565,
+    "Class": "Gladiator"
+  },
+  {
+    "CharacterName": "ROB_TotemsGoPew",
+    "AccountName": "Reoshin",
+    "TeamName": "The Twisted",
+    "Level": 2,
+    "Delve": 0,
+    "Rank": 769,
+    "Class": "Templar"
+  },
+  {
+    "CharacterName": null,
+    "AccountName": "Itacheey",
+    "TeamName": "The Feared",
+    "Level": 0,
+    "Delve": 0,
+    "Rank": 0,
+    "Class": null
+  },
+  {
+    "CharacterName": "BerCOPzerCOPker",
+    "AccountName": "Terran212",
+    "TeamName": "The Hidden",
+    "Level": 22,
+    "Delve": 0,
+    "Rank": 698,
+    "Class": "Marauder"
+  },
+  {
+    "CharacterName": "COP_Pantsu",
+    "AccountName": "Jobo",
+    "TeamName": "The Formed",
+    "Level": 95,
+    "Delve": 141,
+    "Rank": 83,
+    "Class": "Necromancer"
+  },
+  {
+    "CharacterName": "ROB_LightningSitor",
+    "AccountName": "NAM_000",
+    "TeamName": "The Twisted",
+    "Level": 22,
+    "Delve": 0,
+    "Rank": 699,
+    "Class": "Templar"
+  },
+  {
+    "CharacterName": "Rob_Schneider",
+    "AccountName": "bcforever12",
+    "TeamName": "The Feared",
+    "Level": 74,
+    "Delve": 0,
+    "Rank": 485,
+    "Class": "Assassin"
+  },
+  {
+    "CharacterName": "COP_Theefie",
+    "AccountName": "Theefie",
+    "TeamName": "The Hidden",
+    "Level": 18,
+    "Delve": 0,
+    "Rank": 716,
+    "Class": "Duelist"
+  },
+  {
+    "CharacterName": "COP_Saltri_Bane",
+    "AccountName": "babarosoersej",
+    "TeamName": "The Formed",
+    "Level": 98,
+    "Delve": 0,
+    "Rank": 12,
+    "Class": "Occultist"
+  },
+  {
+    "CharacterName": "ROB_BerS_XXVII",
+    "AccountName": "SB27",
+    "TeamName": "The Twisted",
+    "Level": 95,
+    "Delve": 350,
+    "Rank": 76,
+    "Class": "Assassin"
+  },
+  {
+    "CharacterName": "ROB_EvisLuceraElite",
+    "AccountName": "x64Unicorn",
+    "TeamName": "The Feared",
+    "Level": 84,
+    "Delve": 0,
+    "Rank": 386,
+    "Class": "Assassin"
+  },
+  {
+    "CharacterName": "wathefuckman",
+    "AccountName": "Opsz",
+    "TeamName": "The Hidden",
+    "Level": 14,
+    "Delve": 0,
+    "Rank": 731,
+    "Class": "Invalid Class (Shadow)"
+  },
+  {
+    "CharacterName": null,
+    "AccountName": "Ateya",
+    "TeamName": "The Formed",
+    "Level": 0,
+    "Delve": 0,
+    "Rank": 0,
+    "Class": null
+  },
+  {
+    "CharacterName": null,
+    "AccountName": "TaylorSwift123",
+    "TeamName": "The Twisted",
+    "Level": 0,
+    "Delve": 0,
+    "Rank": 0,
+    "Class": null
+  },
+  {
+    "CharacterName": "ROB_ChooBaka",
+    "AccountName": "AWildChooBaka",
+    "TeamName": "The Feared",
+    "Level": 86,
+    "Delve": 57,
+    "Rank": 354,
+    "Class": "Hierophant"
+  },
+  {
+    "CharacterName": null,
+    "AccountName": "mrsandwiches",
+    "TeamName": "The Hidden",
+    "Level": 0,
+    "Delve": 0,
+    "Rank": 0,
+    "Class": null
+  },
+  {
+    "CharacterName": "ROB_shadowkitty",
+    "AccountName": "shadowpantera",
+    "TeamName": "The Formed",
+    "Level": 83,
+    "Delve": 0,
+    "Rank": 400,
+    "Class": "Invalid Class (Trickster)"
+  },
+  {
+    "CharacterName": null,
+    "AccountName": "background58",
+    "TeamName": "The Twisted",
+    "Level": 0,
+    "Delve": 0,
+    "Rank": 0,
+    "Class": null
+  },
+  {
+    "CharacterName": "ROB_ToteBag",
+    "AccountName": "collossusmd",
+    "TeamName": "The Feared",
+    "Level": 66,
+    "Delve": 0,
+    "Rank": 550,
+    "Class": "Hierophant"
+  },
+  {
+    "CharacterName": "COPS_SaveMe",
+    "AccountName": "DieAmosTrask",
+    "TeamName": "The Hidden",
+    "Level": 36,
+    "Delve": 0,
+    "Rank": 642,
+    "Class": "Witch"
+  },
+  {
+    "CharacterName": "COP_Bonk",
+    "AccountName": "CptnHaddok17",
+    "TeamName": "The Formed",
+    "Level": 22,
+    "Delve": 0,
+    "Rank": 700,
+    "Class": "Duelist"
+  },
+  {
+    "CharacterName": "ROB_situ",
+    "AccountName": "MrCobbled",
+    "TeamName": "The Twisted",
+    "Level": 97,
+    "Delve": 502,
+    "Rank": 19,
+    "Class": "Trickster"
+  },
+  {
+    "CharacterName": "ROB_BVRuin",
+    "AccountName": "BrokenRuin",
+    "TeamName": "The Feared",
+    "Level": 91,
+    "Delve": 104,
+    "Rank": 220,
+    "Class": "Assassin"
+  },
+  {
+    "CharacterName": "COP_TripleAgentLvii",
+    "AccountName": "Lvii",
+    "TeamName": "The Hidden",
+    "Level": 76,
+    "Delve": 0,
+    "Rank": 469,
+    "Class": "Gladiator"
+  },
+  {
+    "CharacterName": null,
+    "AccountName": "thygodofwar",
+    "TeamName": "The Formed",
+    "Level": 0,
+    "Delve": 0,
+    "Rank": 0,
+    "Class": null
+  },
+  {
+    "CharacterName": "ROB_Lumpy",
+    "AccountName": "Atroophy",
+    "TeamName": "The Twisted",
+    "Level": 11,
+    "Delve": 0,
+    "Rank": 744,
+    "Class": "Ranger"
+  },
+  {
+    "CharacterName": "ROB_WillemWander",
+    "AccountName": "MrCuddlesJr",
+    "TeamName": "The Feared",
+    "Level": 86,
+    "Delve": 74,
+    "Rank": 355,
+    "Class": "Assassin"
+  },
+  {
+    "CharacterName": "COP_Andi",
+    "AccountName": "Enditoren",
+    "TeamName": "The Hidden",
+    "Level": 68,
+    "Delve": 0,
+    "Rank": 535,
+    "Class": "Champion"
+  },
+  {
+    "CharacterName": "COP_fekko",
+    "AccountName": "fekko11",
+    "TeamName": "The Formed",
+    "Level": 69,
+    "Delve": 0,
+    "Rank": 519,
+    "Class": "Necromancer"
+  },
+  {
+    "CharacterName": "ROB_flickerorsmthnidk",
+    "AccountName": "GitGudScrubs",
+    "TeamName": "The Twisted",
+    "Level": 24,
+    "Delve": 0,
+    "Rank": 691,
+    "Class": "Scion"
+  },
+  {
+    "CharacterName": "ROB_FLICKER",
+    "AccountName": "falconandeagle",
+    "TeamName": "The Feared",
+    "Level": 79,
+    "Delve": 0,
+    "Rank": 444,
+    "Class": "Raider"
+  },
+  {
+    "CharacterName": "COP_CasualPlayerxd",
+    "AccountName": "Kuruma_hey",
+    "TeamName": "The Hidden",
+    "Level": 86,
+    "Delve": 0,
+    "Rank": 360,
+    "Class": "Gladiator"
+  },
+  {
+    "CharacterName": null,
+    "AccountName": "A_Sofa",
+    "TeamName": "The Formed",
+    "Level": 0,
+    "Delve": 0,
+    "Rank": 0,
+    "Class": null
+  },
+  {
+    "CharacterName": "ROB_OminnBladez",
+    "AccountName": "StarZero81",
+    "TeamName": "The Twisted",
+    "Level": 80,
+    "Delve": 0,
+    "Rank": 431,
+    "Class": "Assassin"
+  },
+  {
+    "CharacterName": "ROB_stealyourheart",
+    "AccountName": "rschnurr",
+    "TeamName": "The Feared",
+    "Level": 96,
+    "Delve": 167,
+    "Rank": 27,
+    "Class": "Trickster"
+  },
+  {
+    "CharacterName": "COP_Naysayer",
+    "AccountName": "Naysasyer",
+    "TeamName": "The Hidden",
+    "Level": 87,
+    "Delve": 0,
+    "Rank": 311,
+    "Class": "Occultist"
+  },
+  {
+    "CharacterName": null,
+    "AccountName": "6852603",
+    "TeamName": "The Formed",
+    "Level": 0,
+    "Delve": 0,
+    "Rank": 0,
+    "Class": null
+  },
+  {
+    "CharacterName": "ROB_Richie",
+    "AccountName": "LilRichie",
+    "TeamName": "The Twisted",
+    "Level": 10,
+    "Delve": 0,
+    "Rank": 748,
+    "Class": "Scion"
+  },
+  {
+    "CharacterName": "ROB_Shardstorm",
+    "AccountName": "Toto00",
+    "TeamName": "The Feared",
+    "Level": 90,
+    "Delve": 0,
+    "Rank": 248,
+    "Class": "Raider"
+  },
+  {
+    "CharacterName": null,
+    "AccountName": "Mr_facebeef",
+    "TeamName": "The Hidden",
+    "Level": 0,
+    "Delve": 0,
+    "Rank": 0,
+    "Class": null
+  },
+  {
+    "CharacterName": null,
+    "AccountName": "Somedankmeme",
+    "TeamName": "The Formed",
+    "Level": 0,
+    "Delve": 0,
+    "Rank": 0,
+    "Class": null
+  },
+  {
+    "CharacterName": "ROB_ExplosiveㆍPepperoni",
+    "AccountName": "sorceone23",
+    "TeamName": "The Twisted",
+    "Level": 83,
+    "Delve": 0,
+    "Rank": 401,
+    "Class": "Saboteur"
+  },
+  {
+    "CharacterName": "ROB_Bastey",
+    "AccountName": "GoIdenicesword",
+    "TeamName": "The Feared",
+    "Level": 26,
+    "Delve": 0,
+    "Rank": 686,
+    "Class": "Templar"
+  },
+  {
+    "CharacterName": null,
+    "AccountName": "d2kat",
+    "TeamName": "The Hidden",
+    "Level": 0,
+    "Delve": 0,
+    "Rank": 0,
+    "Class": null
+  },
+  {
+    "CharacterName": "COP_Kopp",
+    "AccountName": "Yochoto",
+    "TeamName": "The Formed",
+    "Level": 64,
+    "Delve": 0,
+    "Rank": 562,
+    "Class": "Chieftain"
+  },
+  {
+    "CharacterName": null,
+    "AccountName": "ntest",
+    "TeamName": "The Twisted",
+    "Level": 0,
+    "Delve": 0,
+    "Rank": 0,
+    "Class": null
+  },
+  {
+    "CharacterName": "ROB_Yakuzachan",
+    "AccountName": "Yakuzachan",
+    "TeamName": "The Feared",
+    "Level": 93,
+    "Delve": 153,
+    "Rank": 146,
+    "Class": "Hierophant"
+  },
+  {
+    "CharacterName": null,
+    "AccountName": "Parat0xic",
+    "TeamName": "The Hidden",
+    "Level": 0,
+    "Delve": 0,
+    "Rank": 0,
+    "Class": null
+  },
+  {
+    "CharacterName": "COP_GigaCyclone",
+    "AccountName": "The_Addict",
+    "TeamName": "The Formed",
+    "Level": 97,
+    "Delve": 300,
+    "Rank": 16,
+    "Class": "Gladiator"
+  },
+  {
+    "CharacterName": "ROB_binTheBlock",
+    "AccountName": "GunpowderGolem",
+    "TeamName": "The Twisted",
+    "Level": 18,
+    "Delve": 0,
+    "Rank": 718,
+    "Class": "Ranger"
+  },
+  {
+    "CharacterName": "ROB_CopsPayDouble",
+    "AccountName": "TheCidDynasty",
+    "TeamName": "The Feared",
+    "Level": 92,
+    "Delve": 108,
+    "Rank": 184,
+    "Class": "Ascendant"
+  },
+  {
+    "CharacterName": "COP_ButMyNameIsRob",
+    "AccountName": "BingoWasHisNamo",
+    "TeamName": "The Hidden",
+    "Level": 61,
+    "Delve": 0,
+    "Rank": 572,
+    "Class": "Necromancer"
+  },
+  {
+    "CharacterName": "COP_slamclam",
+    "AccountName": "attila25",
+    "TeamName": "The Formed",
+    "Level": 31,
+    "Delve": 0,
+    "Rank": 660,
+    "Class": "Duelist"
+  },
+  {
+    "CharacterName": "ROB_Rascus",
+    "AccountName": "_Rafiki_",
+    "TeamName": "The Twisted",
+    "Level": 88,
+    "Delve": 0,
+    "Rank": 286,
+    "Class": "Trickster"
+  },
+  {
+    "CharacterName": "ROB_Jojo",
+    "AccountName": "Jojo1337a",
+    "TeamName": "The Feared",
+    "Level": 94,
+    "Delve": 154,
+    "Rank": 90,
+    "Class": "Guardian"
+  },
+  {
+    "CharacterName": "COP_Nedisa",
+    "AccountName": "Nedisa",
+    "TeamName": "The Hidden",
+    "Level": 94,
+    "Delve": 0,
+    "Rank": 86,
+    "Class": "Champion"
+  },
+  {
+    "CharacterName": "COP_DoctorClide",
+    "AccountName": "clide701",
+    "TeamName": "The Formed",
+    "Level": 88,
+    "Delve": 0,
+    "Rank": 292,
+    "Class": "Champion"
+  },
+  {
+    "CharacterName": null,
+    "AccountName": "Eryin",
+    "TeamName": "The Twisted",
+    "Level": 0,
+    "Delve": 0,
+    "Rank": 0,
+    "Class": null
+  },
+  {
+    "CharacterName": null,
+    "AccountName": "zNick",
+    "TeamName": "The Feared",
+    "Level": 0,
+    "Delve": 0,
+    "Rank": 0,
+    "Class": null
+  },
+  {
+    "CharacterName": "COP_Stoids",
+    "AccountName": "ksaldana1",
+    "TeamName": "The Hidden",
+    "Level": 88,
+    "Delve": 88,
+    "Rank": 289,
+    "Class": "Occultist"
+  },
+  {
+    "CharacterName": "COP_Toko",
+    "AccountName": "Tokogaru",
+    "TeamName": "The Formed",
+    "Level": 70,
+    "Delve": 0,
+    "Rank": 513,
+    "Class": "Elementalist"
+  },
+  {
+    "CharacterName": "ROB_Scribbler",
+    "AccountName": "ErnestScribbler",
+    "TeamName": "The Twisted",
+    "Level": 96,
+    "Delve": 205,
+    "Rank": 50,
+    "Class": "Assassin"
+  },
+  {
+    "CharacterName": null,
+    "AccountName": "Shadow9519",
+    "TeamName": "The Feared",
+    "Level": 0,
+    "Delve": 0,
+    "Rank": 0,
+    "Class": null
+  },
+  {
+    "CharacterName": "COPS_are_COPS",
+    "AccountName": "PartyLeoo",
+    "TeamName": "The Hidden",
+    "Level": 79,
+    "Delve": 0,
+    "Rank": 443,
+    "Class": "Chieftain"
+  },
+  {
+    "CharacterName": "copsfgdsdsh",
+    "AccountName": "ViPer912",
+    "TeamName": "The Formed",
+    "Level": 28,
+    "Delve": 0,
+    "Rank": 669,
+    "Class": "Duelist"
+  },
+  {
+    "CharacterName": "ROB_OldWay",
+    "AccountName": "ChristianoManu",
+    "TeamName": "The Twisted",
+    "Level": 86,
+    "Delve": 0,
+    "Rank": 356,
+    "Class": "Trickster"
+  },
+  {
+    "CharacterName": "ROB_StealsYourGF",
+    "AccountName": "He4dh0t",
+    "TeamName": "The Feared",
+    "Level": 88,
+    "Delve": 0,
+    "Rank": 307,
+    "Class": "Saboteur"
+  },
+  {
+    "CharacterName": "COP_ividito",
+    "AccountName": "ividito",
+    "TeamName": "The Hidden",
+    "Level": 86,
+    "Delve": 0,
+    "Rank": 357,
+    "Class": "Champion"
+  },
+  {
+    "CharacterName": "COP_TranceBlastr",
+    "AccountName": "Tranceblastr",
+    "TeamName": "The Formed",
+    "Level": 73,
+    "Delve": 0,
+    "Rank": 491,
+    "Class": "Ascendant"
+  },
+  {
+    "CharacterName": "ROB_Worly",
+    "AccountName": "Worly97",
+    "TeamName": "The Twisted",
+    "Level": 90,
+    "Delve": 78,
+    "Rank": 229,
+    "Class": "Assassin"
+  },
+  {
+    "CharacterName": "ROB_TkTx",
+    "AccountName": "TkLucifer",
+    "TeamName": "The Feared",
+    "Level": 22,
+    "Delve": 0,
+    "Rank": 701,
+    "Class": "Ranger"
+  },
+  {
+    "CharacterName": "Cop_Pepperus_Impale",
+    "AccountName": "gemador",
+    "TeamName": "The Hidden",
+    "Level": 92,
+    "Delve": 0,
+    "Rank": 176,
+    "Class": "Champion"
+  },
+  {
+    "CharacterName": "COPSteli",
+    "AccountName": "Steliosa",
+    "TeamName": "The Formed",
+    "Level": 92,
+    "Delve": 111,
+    "Rank": 158,
+    "Class": "Necromancer"
+  },
+  {
+    "CharacterName": null,
+    "AccountName": "levus2002",
+    "TeamName": "The Twisted",
+    "Level": 0,
+    "Delve": 0,
+    "Rank": 0,
+    "Class": null
+  },
+  {
+    "CharacterName": "ROB_Warrif",
+    "AccountName": "Jolii",
+    "TeamName": "The Feared",
+    "Level": 85,
+    "Delve": 50,
+    "Rank": 374,
+    "Class": "Hierophant"
+  },
+  {
+    "CharacterName": null,
+    "AccountName": "funsize123",
+    "TeamName": "The Hidden",
+    "Level": 0,
+    "Delve": 0,
+    "Rank": 0,
+    "Class": null
+  },
+  {
+    "CharacterName": "COP_Hollow",
+    "AccountName": "deathbat17",
+    "TeamName": "The Formed",
+    "Level": 86,
+    "Delve": 0,
+    "Rank": 351,
+    "Class": "Necromancer"
+  },
+  {
+    "CharacterName": "ROB_O_COP",
+    "AccountName": "Kroohpyyh",
+    "TeamName": "The Twisted",
+    "Level": 97,
+    "Delve": 500,
+    "Rank": 18,
+    "Class": "Trickster"
+  },
+  {
+    "CharacterName": "ROB_ShotsFired",
+    "AccountName": "Ranmun",
+    "TeamName": "The Feared",
+    "Level": 52,
+    "Delve": 0,
+    "Rank": 596,
+    "Class": "Trickster"
+  },
+  {
+    "CharacterName": "COP_CandN",
+    "AccountName": "CandN",
+    "TeamName": "The Hidden",
+    "Level": 76,
+    "Delve": 0,
+    "Rank": 471,
+    "Class": "Champion"
+  },
+  {
+    "CharacterName": null,
+    "AccountName": "Macabre15",
+    "TeamName": "The Formed",
+    "Level": 0,
+    "Delve": 0,
+    "Rank": 0,
+    "Class": null
+  },
+  {
+    "CharacterName": null,
+    "AccountName": "Vettros",
+    "TeamName": "The Twisted",
+    "Level": 0,
+    "Delve": 0,
+    "Rank": 0,
+    "Class": null
+  },
+  {
+    "CharacterName": null,
+    "AccountName": "Ewombed",
+    "TeamName": "The Feared",
+    "Level": 0,
+    "Delve": 0,
+    "Rank": 0,
+    "Class": null
+  },
+  {
+    "CharacterName": "COP_Velandriss",
+    "AccountName": "Velandriss",
+    "TeamName": "The Hidden",
+    "Level": 59,
+    "Delve": 0,
+    "Rank": 579,
+    "Class": "Champion"
+  },
+  {
+    "CharacterName": "Haller_Bleed",
+    "AccountName": "HarryHaller",
+    "TeamName": "The Formed",
+    "Level": 23,
+    "Delve": 0,
+    "Rank": 697,
+    "Class": "Duelist"
+  },
+  {
+    "CharacterName": "ROB_TheDong",
+    "AccountName": "TheDongerKing",
+    "TeamName": "The Twisted",
+    "Level": 89,
+    "Delve": 0,
+    "Rank": 279,
+    "Class": "Deadeye"
+  },
+  {
+    "CharacterName": "ROB_inHOOD_ACAB",
+    "AccountName": "Hotzeblotz",
+    "TeamName": "The Feared",
+    "Level": 86,
+    "Delve": 64,
+    "Rank": 353,
+    "Class": "Saboteur"
+  },
+  {
+    "CharacterName": null,
+    "AccountName": "pattycakin",
+    "TeamName": "The Hidden",
+    "Level": 0,
+    "Delve": 0,
+    "Rank": 0,
+    "Class": null
+  },
+  {
+    "CharacterName": null,
+    "AccountName": "cwcdd",
+    "TeamName": "The Formed",
+    "Level": 0,
+    "Delve": 0,
+    "Rank": 0,
+    "Class": null
+  },
+  {
+    "CharacterName": "ROB_Valynas",
+    "AccountName": "VaporGoose",
+    "TeamName": "The Twisted",
+    "Level": 88,
+    "Delve": 67,
+    "Rank": 302,
+    "Class": "Guardian"
+  },
+  {
+    "CharacterName": null,
+    "AccountName": "Garf412",
+    "TeamName": "The Feared",
+    "Level": 0,
+    "Delve": 0,
+    "Rank": 0,
+    "Class": null
+  },
+  {
+    "CharacterName": "COP_Kaiser",
+    "AccountName": "DarknessCross",
+    "TeamName": "The Hidden",
+    "Level": 87,
+    "Delve": 43,
+    "Rank": 320,
+    "Class": "Champion"
+  },
+  {
+    "CharacterName": "COP_MojoBonk",
+    "AccountName": "LittlemojoFL",
+    "TeamName": "The Formed",
+    "Level": 96,
+    "Delve": 500,
+    "Rank": 49,
+    "Class": "Champion"
+  },
+  {
+    "CharacterName": null,
+    "AccountName": "Gangplonk",
+    "TeamName": "The Twisted",
+    "Level": 0,
+    "Delve": 0,
+    "Rank": 0,
+    "Class": null
+  },
+  {
+    "CharacterName": "ROB_Gaz",
+    "AccountName": "lilmadsen91",
+    "TeamName": "The Feared",
+    "Level": 81,
+    "Delve": 41,
+    "Rank": 427,
+    "Class": "Saboteur"
+  },
+  {
+    "CharacterName": null,
+    "AccountName": "Emrico",
+    "TeamName": "The Hidden",
+    "Level": 0,
+    "Delve": 0,
+    "Rank": 0,
+    "Class": null
+  },
+  {
+    "CharacterName": "COP_dekstert",
+    "AccountName": "dekster116",
+    "TeamName": "The Formed",
+    "Level": 84,
+    "Delve": 0,
+    "Rank": 388,
+    "Class": "Gladiator"
+  },
+  {
+    "CharacterName": "ROB_drum",
+    "AccountName": "drumbeldore",
+    "TeamName": "The Twisted",
+    "Level": 83,
+    "Delve": 41,
+    "Rank": 397,
+    "Class": "Trickster"
+  },
+  {
+    "CharacterName": null,
+    "AccountName": "juv3nile",
+    "TeamName": "The Feared",
+    "Level": 0,
+    "Delve": 0,
+    "Rank": 0,
+    "Class": null
+  },
+  {
+    "CharacterName": "COP_Tibenac_BL",
+    "AccountName": "ChipolaThug",
+    "TeamName": "The Hidden",
+    "Level": 80,
+    "Delve": 0,
+    "Rank": 439,
+    "Class": "Ascendant"
+  },
+  {
+    "CharacterName": "COP_BoyfriendsBBC",
+    "AccountName": "Glundandra",
+    "TeamName": "The Formed",
+    "Level": 77,
+    "Delve": 0,
+    "Rank": 457,
+    "Class": "Chieftain"
+  },
+  {
+    "CharacterName": "ROB_haseh",
+    "AccountName": "Haseh",
+    "TeamName": "The Twisted",
+    "Level": 82,
+    "Delve": 0,
+    "Rank": 413,
+    "Class": "Ascendant"
+  },
+  {
+    "CharacterName": "ROB_Sae",
+    "AccountName": "Seikah",
+    "TeamName": "The Feared",
+    "Level": 95,
+    "Delve": 179,
+    "Rank": 67,
+    "Class": "Deadeye"
+  },
+  {
+    "CharacterName": null,
+    "AccountName": "Deskroid",
+    "TeamName": "The Hidden",
+    "Level": 0,
+    "Delve": 0,
+    "Rank": 0,
+    "Class": null
+  },
+  {
+    "CharacterName": null,
+    "AccountName": "o0serenity0o",
+    "TeamName": "The Formed",
+    "Level": 0,
+    "Delve": 0,
+    "Rank": 0,
+    "Class": null
+  },
+  {
+    "CharacterName": "ROB_Spell",
+    "AccountName": "spellqq",
+    "TeamName": "The Twisted",
+    "Level": 98,
+    "Delve": 401,
+    "Rank": 11,
+    "Class": "Assassin"
+  },
+  {
+    "CharacterName": null,
+    "AccountName": "Sakasare99",
+    "TeamName": "The Feared",
+    "Level": 0,
+    "Delve": 0,
+    "Rank": 0,
+    "Class": null
+  },
+  {
+    "CharacterName": "COPerManSuited",
+    "AccountName": "fralse",
+    "TeamName": "The Hidden",
+    "Level": 82,
+    "Delve": 54,
+    "Rank": 407,
+    "Class": "Gladiator"
+  },
+  {
+    "CharacterName": "COP_QeBooN",
+    "AccountName": "BeQooN",
+    "TeamName": "The Formed",
+    "Level": 93,
+    "Delve": 121,
+    "Rank": 116,
+    "Class": "Elementalist"
+  },
+  {
+    "CharacterName": "ROB_SwiperAintSwiping",
+    "AccountName": "gadgetgrabber",
+    "TeamName": "The Twisted",
+    "Level": 92,
+    "Delve": 52,
+    "Rank": 179,
+    "Class": "Trickster"
+  },
+  {
+    "CharacterName": null,
+    "AccountName": "BoshyTime",
+    "TeamName": "The Feared",
+    "Level": 0,
+    "Delve": 0,
+    "Rank": 0,
+    "Class": null
+  },
+  {
+    "CharacterName": null,
+    "AccountName": "fall3nark",
+    "TeamName": "The Hidden",
+    "Level": 0,
+    "Delve": 0,
+    "Rank": 0,
+    "Class": null
+  },
+  {
+    "CharacterName": "COP_BORN",
+    "AccountName": "Bornslay3r",
+    "TeamName": "The Formed",
+    "Level": 91,
+    "Delve": 83,
+    "Rank": 222,
+    "Class": "Ascendant"
+  },
+  {
+    "CharacterName": null,
+    "AccountName": "Cl4yer",
+    "TeamName": "The Twisted",
+    "Level": 0,
+    "Delve": 0,
+    "Rank": 0,
+    "Class": null
+  },
+  {
+    "CharacterName": "ROB_eisrep",
+    "AccountName": "Eisrep",
+    "TeamName": "The Feared",
+    "Level": 84,
+    "Delve": 0,
+    "Rank": 389,
+    "Class": "Trickster"
+  },
+  {
+    "CharacterName": null,
+    "AccountName": "Serikonda",
+    "TeamName": "The Hidden",
+    "Level": 0,
+    "Delve": 0,
+    "Rank": 0,
+    "Class": null
+  },
+  {
+    "CharacterName": "COP_Doxxa",
+    "AccountName": "NenanjaRatkovic",
+    "TeamName": "The Formed",
+    "Level": 77,
+    "Delve": 0,
+    "Rank": 459,
+    "Class": "Occultist"
+  },
+  {
+    "CharacterName": null,
+    "AccountName": "Ivory_Fitz",
+    "TeamName": "The Twisted",
+    "Level": 0,
+    "Delve": 0,
+    "Rank": 0,
+    "Class": null
+  },
+  {
+    "CharacterName": "ROB_Cookie",
+    "AccountName": "ProfessorCookie",
+    "TeamName": "The Feared",
+    "Level": 19,
+    "Delve": 0,
+    "Rank": 713,
+    "Class": "Scion"
+  },
+  {
+    "CharacterName": "COP_HOPESFORCOPS",
+    "AccountName": "kurofafi",
+    "TeamName": "The Hidden",
+    "Level": 69,
+    "Delve": 0,
+    "Rank": 527,
+    "Class": "Gladiator"
+  },
+  {
+    "CharacterName": "Cop_Rogue",
+    "AccountName": "deidradebauchery",
+    "TeamName": "The Formed",
+    "Level": 70,
+    "Delve": 0,
+    "Rank": 515,
+    "Class": "Necromancer"
+  },
+  {
+    "CharacterName": null,
+    "AccountName": "Vash114",
+    "TeamName": "The Twisted",
+    "Level": 0,
+    "Delve": 0,
+    "Rank": 0,
+    "Class": null
+  },
+  {
+    "CharacterName": "ROB_Serosh",
+    "AccountName": "Serosh",
+    "TeamName": "The Feared",
+    "Level": 48,
+    "Delve": 0,
+    "Rank": 600,
+    "Class": "Assassin"
+  },
+  {
+    "CharacterName": null,
+    "AccountName": "jaykub_55",
+    "TeamName": "The Hidden",
+    "Level": 0,
+    "Delve": 0,
+    "Rank": 0,
+    "Class": null
+  },
+  {
+    "CharacterName": "COP_BigQuake",
+    "AccountName": "AlterQin",
+    "TeamName": "The Formed",
+    "Level": 84,
+    "Delve": 40,
+    "Rank": 383,
+    "Class": "Champion"
+  },
+  {
+    "CharacterName": "ROB_SirPenguino",
+    "AccountName": "Penguino88",
+    "TeamName": "The Twisted",
+    "Level": 71,
+    "Delve": 0,
+    "Rank": 507,
+    "Class": "Guardian"
+  },
+  {
+    "CharacterName": "ROB_BradninerASS",
+    "AccountName": "TheRenin",
+    "TeamName": "The Feared",
+    "Level": 59,
+    "Delve": 0,
+    "Rank": 580,
+    "Class": "Trickster"
+  },
+  {
+    "CharacterName": null,
+    "AccountName": "tbaek",
+    "TeamName": "The Hidden",
+    "Level": 0,
+    "Delve": 0,
+    "Rank": 0,
+    "Class": null
+  },
+  {
+    "CharacterName": "COP_Goonai",
+    "AccountName": "Goonai",
+    "TeamName": "The Formed",
+    "Level": 88,
+    "Delve": 85,
+    "Rank": 288,
+    "Class": "Necromancer"
+  },
+  {
+    "CharacterName": "ROB_BER",
+    "AccountName": "Nannofrigg",
+    "TeamName": "The Twisted",
+    "Level": 95,
+    "Delve": 227,
+    "Rank": 72,
+    "Class": "Trickster"
+  },
+  {
+    "CharacterName": null,
+    "AccountName": "BalorMage",
+    "TeamName": "The Feared",
+    "Level": 0,
+    "Delve": 0,
+    "Rank": 0,
+    "Class": null
+  },
+  {
+    "CharacterName": null,
+    "AccountName": "tshavok",
+    "TeamName": "The Hidden",
+    "Level": 0,
+    "Delve": 0,
+    "Rank": 0,
+    "Class": null
+  },
+  {
+    "CharacterName": null,
+    "AccountName": "Nova_star_101",
+    "TeamName": "The Formed",
+    "Level": 0,
+    "Delve": 0,
+    "Rank": 0,
+    "Class": null
+  },
+  {
+    "CharacterName": null,
+    "AccountName": "moomoy007",
+    "TeamName": "The Twisted",
+    "Level": 0,
+    "Delve": 0,
+    "Rank": 0,
+    "Class": null
+  },
+  {
+    "CharacterName": "ROB_Magoo",
+    "AccountName": "batteryninja",
+    "TeamName": "The Feared",
+    "Level": 91,
+    "Delve": 151,
+    "Rank": 204,
+    "Class": "Trickster"
+  },
+  {
+    "CharacterName": "COP_Dryfos",
+    "AccountName": "Dryfos",
+    "TeamName": "The Hidden",
+    "Level": 67,
+    "Delve": 0,
+    "Rank": 541,
+    "Class": "Necromancer"
+  },
+  {
+    "CharacterName": null,
+    "AccountName": "jack_aubrey",
+    "TeamName": "The Formed",
+    "Level": 0,
+    "Delve": 0,
+    "Rank": 0,
+    "Class": null
+  },
+  {
+    "CharacterName": null,
+    "AccountName": "Hyoukar",
+    "TeamName": "The Twisted",
+    "Level": 0,
+    "Delve": 0,
+    "Rank": 0,
+    "Class": null
+  },
+  {
+    "CharacterName": "ROB_FixLigthningboy",
+    "AccountName": "fixmahflix",
+    "TeamName": "The Feared",
+    "Level": 92,
+    "Delve": 174,
+    "Rank": 159,
+    "Class": "Assassin"
+  },
+  {
+    "CharacterName": "COP_ImpaleChris",
+    "AccountName": "FidelCastro117",
+    "TeamName": "The Hidden",
+    "Level": 90,
+    "Delve": 94,
+    "Rank": 251,
+    "Class": "Gladiator"
+  },
+  {
+    "CharacterName": null,
+    "AccountName": "Halefart",
+    "TeamName": "The Formed",
+    "Level": 0,
+    "Delve": 0,
+    "Rank": 0,
+    "Class": null
+  },
+  {
+    "CharacterName": null,
+    "AccountName": "siv3el",
+    "TeamName": "The Twisted",
+    "Level": 0,
+    "Delve": 0,
+    "Rank": 0,
+    "Class": null
+  },
+  {
+    "CharacterName": "ROB_Serdoa",
+    "AccountName": "Serdoa",
+    "TeamName": "The Feared",
+    "Level": 91,
+    "Delve": 57,
+    "Rank": 212,
+    "Class": "Trickster"
+  },
+  {
+    "CharacterName": null,
+    "AccountName": "limit7x",
+    "TeamName": "The Hidden",
+    "Level": 0,
+    "Delve": 0,
+    "Rank": 0,
+    "Class": null
+  },
+  {
+    "CharacterName": "COP_ybara",
+    "AccountName": "jelijah",
+    "TeamName": "The Formed",
+    "Level": 66,
+    "Delve": 0,
+    "Rank": 549,
+    "Class": "Chieftain"
+  },
+  {
+    "CharacterName": "ROB_ubuspeedyboi",
+    "AccountName": "ubuxlr8",
+    "TeamName": "The Twisted",
+    "Level": 85,
+    "Delve": 53,
+    "Rank": 378,
+    "Class": "Trickster"
+  },
+  {
+    "CharacterName": null,
+    "AccountName": "Deveryz",
+    "TeamName": "The Feared",
+    "Level": 0,
+    "Delve": 0,
+    "Rank": 0,
+    "Class": null
+  },
+  {
+    "CharacterName": null,
+    "AccountName": "h0td0g",
+    "TeamName": "The Hidden",
+    "Level": 0,
+    "Delve": 0,
+    "Rank": 0,
+    "Class": null
+  },
+  {
+    "CharacterName": "COP_FREEZEKenny",
+    "AccountName": "Kennymasters",
+    "TeamName": "The Formed",
+    "Level": 87,
+    "Delve": 0,
+    "Rank": 319,
+    "Class": "Occultist"
+  },
+  {
+    "CharacterName": "ROB_Zarion",
+    "AccountName": "XxNe0xX",
+    "TeamName": "The Twisted",
+    "Level": 94,
+    "Delve": 201,
+    "Rank": 97,
+    "Class": "Assassin"
+  },
+  {
+    "CharacterName": null,
+    "AccountName": "zzat1",
+    "TeamName": "The Feared",
+    "Level": 0,
+    "Delve": 0,
+    "Rank": 0,
+    "Class": null
+  },
+  {
+    "CharacterName": "COP_MINIONSAGANE",
+    "AccountName": "Grueling",
+    "TeamName": "The Hidden",
+    "Level": 94,
+    "Delve": 103,
+    "Rank": 99,
+    "Class": "Necromancer"
+  },
+  {
+    "CharacterName": "COP_Sambaken",
+    "AccountName": "sambaken",
+    "TeamName": "The Formed",
+    "Level": 38,
+    "Delve": 0,
+    "Rank": 636,
+    "Class": "Juggernaut"
+  },
+  {
+    "CharacterName": "Rexyl",
+    "AccountName": "ZylrX",
+    "TeamName": "The Twisted",
+    "Level": 3,
+    "Delve": 0,
+    "Rank": 765,
+    "Class": "Ranger"
+  },
+  {
+    "CharacterName": "ROB_Nano",
+    "AccountName": "nanogamespl",
+    "TeamName": "The Feared",
+    "Level": 91,
+    "Delve": 144,
+    "Rank": 198,
+    "Class": "Saboteur"
+  },
+  {
+    "CharacterName": "COP_Dommel",
+    "AccountName": "Dommel",
+    "TeamName": "The Hidden",
+    "Level": 73,
+    "Delve": 0,
+    "Rank": 486,
+    "Class": "Ascendant"
+  },
+  {
+    "CharacterName": "COP_ain",
+    "AccountName": "nemrod10",
+    "TeamName": "The Formed",
+    "Level": 76,
+    "Delve": 38,
+    "Rank": 465,
+    "Class": "Necromancer"
+  },
+  {
+    "CharacterName": "ROB_Meddi",
+    "AccountName": "Meddicine",
+    "TeamName": "The Twisted",
+    "Level": 43,
+    "Delve": 0,
+    "Rank": 616,
+    "Class": "Inquisitor"
+  },
+  {
+    "CharacterName": "ROB_TotemBandit",
+    "AccountName": "Kubossek",
+    "TeamName": "The Feared",
+    "Level": 86,
+    "Delve": 0,
+    "Rank": 348,
+    "Class": "Hierophant"
+  },
+  {
+    "CharacterName": "COP_Naga",
+    "AccountName": "Pukeysta",
+    "TeamName": "The Hidden",
+    "Level": 26,
+    "Delve": 0,
+    "Rank": 685,
+    "Class": "Witch"
+  },
+  {
+    "CharacterName": "COPweeoooweeeooo",
+    "AccountName": "Brigand",
+    "TeamName": "The Formed",
+    "Level": 57,
+    "Delve": 0,
+    "Rank": 587,
+    "Class": "Necromancer"
+  },
+  {
+    "CharacterName": null,
+    "AccountName": "Atuukson",
+    "TeamName": "The Twisted",
+    "Level": 0,
+    "Delve": 0,
+    "Rank": 0,
+    "Class": null
+  },
+  {
+    "CharacterName": "ROB_Illuan",
+    "AccountName": "Illuan1",
+    "TeamName": "The Feared",
+    "Level": 86,
+    "Delve": 59,
+    "Rank": 352,
+    "Class": "Deadeye"
+  },
+  {
+    "CharacterName": null,
+    "AccountName": "Ion785",
+    "TeamName": "The Hidden",
+    "Level": 0,
+    "Delve": 0,
+    "Rank": 0,
+    "Class": null
+  },
+  {
+    "CharacterName": null,
+    "AccountName": "ioalt",
+    "TeamName": "The Formed",
+    "Level": 0,
+    "Delve": 0,
+    "Rank": 0,
+    "Class": null
+  },
+  {
+    "CharacterName": "ROB_bangke",
+    "AccountName": "b4zz",
+    "TeamName": "The Twisted",
+    "Level": 92,
+    "Delve": 155,
+    "Rank": 174,
+    "Class": "Hierophant"
+  },
+  {
+    "CharacterName": "ROB_pwang",
+    "AccountName": "pwangsta2",
+    "TeamName": "The Feared",
+    "Level": 86,
+    "Delve": 0,
+    "Rank": 342,
+    "Class": "Pathfinder"
+  },
+  {
+    "CharacterName": null,
+    "AccountName": "Mkay_Kid",
+    "TeamName": "The Hidden",
+    "Level": 0,
+    "Delve": 0,
+    "Rank": 0,
+    "Class": null
+  },
+  {
+    "CharacterName": "COP_Mike",
+    "AccountName": "MikeMurfy",
+    "TeamName": "The Formed",
+    "Level": 87,
+    "Delve": 0,
+    "Rank": 315,
+    "Class": "Occultist"
+  },
+  {
+    "CharacterName": "ROB_ertDowneyJr",
+    "AccountName": "Nonameturtle",
+    "TeamName": "The Twisted",
+    "Level": 96,
+    "Delve": 0,
+    "Rank": 36,
+    "Class": "Ascendant"
+  },
+  {
+    "CharacterName": "ROB_pickl",
+    "AccountName": "HuMatt",
+    "TeamName": "The Feared",
+    "Level": 92,
+    "Delve": 158,
+    "Rank": 161,
+    "Class": "Saboteur"
+  },
+  {
+    "CharacterName": "COP_A_FEEL",
+    "AccountName": "ScarletBliss",
+    "TeamName": "The Hidden",
+    "Level": 78,
+    "Delve": 0,
+    "Rank": 447,
+    "Class": "Gladiator"
+  },
+  {
+    "CharacterName": "COP_Shoz",
+    "AccountName": "Shoz5",
+    "TeamName": "The Formed",
+    "Level": 85,
+    "Delve": 54,
+    "Rank": 377,
+    "Class": "Occultist"
+  },
+  {
+    "CharacterName": "ROB_WhateverWillIDo",
+    "AccountName": "Death_invoquer",
+    "TeamName": "The Twisted",
+    "Level": 93,
+    "Delve": 61,
+    "Rank": 126,
+    "Class": "Assassin"
+  },
+  {
+    "CharacterName": null,
+    "AccountName": "Brotheroscar",
+    "TeamName": "The Feared",
+    "Level": 0,
+    "Delve": 0,
+    "Rank": 0,
+    "Class": null
+  },
+  {
+    "CharacterName": "COP_Ceej",
+    "AccountName": "ceej009",
+    "TeamName": "The Hidden",
+    "Level": 91,
+    "Delve": 136,
+    "Rank": 199,
+    "Class": "Elementalist"
+  },
+  {
+    "CharacterName": "COP_Pectage",
+    "AccountName": "Pectage",
+    "TeamName": "The Formed",
+    "Level": 69,
+    "Delve": 0,
+    "Rank": 521,
+    "Class": "Ascendant"
+  },
+  {
+    "CharacterName": "Mostrobbynazz",
+    "AccountName": "Sh1zznazz",
+    "TeamName": "The Twisted",
+    "Level": 33,
+    "Delve": 0,
+    "Rank": 653,
+    "Class": "Shadow"
+  },
+  {
+    "CharacterName": "STEAL_YOUR_GIRL",
+    "AccountName": "WhatDoor",
+    "TeamName": "The Feared",
+    "Level": 14,
+    "Delve": 0,
+    "Rank": 728,
+    "Class": "Shadow"
+  },
+  {
+    "CharacterName": "COP_SomeStayDry",
+    "AccountName": "Mudddddddd",
+    "TeamName": "The Hidden",
+    "Level": 44,
+    "Delve": 0,
+    "Rank": 614,
+    "Class": "Scion"
+  },
+  {
+    "CharacterName": "Cop_bluelemonn",
+    "AccountName": "photatoman",
+    "TeamName": "The Formed",
+    "Level": 90,
+    "Delve": 103,
+    "Rank": 223,
+    "Class": "Occultist"
+  },
+  {
+    "CharacterName": "ROB_Punanni",
+    "AccountName": "stanelu13",
+    "TeamName": "The Twisted",
+    "Level": 47,
+    "Delve": 0,
+    "Rank": 606,
+    "Class": "Ascendant"
+  },
+  {
+    "CharacterName": "Rob_BarkRuffalo",
+    "AccountName": "acquiesan",
+    "TeamName": "The Feared",
+    "Level": 70,
+    "Delve": 0,
+    "Rank": 516,
+    "Class": "Saboteur"
+  },
+  {
+    "CharacterName": "COP_BUCKSHOT",
+    "AccountName": "Bucksh0t",
+    "TeamName": "The Hidden",
+    "Level": 88,
+    "Delve": 71,
+    "Rank": 305,
+    "Class": "Gladiator"
+  },
+  {
+    "CharacterName": "COP_Zeta",
+    "AccountName": "ZetaKE",
+    "TeamName": "The Formed",
+    "Level": 1,
+    "Delve": 0,
+    "Rank": 868,
+    "Class": "Witch"
+  },
+  {
+    "CharacterName": null,
+    "AccountName": "Giripie",
+    "TeamName": "The Twisted",
+    "Level": 0,
+    "Delve": 0,
+    "Rank": 0,
+    "Class": null
+  },
+  {
+    "CharacterName": "ROBflicker",
+    "AccountName": "vodkadrinker22rus",
+    "TeamName": "The Feared",
+    "Level": 24,
+    "Delve": 0,
+    "Rank": 692,
+    "Class": "Ranger"
+  },
+  {
+    "CharacterName": "COP_HAX",
+    "AccountName": "H4ximus",
+    "TeamName": "The Hidden",
+    "Level": 92,
+    "Delve": 107,
+    "Rank": 195,
+    "Class": "Chieftain"
+  },
+  {
+    "CharacterName": "COP_DoskiBro",
+    "AccountName": "doskito",
+    "TeamName": "The Formed",
+    "Level": 45,
+    "Delve": 0,
+    "Rank": 609,
+    "Class": "Necromancer"
+  },
+  {
+    "CharacterName": "ROB_Kardashian",
+    "AccountName": "Woxzy",
+    "TeamName": "The Twisted",
+    "Level": 96,
+    "Delve": 0,
+    "Rank": 43,
+    "Class": "Assassin"
+  },
+  {
+    "CharacterName": null,
+    "AccountName": "BlueSkyArchive",
+    "TeamName": "The Feared",
+    "Level": 0,
+    "Delve": 0,
+    "Rank": 0,
+    "Class": null
+  },
+  {
+    "CharacterName": "COP_charlescj",
+    "AccountName": "charlescj",
+    "TeamName": "The Hidden",
+    "Level": 41,
+    "Delve": 0,
+    "Rank": 628,
+    "Class": "Gladiator"
+  },
+  {
+    "CharacterName": null,
+    "AccountName": "tainium",
+    "TeamName": "The Formed",
+    "Level": 0,
+    "Delve": 0,
+    "Rank": 0,
+    "Class": null
+  },
+  {
+    "CharacterName": "ROB_Maalthir",
+    "AccountName": "maalthir",
+    "TeamName": "The Twisted",
+    "Level": 87,
+    "Delve": 0,
+    "Rank": 316,
+    "Class": "Saboteur"
+  },
+  {
+    "CharacterName": "ROB_BaldManFast",
+    "AccountName": "SloshMoney",
+    "TeamName": "The Feared",
+    "Level": 94,
+    "Delve": 0,
+    "Rank": 104,
+    "Class": "Inquisitor"
+  },
+  {
+    "CharacterName": null,
+    "AccountName": "Masamunee219",
+    "TeamName": "The Hidden",
+    "Level": 0,
+    "Delve": 0,
+    "Rank": 0,
+    "Class": null
+  },
+  {
+    "CharacterName": "COP_GalvanizerZIgnite",
+    "AccountName": "GalvanizerZ",
+    "TeamName": "The Formed",
+    "Level": 89,
+    "Delve": 98,
+    "Rank": 263,
+    "Class": "Elementalist"
+  },
+  {
+    "CharacterName": "ROB_Oi",
+    "AccountName": "Chechex",
+    "TeamName": "The Twisted",
+    "Level": 88,
+    "Delve": 0,
+    "Rank": 291,
+    "Class": "Guardian"
+  },
+  {
+    "CharacterName": null,
+    "AccountName": "EloiNBMtL",
+    "TeamName": "The Feared",
+    "Level": 0,
+    "Delve": 0,
+    "Rank": 0,
+    "Class": null
+  },
+  {
+    "CharacterName": "COP_per__sulphate",
+    "AccountName": "DeadricPaladin",
+    "TeamName": "The Hidden",
+    "Level": 61,
+    "Delve": 0,
+    "Rank": 574,
+    "Class": "Slayer"
+  },
+  {
+    "CharacterName": null,
+    "AccountName": "AKA_THE_BOI",
+    "TeamName": "The Formed",
+    "Level": 0,
+    "Delve": 0,
+    "Rank": 0,
+    "Class": null
+  },
+  {
+    "CharacterName": "ROB_LumpiOctopussy",
+    "AccountName": "Orkrisios",
+    "TeamName": "The Twisted",
+    "Level": 16,
+    "Delve": 0,
+    "Rank": 724,
+    "Class": "Ranger"
+  },
+  {
+    "CharacterName": null,
+    "AccountName": "Belloyelli",
+    "TeamName": "The Feared",
+    "Level": 0,
+    "Delve": 0,
+    "Rank": 0,
+    "Class": null
+  },
+  {
+    "CharacterName": "COP_WhyResist",
+    "AccountName": "TheDreyer",
+    "TeamName": "The Hidden",
+    "Level": 92,
+    "Delve": 0,
+    "Rank": 181,
+    "Class": "Gladiator"
+  },
+  {
+    "CharacterName": "COP_glitchy",
+    "AccountName": "wrath62",
+    "TeamName": "The Formed",
+    "Level": 93,
+    "Delve": 201,
+    "Rank": 129,
+    "Class": "Ascendant"
+  },
+  {
+    "CharacterName": "ROB_Maltheas",
+    "AccountName": "MasterMindv2",
+    "TeamName": "The Twisted",
+    "Level": 68,
+    "Delve": 0,
+    "Rank": 530,
+    "Class": "Ascendant"
+  },
+  {
+    "CharacterName": "ROB_Restartitis",
+    "AccountName": "Nix27x",
+    "TeamName": "The Feared",
+    "Level": 84,
+    "Delve": 44,
+    "Rank": 379,
+    "Class": "Assassin"
+  },
+  {
+    "CharacterName": "COP_Ani",
+    "AccountName": "warchiefdkdk",
+    "TeamName": "The Hidden",
+    "Level": 86,
+    "Delve": 47,
+    "Rank": 341,
+    "Class": "Necromancer"
+  },
+  {
+    "CharacterName": "COP_HeisterBowllee",
+    "AccountName": "BowlForLife",
+    "TeamName": "The Formed",
+    "Level": 59,
+    "Delve": 0,
+    "Rank": 581,
+    "Class": "Elementalist"
+  },
+  {
+    "CharacterName": "ROB_BertDeNiro",
+    "AccountName": "arctuz51",
+    "TeamName": "The Twisted",
+    "Level": 74,
+    "Delve": 0,
+    "Rank": 477,
+    "Class": "Trickster"
+  },
+  {
+    "CharacterName": null,
+    "AccountName": "i2mango",
+    "TeamName": "The Feared",
+    "Level": 0,
+    "Delve": 0,
+    "Rank": 0,
+    "Class": null
+  },
+  {
+    "CharacterName": "COP_PERHEAD",
+    "AccountName": "HtPinkHighlander",
+    "TeamName": "The Hidden",
+    "Level": 74,
+    "Delve": 0,
+    "Rank": 478,
+    "Class": "Gladiator"
+  },
+  {
+    "CharacterName": "COP_Rampinazor",
+    "AccountName": "Cutterr",
+    "TeamName": "The Formed",
+    "Level": 96,
+    "Delve": 331,
+    "Rank": 28,
+    "Class": "Elementalist"
+  },
+  {
+    "CharacterName": null,
+    "AccountName": "tomohawkjoe",
+    "TeamName": "The Twisted",
+    "Level": 0,
+    "Delve": 0,
+    "Rank": 0,
+    "Class": null
+  },
+  {
+    "CharacterName": "ROB_Straton",
+    "AccountName": "bbogue",
+    "TeamName": "The Feared",
+    "Level": 45,
+    "Delve": 0,
+    "Rank": 611,
+    "Class": "Trickster"
+  },
+  {
+    "CharacterName": null,
+    "AccountName": "clintk00",
+    "TeamName": "The Hidden",
+    "Level": 0,
+    "Delve": 0,
+    "Rank": 0,
+    "Class": null
+  },
+  {
+    "CharacterName": "COP_ZANEY",
+    "AccountName": "Zaneylite1",
+    "TeamName": "The Formed",
+    "Level": 16,
+    "Delve": 0,
+    "Rank": 723,
+    "Class": "Marauder"
+  },
+  {
+    "CharacterName": "ROB_LF",
+    "AccountName": "LastFennek",
+    "TeamName": "The Twisted",
+    "Level": 90,
+    "Delve": 0,
+    "Rank": 232,
+    "Class": "Trickster"
+  },
+  {
+    "CharacterName": "ROB_eee_williams",
+    "AccountName": "dm_clean",
+    "TeamName": "The Feared",
+    "Level": 90,
+    "Delve": 59,
+    "Rank": 230,
+    "Class": "Assassin"
+  },
+  {
+    "CharacterName": null,
+    "AccountName": "finding_amaranth",
+    "TeamName": "The Hidden",
+    "Level": 0,
+    "Delve": 0,
+    "Rank": 0,
+    "Class": null
+  },
+  {
+    "CharacterName": "COP_MandreasLFSulphite",
+    "AccountName": "secretflipper",
+    "TeamName": "The Formed",
+    "Level": 78,
+    "Delve": 0,
+    "Rank": 454,
+    "Class": "Necromancer"
+  },
+  {
+    "CharacterName": "ROB_VapoUndercoverNecro",
+    "AccountName": "Vapoxx",
+    "TeamName": "The Twisted",
+    "Level": 97,
+    "Delve": 500,
+    "Rank": 20,
+    "Class": "Guardian"
+  },
+  {
+    "CharacterName": "Itz_MitchRobin",
+    "AccountName": "Itz_Mitch",
+    "TeamName": "The Feared",
+    "Level": 77,
+    "Delve": 41,
+    "Rank": 458,
+    "Class": "Raider"
+  },
+  {
+    "CharacterName": "ISO_Spin",
+    "AccountName": "navytom",
+    "TeamName": "The Hidden",
+    "Level": 11,
+    "Delve": 0,
+    "Rank": 741,
+    "Class": "Duelist"
+  },
+  {
+    "CharacterName": null,
+    "AccountName": "Celem",
+    "TeamName": "The Formed",
+    "Level": 0,
+    "Delve": 0,
+    "Rank": 0,
+    "Class": null
+  },
+  {
+    "CharacterName": "ROB_SelvaPeluda",
+    "AccountName": "SelvaPeluda",
+    "TeamName": "The Twisted",
+    "Level": 93,
+    "Delve": 152,
+    "Rank": 148,
+    "Class": "Saboteur"
+  },
+  {
+    "CharacterName": null,
+    "AccountName": "browneyekaboom",
+    "TeamName": "The Feared",
+    "Level": 0,
+    "Delve": 0,
+    "Rank": 0,
+    "Class": null
+  },
+  {
+    "CharacterName": "COP_StuffX",
+    "AccountName": "stuff_x",
+    "TeamName": "The Hidden",
+    "Level": 96,
+    "Delve": 500,
+    "Rank": 30,
+    "Class": "Necromancer"
+  },
+  {
+    "CharacterName": "COP_Tuzmen",
+    "AccountName": "Tuzmen",
+    "TeamName": "The Formed",
+    "Level": 75,
+    "Delve": 0,
+    "Rank": 474,
+    "Class": "Necromancer"
+  },
+  {
+    "CharacterName": "ROB_Aiv",
+    "AccountName": "aiviator",
+    "TeamName": "The Twisted",
+    "Level": 81,
+    "Delve": 0,
+    "Rank": 424,
+    "Class": "Pathfinder"
+  },
+  {
+    "CharacterName": "ROB_viciu",
+    "AccountName": "viciuu",
+    "TeamName": "The Feared",
+    "Level": 90,
+    "Delve": 0,
+    "Rank": 234,
+    "Class": "Saboteur"
+  },
+  {
+    "CharacterName": null,
+    "AccountName": "OFViking",
+    "TeamName": "The Hidden",
+    "Level": 0,
+    "Delve": 0,
+    "Rank": 0,
+    "Class": null
+  },
+  {
+    "CharacterName": "COP_GostlyOlaf",
+    "AccountName": "RedRooster99",
+    "TeamName": "The Formed",
+    "Level": 90,
+    "Delve": 66,
+    "Rank": 258,
+    "Class": "Necromancer"
+  },
+  {
+    "CharacterName": "ROB_VULGAR_CHASTITY",
+    "AccountName": "hadikoya",
+    "TeamName": "The Twisted",
+    "Level": 89,
+    "Delve": 0,
+    "Rank": 271,
+    "Class": "Assassin"
+  },
+  {
+    "CharacterName": "ROB_pepega",
+    "AccountName": "69BlackNinja69",
+    "TeamName": "The Feared",
+    "Level": 93,
+    "Delve": 60,
+    "Rank": 136,
+    "Class": "Assassin"
+  },
+  {
+    "CharacterName": null,
+    "AccountName": "Khaydris",
+    "TeamName": "The Hidden",
+    "Level": 0,
+    "Delve": 0,
+    "Rank": 0,
+    "Class": null
+  },
+  {
+    "CharacterName": "COP_POPPER",
+    "AccountName": "pokpok",
+    "TeamName": "The Formed",
+    "Level": 80,
+    "Delve": 0,
+    "Rank": 434,
+    "Class": "Occultist"
+  },
+  {
+    "CharacterName": "ROB_SirMez",
+    "AccountName": "Azhak",
+    "TeamName": "The Twisted",
+    "Level": 21,
+    "Delve": 0,
+    "Rank": 704,
+    "Class": "Shadow"
+  },
+  {
+    "CharacterName": "ROB_DapperGrif",
+    "AccountName": "grifbomber",
+    "TeamName": "The Feared",
+    "Level": 94,
+    "Delve": 59,
+    "Rank": 101,
+    "Class": "Pathfinder"
+  },
+  {
+    "CharacterName": "COP_Jcool",
+    "AccountName": "Jcool7",
+    "TeamName": "The Hidden",
+    "Level": 80,
+    "Delve": 0,
+    "Rank": 433,
+    "Class": "Necromancer"
+  },
+  {
+    "CharacterName": "COP_Raptor",
+    "AccountName": "TokuZan",
+    "TeamName": "The Formed",
+    "Level": 90,
+    "Delve": 43,
+    "Rank": 259,
+    "Class": "Gladiator"
+  },
+  {
+    "CharacterName": "ROB_MateuzãoEK",
+    "AccountName": "Mateusvie",
+    "TeamName": "The Twisted",
+    "Level": 74,
+    "Delve": 0,
+    "Rank": 483,
+    "Class": "Inquisitor"
+  },
+  {
+    "CharacterName": "ROB_Six",
+    "AccountName": "Sicarax",
+    "TeamName": "The Feared",
+    "Level": 73,
+    "Delve": 0,
+    "Rank": 490,
+    "Class": "Trickster"
+  },
+  {
+    "CharacterName": "Frozenbleedestt",
+    "AccountName": "Frøzenfox",
+    "TeamName": "The Hidden",
+    "Level": 20,
+    "Delve": 0,
+    "Rank": 710,
+    "Class": "Duelist"
+  },
+  {
+    "CharacterName": null,
+    "AccountName": "Roalknight",
+    "TeamName": "The Formed",
+    "Level": 0,
+    "Delve": 0,
+    "Rank": 0,
+    "Class": null
+  },
+  {
+    "CharacterName": "ROB_Panda",
+    "AccountName": "Pandâ666",
+    "TeamName": "The Twisted",
+    "Level": 87,
+    "Delve": 64,
+    "Rank": 321,
+    "Class": "Saboteur"
+  },
+  {
+    "CharacterName": null,
+    "AccountName": "Musgi",
+    "TeamName": "The Feared",
+    "Level": 0,
+    "Delve": 0,
+    "Rank": 0,
+    "Class": null
+  },
+  {
+    "CharacterName": "COP_FaceBreaking",
+    "AccountName": "Splovacodo",
+    "TeamName": "The Hidden",
+    "Level": 96,
+    "Delve": 500,
+    "Rank": 26,
+    "Class": "Champion"
+  },
+  {
+    "CharacterName": null,
+    "AccountName": "Spookymytimbers",
+    "TeamName": "The Formed",
+    "Level": 0,
+    "Delve": 0,
+    "Rank": 0,
+    "Class": null
+  },
+  {
+    "CharacterName": "ROB_COP_POG_ROB",
+    "AccountName": "X4mp",
+    "TeamName": "The Twisted",
+    "Level": 81,
+    "Delve": 0,
+    "Rank": 428,
+    "Class": "Assassin"
+  },
+  {
+    "CharacterName": "ROB_Duffy",
+    "AccountName": "thedynamicduffy",
+    "TeamName": "The Feared",
+    "Level": 14,
+    "Delve": 0,
+    "Rank": 729,
+    "Class": "Shadow"
+  },
+  {
+    "CharacterName": null,
+    "AccountName": "Chompskee",
+    "TeamName": "The Hidden",
+    "Level": 0,
+    "Delve": 0,
+    "Rank": 0,
+    "Class": null
+  },
+  {
+    "CharacterName": "COP_MeDaddy",
+    "AccountName": "pbnjace",
+    "TeamName": "The Formed",
+    "Level": 73,
+    "Delve": 0,
+    "Rank": 489,
+    "Class": "Necromancer"
+  },
+  {
+    "CharacterName": "ROB_Yailen",
+    "AccountName": "7ailen",
+    "TeamName": "The Twisted",
+    "Level": 90,
+    "Delve": 81,
+    "Rank": 247,
+    "Class": "Saboteur"
+  },
+  {
+    "CharacterName": "ROB_Berta",
+    "AccountName": "BigRed1985",
+    "TeamName": "The Feared",
+    "Level": 89,
+    "Delve": 65,
+    "Rank": 281,
+    "Class": "Trickster"
+  },
+  {
+    "CharacterName": null,
+    "AccountName": "SLUGGISHH_",
+    "TeamName": "The Hidden",
+    "Level": 0,
+    "Delve": 0,
+    "Rank": 0,
+    "Class": null
+  },
+  {
+    "CharacterName": "COP_Flakes",
+    "AccountName": "Koolflakes",
+    "TeamName": "The Formed",
+    "Level": 19,
+    "Delve": 0,
+    "Rank": 715,
+    "Class": "Duelist"
+  },
+  {
+    "CharacterName": "ROB_SpinnyStuff",
+    "AccountName": "Warhead27",
+    "TeamName": "The Twisted",
+    "Level": 84,
+    "Delve": 0,
+    "Rank": 382,
+    "Class": "Assassin"
+  },
+  {
+    "CharacterName": "ROB_Kostratas",
+    "AccountName": "kostratas",
+    "TeamName": "The Feared",
+    "Level": 92,
+    "Delve": 169,
+    "Rank": 178,
+    "Class": "Trickster"
+  },
+  {
+    "CharacterName": "COP_Akito",
+    "AccountName": "AkitoW",
+    "TeamName": "The Hidden",
+    "Level": 98,
+    "Delve": 500,
+    "Rank": 8,
+    "Class": "Occultist"
+  },
+  {
+    "CharacterName": null,
+    "AccountName": "Painkiller06",
+    "TeamName": "The Formed",
+    "Level": 0,
+    "Delve": 0,
+    "Rank": 0,
+    "Class": null
+  },
+  {
+    "CharacterName": null,
+    "AccountName": "kevinpoe10",
+    "TeamName": "The Twisted",
+    "Level": 0,
+    "Delve": 0,
+    "Rank": 0,
+    "Class": null
+  },
+  {
+    "CharacterName": "ROB_NonStop",
+    "AccountName": "Seronon",
+    "TeamName": "The Feared",
+    "Level": 96,
+    "Delve": 500,
+    "Rank": 44,
+    "Class": "Assassin"
+  },
+  {
+    "CharacterName": "COP_Deadlymiho",
+    "AccountName": "Deadlymiho",
+    "TeamName": "The Hidden",
+    "Level": 88,
+    "Delve": 0,
+    "Rank": 297,
+    "Class": "Champion"
+  },
+  {
+    "CharacterName": "COP_Chig_McBoomBox",
+    "AccountName": "Chiga",
+    "TeamName": "The Formed",
+    "Level": 90,
+    "Delve": 112,
+    "Rank": 225,
+    "Class": "Necromancer"
+  },
+  {
+    "CharacterName": "ROB_ZapperDapper",
+    "AccountName": "c0mMde3rG4ry",
+    "TeamName": "The Twisted",
+    "Level": 56,
+    "Delve": 0,
+    "Rank": 590,
+    "Class": "Hierophant"
+  },
+  {
+    "CharacterName": "ROB_BVboy",
+    "AccountName": "OxOnMeister",
+    "TeamName": "The Feared",
+    "Level": 87,
+    "Delve": 84,
+    "Rank": 317,
+    "Class": "Assassin"
+  },
+  {
+    "CharacterName": "COP_CrBuild",
+    "AccountName": "Harakili",
+    "TeamName": "The Hidden",
+    "Level": 87,
+    "Delve": 0,
+    "Rank": 314,
+    "Class": "Necromancer"
+  },
+  {
+    "CharacterName": "COP_Woddl",
+    "AccountName": "Tedolin",
+    "TeamName": "The Formed",
+    "Level": 97,
+    "Delve": 342,
+    "Rank": 17,
+    "Class": "Necromancer"
+  },
+  {
+    "CharacterName": "ROB_Andy",
+    "AccountName": "amith12355",
+    "TeamName": "The Twisted",
+    "Level": 64,
+    "Delve": 0,
+    "Rank": 564,
+    "Class": "Saboteur"
+  },
+  {
+    "CharacterName": "ROB_ggpenner",
+    "AccountName": "ggpenner",
+    "TeamName": "The Feared",
+    "Level": 95,
+    "Delve": 350,
+    "Rank": 60,
+    "Class": "Ascendant"
+  },
+  {
+    "CharacterName": null,
+    "AccountName": "Ragluke",
+    "TeamName": "The Hidden",
+    "Level": 0,
+    "Delve": 0,
+    "Rank": 0,
+    "Class": null
+  },
+  {
+    "CharacterName": "COP_DD",
+    "AccountName": "DD_8787",
+    "TeamName": "The Formed",
+    "Level": 80,
+    "Delve": 0,
+    "Rank": 436,
+    "Class": "Elementalist"
+  },
+  {
+    "CharacterName": "ROB_Socks",
+    "AccountName": "Escalaine",
+    "TeamName": "The Twisted",
+    "Level": 68,
+    "Delve": 0,
+    "Rank": 532,
+    "Class": "Templar"
+  },
+  {
+    "CharacterName": "ROB_kulimark",
+    "AccountName": "kulimark",
+    "TeamName": "The Feared",
+    "Level": 48,
+    "Delve": 0,
+    "Rank": 601,
+    "Class": "Assassin"
+  },
+  {
+    "CharacterName": "COP_Tea",
+    "AccountName": "cobala137",
+    "TeamName": "The Hidden",
+    "Level": 91,
+    "Delve": 0,
+    "Rank": 211,
+    "Class": "Chieftain"
+  },
+  {
+    "CharacterName": null,
+    "AccountName": "Alphamanlet",
+    "TeamName": "The Formed",
+    "Level": 0,
+    "Delve": 0,
+    "Rank": 0,
+    "Class": null
+  },
+  {
+    "CharacterName": "ROB_WhyAmIinFinance",
+    "AccountName": "RVTenor",
+    "TeamName": "The Twisted",
+    "Level": 21,
+    "Delve": 0,
+    "Rank": 705,
+    "Class": "Templar"
+  },
+  {
+    "CharacterName": "ROB_Moneysack",
+    "AccountName": "dachoppa",
+    "TeamName": "The Feared",
+    "Level": 87,
+    "Delve": 62,
+    "Rank": 326,
+    "Class": "Deadeye"
+  },
+  {
+    "CharacterName": null,
+    "AccountName": "Linadan",
+    "TeamName": "The Hidden",
+    "Level": 0,
+    "Delve": 0,
+    "Rank": 0,
+    "Class": null
+  },
+  {
+    "CharacterName": "COP_Zyzhak",
+    "AccountName": "Zyzhak",
+    "TeamName": "The Formed",
+    "Level": 40,
+    "Delve": 0,
+    "Rank": 633,
+    "Class": "Occultist"
+  },
+  {
+    "CharacterName": null,
+    "AccountName": "vajura",
+    "TeamName": "The Twisted",
+    "Level": 0,
+    "Delve": 0,
+    "Rank": 0,
+    "Class": null
+  },
+  {
+    "CharacterName": "idCookidClean",
+    "AccountName": "Nomorerulz",
+    "TeamName": "The Feared",
+    "Level": 1,
+    "Delve": 0,
+    "Rank": 853,
+    "Class": "Scion"
+  },
+  {
+    "CharacterName": "COP_Elristan",
+    "AccountName": "Karnygs",
+    "TeamName": "The Hidden",
+    "Level": 96,
+    "Delve": 424,
+    "Rank": 45,
+    "Class": "Champion"
+  },
+  {
+    "CharacterName": "Cop_BladeBlast",
+    "AccountName": "NZIronman",
+    "TeamName": "The Formed",
+    "Level": 86,
+    "Delve": 0,
+    "Rank": 340,
+    "Class": "Chieftain"
+  },
+  {
+    "CharacterName": "ROB_BtubV",
+    "AccountName": "Tubeers",
+    "TeamName": "The Twisted",
+    "Level": 65,
+    "Delve": 0,
+    "Rank": 554,
+    "Class": "Saboteur"
+  },
+  {
+    "CharacterName": "ROB_LOXER",
+    "AccountName": "Silverie",
+    "TeamName": "The Feared",
+    "Level": 94,
+    "Delve": 231,
+    "Rank": 114,
+    "Class": "Pathfinder"
+  },
+  {
+    "CharacterName": "COP_ElFederal",
+    "AccountName": "Gambitshocks",
+    "TeamName": "The Hidden",
+    "Level": 91,
+    "Delve": 0,
+    "Rank": 208,
+    "Class": "Gladiator"
+  },
+  {
+    "CharacterName": null,
+    "AccountName": "catofgreatness",
+    "TeamName": "The Formed",
+    "Level": 0,
+    "Delve": 0,
+    "Rank": 0,
+    "Class": null
+  },
+  {
+    "CharacterName": "ROB_DomBlows",
+    "AccountName": "Yuhaku",
+    "TeamName": "The Twisted",
+    "Level": 71,
+    "Delve": 0,
+    "Rank": 503,
+    "Class": "Guardian"
+  },
+  {
+    "CharacterName": null,
+    "AccountName": "the0smart1",
+    "TeamName": "The Feared",
+    "Level": 0,
+    "Delve": 0,
+    "Rank": 0,
+    "Class": null
+  },
+  {
+    "CharacterName": "COP_ZOOMER",
+    "AccountName": "Keilsu",
+    "TeamName": "The Hidden",
+    "Level": 85,
+    "Delve": 44,
+    "Rank": 366,
+    "Class": "Ascendant"
+  },
+  {
+    "CharacterName": "Cops_necro",
+    "AccountName": "tomdogg926",
+    "TeamName": "The Formed",
+    "Level": 71,
+    "Delve": 0,
+    "Rank": 504,
+    "Class": "Necromancer"
+  },
+  {
+    "CharacterName": "ROB_jmmk",
+    "AccountName": "jmiemk",
+    "TeamName": "The Twisted",
+    "Level": 98,
+    "Delve": 600,
+    "Rank": 6,
+    "Class": "Pathfinder"
+  },
+  {
+    "CharacterName": null,
+    "AccountName": "mx33",
+    "TeamName": "The Feared",
+    "Level": 0,
+    "Delve": 0,
+    "Rank": 0,
+    "Class": null
+  },
+  {
+    "CharacterName": "COP_SharkWeek",
+    "AccountName": "Chimaira56",
+    "TeamName": "The Hidden",
+    "Level": 86,
+    "Delve": 60,
+    "Rank": 349,
+    "Class": "Gladiator"
+  },
+  {
+    "CharacterName": "COP_Burnie",
+    "AccountName": "00eric",
+    "TeamName": "The Formed",
+    "Level": 96,
+    "Delve": 502,
+    "Rank": 31,
+    "Class": "Chieftain"
+  },
+  {
+    "CharacterName": "ROB_Temp",
+    "AccountName": "Warjeak",
+    "TeamName": "The Twisted",
+    "Level": 54,
+    "Delve": 0,
+    "Rank": 592,
+    "Class": "Inquisitor"
+  },
+  {
+    "CharacterName": "ROB_Robert",
+    "AccountName": "Noobwater",
+    "TeamName": "The Feared",
+    "Level": 26,
+    "Delve": 0,
+    "Rank": 687,
+    "Class": "Shadow"
+  },
+  {
+    "CharacterName": "COP_afeelofthesenuts",
+    "AccountName": "Nyles",
+    "TeamName": "The Hidden",
+    "Level": 28,
+    "Delve": 0,
+    "Rank": 668,
+    "Class": "Marauder"
+  },
+  {
+    "CharacterName": "COP_HorroarTwo",
+    "AccountName": "Horroar",
+    "TeamName": "The Formed",
+    "Level": 64,
+    "Delve": 0,
+    "Rank": 561,
+    "Class": "Champion"
+  },
+  {
+    "CharacterName": "ROB_ertPattinson",
+    "AccountName": "Demoar133",
+    "TeamName": "The Twisted",
+    "Level": 89,
+    "Delve": 41,
+    "Rank": 274,
+    "Class": "Deadeye"
+  },
+  {
+    "CharacterName": "ROB_Naxodus",
+    "AccountName": "Naxodus",
+    "TeamName": "The Feared",
+    "Level": 90,
+    "Delve": 63,
+    "Rank": 237,
+    "Class": "Assassin"
+  },
+  {
+    "CharacterName": "COP_Nootchan",
+    "AccountName": "1is_N",
+    "TeamName": "The Hidden",
+    "Level": 44,
+    "Delve": 0,
+    "Rank": 615,
+    "Class": "Slayer"
+  },
+  {
+    "CharacterName": "COP_FreeHKFromCCP",
+    "AccountName": "tylam6746",
+    "TeamName": "The Formed",
+    "Level": 94,
+    "Delve": 116,
+    "Rank": 100,
+    "Class": "Ascendant"
+  },
+  {
+    "CharacterName": "ROB_ValoSupport",
+    "AccountName": "ValoCarry",
+    "TeamName": "The Twisted",
+    "Level": 98,
+    "Delve": 150,
+    "Rank": 5,
+    "Class": "Ascendant"
+  },
+  {
+    "CharacterName": "Rob_AyMAMA",
+    "AccountName": "gleejax",
+    "TeamName": "The Feared",
+    "Level": 64,
+    "Delve": 0,
+    "Rank": 563,
+    "Class": "Ascendant"
+  },
+  {
+    "CharacterName": "COP_Nighthuntr",
+    "AccountName": "AENighthuntr",
+    "TeamName": "The Hidden",
+    "Level": 69,
+    "Delve": 0,
+    "Rank": 520,
+    "Class": "Occultist"
+  },
+  {
+    "CharacterName": null,
+    "AccountName": "Spiritgamerdk",
+    "TeamName": "The Formed",
+    "Level": 0,
+    "Delve": 0,
+    "Rank": 0,
+    "Class": null
+  },
+  {
+    "CharacterName": "ROB_Sario",
+    "AccountName": "mbvict",
+    "TeamName": "The Twisted",
+    "Level": 93,
+    "Delve": 504,
+    "Rank": 150,
+    "Class": "Deadeye"
+  },
+  {
+    "CharacterName": "ROB_ThePants",
+    "AccountName": "Lexou",
+    "TeamName": "The Feared",
+    "Level": 67,
+    "Delve": 0,
+    "Rank": 547,
+    "Class": "Hierophant"
+  },
+  {
+    "CharacterName": "COP_sNyZZzzz_twitch",
+    "AccountName": "sNyZZzzz",
+    "TeamName": "The Hidden",
+    "Level": 85,
+    "Delve": 0,
+    "Rank": 367,
+    "Class": "Elementalist"
+  },
+  {
+    "CharacterName": "COP_BleedBow",
+    "AccountName": "Ek3lschlund",
+    "TeamName": "The Formed",
+    "Level": 73,
+    "Delve": 0,
+    "Rank": 492,
+    "Class": "Gladiator"
+  },
+  {
+    "CharacterName": null,
+    "AccountName": "warfalcon76",
+    "TeamName": "The Twisted",
+    "Level": 0,
+    "Delve": 0,
+    "Rank": 0,
+    "Class": null
+  },
+  {
+    "CharacterName": null,
+    "AccountName": "AbnΦrmal",
+    "TeamName": "The Feared",
+    "Level": 0,
+    "Delve": 0,
+    "Rank": 0,
+    "Class": null
+  },
+  {
+    "CharacterName": "COP_Badge",
+    "AccountName": "Stottymod",
+    "TeamName": "The Hidden",
+    "Level": 45,
+    "Delve": 0,
+    "Rank": 610,
+    "Class": "Necromancer"
+  },
+  {
+    "CharacterName": "Cop_Loki",
+    "AccountName": "i_r_Loki",
+    "TeamName": "The Formed",
+    "Level": 89,
+    "Delve": 75,
+    "Rank": 264,
+    "Class": "Necromancer"
+  },
+  {
+    "CharacterName": null,
+    "AccountName": "UzuStark98",
+    "TeamName": "The Twisted",
+    "Level": 0,
+    "Delve": 0,
+    "Rank": 0,
+    "Class": null
+  },
+  {
+    "CharacterName": "ROB_Frosty",
+    "AccountName": "SpookyMeme",
+    "TeamName": "The Feared",
+    "Level": 83,
+    "Delve": 0,
+    "Rank": 405,
+    "Class": "Saboteur"
+  },
+  {
+    "CharacterName": "COP_Macce",
+    "AccountName": "Macceswe",
+    "TeamName": "The Hidden",
+    "Level": 82,
+    "Delve": 0,
+    "Rank": 409,
+    "Class": "Chieftain"
+  },
+  {
+    "CharacterName": "COP_NOT_AN_ARSONIST",
+    "AccountName": "TheDejected",
+    "TeamName": "The Formed",
+    "Level": 93,
+    "Delve": 177,
+    "Rank": 128,
+    "Class": "Chieftain"
+  },
+  {
+    "CharacterName": "ROB_ma_blind",
+    "AccountName": "Donjamming",
+    "TeamName": "The Twisted",
+    "Level": 92,
+    "Delve": 157,
+    "Rank": 154,
+    "Class": "Saboteur"
+  },
+  {
+    "CharacterName": null,
+    "AccountName": "Fuscalicious",
+    "TeamName": "The Feared",
+    "Level": 0,
+    "Delve": 0,
+    "Rank": 0,
+    "Class": null
+  },
+  {
+    "CharacterName": "COP_Shade",
+    "AccountName": "residualshade",
+    "TeamName": "The Hidden",
+    "Level": 88,
+    "Delve": 39,
+    "Rank": 294,
+    "Class": "Elementalist"
+  },
+  {
+    "CharacterName": "COP_ingWithDepression",
+    "AccountName": "Kehaaaaaan",
+    "TeamName": "The Formed",
+    "Level": 25,
+    "Delve": 0,
+    "Rank": 688,
+    "Class": "Duelist"
+  },
+  {
+    "CharacterName": null,
+    "AccountName": "Aurodox",
+    "TeamName": "The Twisted",
+    "Level": 0,
+    "Delve": 0,
+    "Rank": 0,
+    "Class": null
+  },
+  {
+    "CharacterName": "ROB_Balint",
+    "AccountName": "plyrpie",
+    "TeamName": "The Feared",
+    "Level": 35,
+    "Delve": 0,
+    "Rank": 646,
+    "Class": "Shadow"
+  },
+  {
+    "CharacterName": "COP_SoundOfDaPolice",
+    "AccountName": "christerpereira",
+    "TeamName": "The Hidden",
+    "Level": 89,
+    "Delve": 55,
+    "Rank": 269,
+    "Class": "Elementalist"
+  },
+  {
+    "CharacterName": "COP_IntakuEdMidtown",
+    "AccountName": "reimaruo619",
+    "TeamName": "The Formed",
+    "Level": 91,
+    "Delve": 135,
+    "Rank": 203,
+    "Class": "Gladiator"
+  },
+  {
+    "CharacterName": null,
+    "AccountName": "sniiq_failer",
+    "TeamName": "The Twisted",
+    "Level": 0,
+    "Delve": 0,
+    "Rank": 0,
+    "Class": null
+  },
+  {
+    "CharacterName": null,
+    "AccountName": "Checkergg",
+    "TeamName": "The Feared",
+    "Level": 0,
+    "Delve": 0,
+    "Rank": 0,
+    "Class": null
+  },
+  {
+    "CharacterName": null,
+    "AccountName": "notahmule",
+    "TeamName": "The Hidden",
+    "Level": 0,
+    "Delve": 0,
+    "Rank": 0,
+    "Class": null
+  },
+  {
+    "CharacterName": "COP_Gordy",
+    "AccountName": "Killiango",
+    "TeamName": "The Formed",
+    "Level": 89,
+    "Delve": 68,
+    "Rank": 278,
+    "Class": "Champion"
+  },
+  {
+    "CharacterName": null,
+    "AccountName": "Hxcbreakdown",
+    "TeamName": "The Twisted",
+    "Level": 0,
+    "Delve": 0,
+    "Rank": 0,
+    "Class": null
+  },
+  {
+    "CharacterName": null,
+    "AccountName": "BestNameWorld",
+    "TeamName": "The Feared",
+    "Level": 0,
+    "Delve": 0,
+    "Rank": 0,
+    "Class": null
+  },
+  {
+    "CharacterName": "COP_Kesoga",
+    "AccountName": "k33s69",
+    "TeamName": "The Hidden",
+    "Level": 86,
+    "Delve": 0,
+    "Rank": 359,
+    "Class": "Champion"
+  },
+  {
+    "CharacterName": "COP_RPGSauce",
+    "AccountName": "Redvenomz",
+    "TeamName": "The Formed",
+    "Level": 82,
+    "Delve": 0,
+    "Rank": 414,
+    "Class": "Occultist"
+  },
+  {
+    "CharacterName": "ROB_Keenan",
+    "AccountName": "Keenan007",
+    "TeamName": "The Twisted",
+    "Level": 73,
+    "Delve": 0,
+    "Rank": 487,
+    "Class": "Trickster"
+  },
+  {
+    "CharacterName": "ROB_baxe",
+    "AccountName": "Kigstorm",
+    "TeamName": "The Feared",
+    "Level": 93,
+    "Delve": 151,
+    "Rank": 141,
+    "Class": "Saboteur"
+  },
+  {
+    "CharacterName": "COP_chris",
+    "AccountName": "chriskevini",
+    "TeamName": "The Hidden",
+    "Level": 42,
+    "Delve": 0,
+    "Rank": 622,
+    "Class": "Juggernaut"
+  },
+  {
+    "CharacterName": "COP_Bueue",
+    "AccountName": "BIIue",
+    "TeamName": "The Formed",
+    "Level": 94,
+    "Delve": 182,
+    "Rank": 108,
+    "Class": "Necromancer"
+  },
+  {
+    "CharacterName": "ROB_TheEternalVortex",
+    "AccountName": "TheEternalVortex",
+    "TeamName": "The Twisted",
+    "Level": 94,
+    "Delve": 201,
+    "Rank": 111,
+    "Class": "Pathfinder"
+  },
+  {
+    "CharacterName": "ROB_LyftUp",
+    "AccountName": "xiami",
+    "TeamName": "The Feared",
+    "Level": 92,
+    "Delve": 151,
+    "Rank": 168,
+    "Class": "Trickster"
+  },
+  {
+    "CharacterName": "COP_yoku",
+    "AccountName": "Yokuba",
+    "TeamName": "The Hidden",
+    "Level": 90,
+    "Delve": 59,
+    "Rank": 242,
+    "Class": "Elementalist"
+  },
+  {
+    "CharacterName": "COP_heisttheOCFith",
+    "AccountName": "5thcolumn",
+    "TeamName": "The Formed",
+    "Level": 90,
+    "Delve": 48,
+    "Rank": 228,
+    "Class": "Occultist"
+  },
+  {
+    "CharacterName": "ROB_Defnarte",
+    "AccountName": "Defnartly",
+    "TeamName": "The Twisted",
+    "Level": 38,
+    "Delve": 0,
+    "Rank": 635,
+    "Class": "Inquisitor"
+  },
+  {
+    "CharacterName": null,
+    "AccountName": "Bazookajim",
+    "TeamName": "The Feared",
+    "Level": 0,
+    "Delve": 0,
+    "Rank": 0,
+    "Class": null
+  },
+  {
+    "CharacterName": "COP_put_ur_hands_up_ok",
+    "AccountName": "gogok",
+    "TeamName": "The Hidden",
+    "Level": 95,
+    "Delve": 231,
+    "Rank": 80,
+    "Class": "Necromancer"
+  },
+  {
+    "CharacterName": "COP_baiden",
+    "AccountName": "olsev_baiden",
+    "TeamName": "The Formed",
+    "Level": 93,
+    "Delve": 46,
+    "Rank": 140,
+    "Class": "Chieftain"
+  },
+  {
+    "CharacterName": null,
+    "AccountName": "thedwarfking",
+    "TeamName": "The Twisted",
+    "Level": 0,
+    "Delve": 0,
+    "Rank": 0,
+    "Class": null
+  },
+  {
+    "CharacterName": "ROB_Aksuxx",
+    "AccountName": "Aksux_1",
+    "TeamName": "The Feared",
+    "Level": 90,
+    "Delve": 98,
+    "Rank": 253,
+    "Class": "Deadeye"
+  },
+  {
+    "CharacterName": "COP_Juggernaut",
+    "AccountName": "bck1337",
+    "TeamName": "The Hidden",
+    "Level": 75,
+    "Delve": 0,
+    "Rank": 475,
+    "Class": "Juggernaut"
+  },
+  {
+    "CharacterName": "COP_Procursus",
+    "AccountName": "Procursus",
+    "TeamName": "The Formed",
+    "Level": 87,
+    "Delve": 53,
+    "Rank": 333,
+    "Class": "Necromancer"
+  },
+  {
+    "CharacterName": "ROB_Jekt",
+    "AccountName": "timit29",
+    "TeamName": "The Twisted",
+    "Level": 89,
+    "Delve": 0,
+    "Rank": 280,
+    "Class": "Trickster"
+  },
+  {
+    "CharacterName": "ROB_Xhibbi",
+    "AccountName": "Xhibbi",
+    "TeamName": "The Feared",
+    "Level": 91,
+    "Delve": 108,
+    "Rank": 207,
+    "Class": "Assassin"
+  },
+  {
+    "CharacterName": "COP_BadCopNoDonut",
+    "AccountName": "Zyoxronin",
+    "TeamName": "The Hidden",
+    "Level": 88,
+    "Delve": 89,
+    "Rank": 304,
+    "Class": "Necromancer"
+  },
+  {
+    "CharacterName": "COP_BigLightning",
+    "AccountName": "Superpie43",
+    "TeamName": "The Formed",
+    "Level": 76,
+    "Delve": 0,
+    "Rank": 467,
+    "Class": "Ascendant"
+  },
+  {
+    "CharacterName": "ROB_OCOP",
+    "AccountName": "mattbritez",
+    "TeamName": "The Twisted",
+    "Level": 96,
+    "Delve": 493,
+    "Rank": 39,
+    "Class": "Assassin"
+  },
+  {
+    "CharacterName": null,
+    "AccountName": "Jevaque60",
+    "TeamName": "The Feared",
+    "Level": 0,
+    "Delve": 0,
+    "Rank": 0,
+    "Class": null
+  },
+  {
+    "CharacterName": "COP_Dekev",
+    "AccountName": "Dekev",
+    "TeamName": "The Hidden",
+    "Level": 98,
+    "Delve": 501,
+    "Rank": 10,
+    "Class": "Necromancer"
+  },
+  {
+    "CharacterName": "COP_GIMMEYOURMASK",
+    "AccountName": "SwissBanklord",
+    "TeamName": "The Formed",
+    "Level": 22,
+    "Delve": 0,
+    "Rank": 702,
+    "Class": "Witch"
+  },
+  {
+    "CharacterName": "ROB_EmGood",
+    "AccountName": "de_Xen",
+    "TeamName": "The Twisted",
+    "Level": 91,
+    "Delve": 128,
+    "Rank": 219,
+    "Class": "Trickster"
+  },
+  {
+    "CharacterName": "ROB_caryySupp",
+    "AccountName": "Axlerod21",
+    "TeamName": "The Feared",
+    "Level": 95,
+    "Delve": 0,
+    "Rank": 53,
+    "Class": "Ascendant"
+  },
+  {
+    "CharacterName": "COP_Kashmyrr",
+    "AccountName": "ragekage26",
+    "TeamName": "The Hidden",
+    "Level": 75,
+    "Delve": 0,
+    "Rank": 473,
+    "Class": "Elementalist"
+  },
+  {
+    "CharacterName": "COP_Marble",
+    "AccountName": "HeavyMarble",
+    "TeamName": "The Formed",
+    "Level": 87,
+    "Delve": 81,
+    "Rank": 318,
+    "Class": "Necromancer"
+  },
+  {
+    "CharacterName": null,
+    "AccountName": "dubyko",
+    "TeamName": "The Twisted",
+    "Level": 0,
+    "Delve": 0,
+    "Rank": 0,
+    "Class": null
+  },
+  {
+    "CharacterName": "ROB_PookHerman",
+    "AccountName": "MrHappy50",
+    "TeamName": "The Feared",
+    "Level": 63,
+    "Delve": 0,
+    "Rank": 567,
+    "Class": "Trickster"
+  },
+  {
+    "CharacterName": null,
+    "AccountName": "doddydad",
+    "TeamName": "The Hidden",
+    "Level": 0,
+    "Delve": 0,
+    "Rank": 0,
+    "Class": null
+  },
+  {
+    "CharacterName": "COPㆍOneWeekBuild",
+    "AccountName": "frostnova37",
+    "TeamName": "The Formed",
+    "Level": 95,
+    "Delve": 501,
+    "Rank": 63,
+    "Class": "Champion"
+  },
+  {
+    "CharacterName": "ROB_Ceeb",
+    "AccountName": "Ceebisss",
+    "TeamName": "The Twisted",
+    "Level": 94,
+    "Delve": 322,
+    "Rank": 95,
+    "Class": "Saboteur"
+  },
+  {
+    "CharacterName": "ROB_Dash",
+    "AccountName": "4uonly",
+    "TeamName": "The Feared",
+    "Level": 92,
+    "Delve": 202,
+    "Rank": 173,
+    "Class": "Assassin"
+  },
+  {
+    "CharacterName": "COP_Emanwix",
+    "AccountName": "Empmeista",
+    "TeamName": "The Hidden",
+    "Level": 71,
+    "Delve": 0,
+    "Rank": 509,
+    "Class": "Champion"
+  },
+  {
+    "CharacterName": "COP_LilGreenGhouls",
+    "AccountName": "IkeAndRobin",
+    "TeamName": "The Formed",
+    "Level": 68,
+    "Delve": 0,
+    "Rank": 531,
+    "Class": "Necromancer"
+  },
+  {
+    "CharacterName": null,
+    "AccountName": "MANAK_EL",
+    "TeamName": "The Twisted",
+    "Level": 0,
+    "Delve": 0,
+    "Rank": 0,
+    "Class": null
+  },
+  {
+    "CharacterName": "ROB_bagermatt",
+    "AccountName": "bagermatt",
+    "TeamName": "The Feared",
+    "Level": 94,
+    "Delve": 173,
+    "Rank": 94,
+    "Class": "Saboteur"
+  },
+  {
+    "CharacterName": "COP_Lethal_Force",
+    "AccountName": "Chuckwalla2020",
+    "TeamName": "The Hidden",
+    "Level": 71,
+    "Delve": 0,
+    "Rank": 505,
+    "Class": "Occultist"
+  },
+  {
+    "CharacterName": "COP_wtfishappen",
+    "AccountName": "galon25",
+    "TeamName": "The Formed",
+    "Level": 92,
+    "Delve": 81,
+    "Rank": 170,
+    "Class": "Occultist"
+  },
+  {
+    "CharacterName": null,
+    "AccountName": "Beyondsaving",
+    "TeamName": "The Twisted",
+    "Level": 0,
+    "Delve": 0,
+    "Rank": 0,
+    "Class": null
+  },
+  {
+    "CharacterName": "ROB_Dampin",
+    "AccountName": "Dampin",
+    "TeamName": "The Feared",
+    "Level": 88,
+    "Delve": 0,
+    "Rank": 285,
+    "Class": "Trickster"
+  },
+  {
+    "CharacterName": "COP_RightNowTYVM",
+    "AccountName": "Westergaard",
+    "TeamName": "The Hidden",
+    "Level": 90,
+    "Delve": 83,
+    "Rank": 261,
+    "Class": "Necromancer"
+  },
+  {
+    "CharacterName": "COP_DelmothDarkblood",
+    "AccountName": "nhojretrop",
+    "TeamName": "The Formed",
+    "Level": 94,
+    "Delve": 151,
+    "Rank": 110,
+    "Class": "Gladiator"
+  },
+  {
+    "CharacterName": "ROB_ksame",
+    "AccountName": "ksame55",
+    "TeamName": "The Twisted",
+    "Level": 83,
+    "Delve": 0,
+    "Rank": 402,
+    "Class": "Trickster"
+  },
+  {
+    "CharacterName": "ROB_Sen",
+    "AccountName": "Lewdiest",
+    "TeamName": "The Feared",
+    "Level": 96,
+    "Delve": 0,
+    "Rank": 25,
+    "Class": "Raider"
+  },
+  {
+    "CharacterName": "COP_Zet",
+    "AccountName": "ZetsuSan",
+    "TeamName": "The Hidden",
+    "Level": 93,
+    "Delve": 229,
+    "Rank": 118,
+    "Class": "Occultist"
+  },
+  {
+    "CharacterName": "Cop_PoliceBrutality",
+    "AccountName": "Fairstrider",
+    "TeamName": "The Formed",
+    "Level": 64,
+    "Delve": 0,
+    "Rank": 566,
+    "Class": "Witch"
+  },
+  {
+    "CharacterName": "ROB_Managon",
+    "AccountName": "managon",
+    "TeamName": "The Twisted",
+    "Level": 90,
+    "Delve": 71,
+    "Rank": 244,
+    "Class": "Guardian"
+  },
+  {
+    "CharacterName": "ROB_RamonElVanidoso",
+    "AccountName": "rbarberan",
+    "TeamName": "The Feared",
+    "Level": 92,
+    "Delve": 175,
+    "Rank": 188,
+    "Class": "Pathfinder"
+  },
+  {
+    "CharacterName": "COP_BananaBread",
+    "AccountName": "Zelniq",
+    "TeamName": "The Hidden",
+    "Level": 91,
+    "Delve": 63,
+    "Rank": 201,
+    "Class": "Elementalist"
+  },
+  {
+    "CharacterName": null,
+    "AccountName": "Hix360",
+    "TeamName": "The Formed",
+    "Level": 0,
+    "Delve": 0,
+    "Rank": 0,
+    "Class": null
+  },
+  {
+    "CharacterName": "ROB_Jesus_is_King",
+    "AccountName": "the_bassmann",
+    "TeamName": "The Twisted",
+    "Level": 90,
+    "Delve": 104,
+    "Rank": 226,
+    "Class": "Guardian"
+  },
+  {
+    "CharacterName": "ROB_FARMBOI",
+    "AccountName": "Dollwin",
+    "TeamName": "The Feared",
+    "Level": 88,
+    "Delve": 44,
+    "Rank": 296,
+    "Class": "Assassin"
+  },
+  {
+    "CharacterName": "COP_Hrae",
+    "AccountName": "Hræsvelgr",
+    "TeamName": "The Hidden",
+    "Level": 13,
+    "Delve": 0,
+    "Rank": 735,
+    "Class": "Duelist"
+  },
+  {
+    "CharacterName": "COP_OUCH_IM_ON_FIRE",
+    "AccountName": "xCarlos0",
+    "TeamName": "The Formed",
+    "Level": 71,
+    "Delve": 0,
+    "Rank": 501,
+    "Class": "Ascendant"
+  },
+  {
+    "CharacterName": null,
+    "AccountName": "v3rtikz",
+    "TeamName": "The Twisted",
+    "Level": 0,
+    "Delve": 0,
+    "Rank": 0,
+    "Class": null
+  },
+  {
+    "CharacterName": "ROBThebeeHoney",
+    "AccountName": "Hermengamer",
+    "TeamName": "The Feared",
+    "Level": 27,
+    "Delve": 0,
+    "Rank": 682,
+    "Class": "Templar"
+  },
+  {
+    "CharacterName": "COP_Cocotheone",
+    "AccountName": "cocotheone",
+    "TeamName": "The Hidden",
+    "Level": 67,
+    "Delve": 0,
+    "Rank": 542,
+    "Class": "Ascendant"
+  },
+  {
+    "CharacterName": "COP_Glutey",
+    "AccountName": "Glutey",
+    "TeamName": "The Formed",
+    "Level": 95,
+    "Delve": 115,
+    "Rank": 62,
+    "Class": "Ascendant"
+  },
+  {
+    "CharacterName": null,
+    "AccountName": "Marsc92",
+    "TeamName": "The Twisted",
+    "Level": 0,
+    "Delve": 0,
+    "Rank": 0,
+    "Class": null
+  },
+  {
+    "CharacterName": "ROB_ChrisBot",
+    "AccountName": "YoKwaJaY",
+    "TeamName": "The Feared",
+    "Level": 97,
+    "Delve": 0,
+    "Rank": 21,
+    "Class": "Guardian"
+  },
+  {
+    "CharacterName": "COP_IcedShrimpi",
+    "AccountName": "PotatoShrimpi",
+    "TeamName": "The Hidden",
+    "Level": 81,
+    "Delve": 0,
+    "Rank": 425,
+    "Class": "Occultist"
+  },
+  {
+    "CharacterName": "COP_Whonu",
+    "AccountName": "Whonu",
+    "TeamName": "The Formed",
+    "Level": 76,
+    "Delve": 45,
+    "Rank": 468,
+    "Class": "Gladiator"
+  },
+  {
+    "CharacterName": "ROB_berto",
+    "AccountName": "CherryPoppins",
+    "TeamName": "The Twisted",
+    "Level": 28,
+    "Delve": 0,
+    "Rank": 666,
+    "Class": "Shadow"
+  },
+  {
+    "CharacterName": null,
+    "AccountName": "isaac_dyx",
+    "TeamName": "The Feared",
+    "Level": 0,
+    "Delve": 0,
+    "Rank": 0,
+    "Class": null
+  },
+  {
+    "CharacterName": "COP_Nilki",
+    "AccountName": "xNilkii",
+    "TeamName": "The Hidden",
+    "Level": 47,
+    "Delve": 0,
+    "Rank": 604,
+    "Class": "Occultist"
+  },
+  {
+    "CharacterName": "COP_DefundTheWitch",
+    "AccountName": "Paintballer285",
+    "TeamName": "The Formed",
+    "Level": 79,
+    "Delve": 53,
+    "Rank": 441,
+    "Class": "Necromancer"
+  },
+  {
+    "CharacterName": "ROB_Strange",
+    "AccountName": "Strange_Weather",
+    "TeamName": "The Twisted",
+    "Level": 92,
+    "Delve": 150,
+    "Rank": 156,
+    "Class": "Deadeye"
+  },
+  {
+    "CharacterName": "ROB_elkcaps",
+    "AccountName": "Elkcaps",
+    "TeamName": "The Feared",
+    "Level": 94,
+    "Delve": 157,
+    "Rank": 109,
+    "Class": "Assassin"
+  },
+  {
+    "CharacterName": "COP_Shak",
+    "AccountName": "Garshak",
+    "TeamName": "The Hidden",
+    "Level": 95,
+    "Delve": 160,
+    "Rank": 79,
+    "Class": "Champion"
+  },
+  {
+    "CharacterName": null,
+    "AccountName": "LiQii",
+    "TeamName": "The Formed",
+    "Level": 0,
+    "Delve": 0,
+    "Rank": 0,
+    "Class": null
+  },
+  {
+    "CharacterName": "ROB_Velgrym",
+    "AccountName": "Velgrim",
+    "TeamName": "The Twisted",
+    "Level": 35,
+    "Delve": 0,
+    "Rank": 647,
+    "Class": "Guardian"
+  },
+  {
+    "CharacterName": null,
+    "AccountName": "AZUKI_UCHIHA",
+    "TeamName": "The Feared",
+    "Level": 0,
+    "Delve": 0,
+    "Rank": 0,
+    "Class": null
+  },
+  {
+    "CharacterName": null,
+    "AccountName": "Gorogothands",
+    "TeamName": "The Hidden",
+    "Level": 0,
+    "Delve": 0,
+    "Rank": 0,
+    "Class": null
+  },
+  {
+    "CharacterName": "COP_Wonneproppen",
+    "AccountName": "brot1n",
+    "TeamName": "The Formed",
+    "Level": 94,
+    "Delve": 0,
+    "Rank": 87,
+    "Class": "Occultist"
+  },
+  {
+    "CharacterName": "ROB_MickeyKnoxDex",
+    "AccountName": "Vdex42",
+    "TeamName": "The Twisted",
+    "Level": 95,
+    "Delve": 250,
+    "Rank": 55,
+    "Class": "Saboteur"
+  },
+  {
+    "CharacterName": "ROB_ERT_DE_NIRO",
+    "AccountName": "LordFellah",
+    "TeamName": "The Feared",
+    "Level": 94,
+    "Delve": 120,
+    "Rank": 102,
+    "Class": "Ascendant"
+  },
+  {
+    "CharacterName": "COP_MeAndTheBoys",
+    "AccountName": "Ace3rus",
+    "TeamName": "The Hidden",
+    "Level": 84,
+    "Delve": 0,
+    "Rank": 387,
+    "Class": "Berserker"
+  },
+  {
+    "CharacterName": "COP_frankovic",
+    "AccountName": "sNey9r",
+    "TeamName": "The Formed",
+    "Level": 36,
+    "Delve": 0,
+    "Rank": 644,
+    "Class": "Witch"
+  },
+  {
+    "CharacterName": "ROB_BOI",
+    "AccountName": "insaneboi",
+    "TeamName": "The Twisted",
+    "Level": 92,
+    "Delve": 68,
+    "Rank": 187,
+    "Class": "Assassin"
+  },
+  {
+    "CharacterName": "ROB_ColdShoulder",
+    "AccountName": "Rokteroth",
+    "TeamName": "The Feared",
+    "Level": 72,
+    "Delve": 0,
+    "Rank": 496,
+    "Class": "Trickster"
+  },
+  {
+    "CharacterName": "COP_Detimehascome",
+    "AccountName": "detimehascome",
+    "TeamName": "The Hidden",
+    "Level": 90,
+    "Delve": 94,
+    "Rank": 240,
+    "Class": "Ascendant"
+  },
+  {
+    "CharacterName": "COP_Iratham",
+    "AccountName": "Iratham",
+    "TeamName": "The Formed",
+    "Level": 89,
+    "Delve": 58,
+    "Rank": 272,
+    "Class": "Chieftain"
+  },
+  {
+    "CharacterName": null,
+    "AccountName": "cperri88",
+    "TeamName": "The Twisted",
+    "Level": 0,
+    "Delve": 0,
+    "Rank": 0,
+    "Class": null
+  },
+  {
+    "CharacterName": "ROB_ToxicRain",
+    "AccountName": "TheVictor003",
+    "TeamName": "The Feared",
+    "Level": 67,
+    "Delve": 0,
+    "Rank": 543,
+    "Class": "Pathfinder"
+  },
+  {
+    "CharacterName": "COP_RdyAimFIRE",
+    "AccountName": "Colek",
+    "TeamName": "The Hidden",
+    "Level": 87,
+    "Delve": 82,
+    "Rank": 331,
+    "Class": "Chieftain"
+  },
+  {
+    "CharacterName": "COP_Tabanga",
+    "AccountName": "tabanga1001",
+    "TeamName": "The Formed",
+    "Level": 95,
+    "Delve": 335,
+    "Rank": 73,
+    "Class": "Occultist"
+  },
+  {
+    "CharacterName": null,
+    "AccountName": "jbuc123",
+    "TeamName": "The Twisted",
+    "Level": 0,
+    "Delve": 0,
+    "Rank": 0,
+    "Class": null
+  },
+  {
+    "CharacterName": "ROB_Boombinah",
+    "AccountName": "Boombinah",
+    "TeamName": "The Feared",
+    "Level": 92,
+    "Delve": 91,
+    "Rank": 191,
+    "Class": "Trickster"
+  },
+  {
+    "CharacterName": "COP_ElBonaerense",
+    "AccountName": "BurnerQuemero",
+    "TeamName": "The Hidden",
+    "Level": 90,
+    "Delve": 173,
+    "Rank": 241,
+    "Class": "Champion"
+  },
+  {
+    "CharacterName": "COP_MEANS_PIG",
+    "AccountName": "Oogablast",
+    "TeamName": "The Formed",
+    "Level": 88,
+    "Delve": 43,
+    "Rank": 310,
+    "Class": "Chieftain"
+  },
+  {
+    "CharacterName": "ROB_Yulai",
+    "AccountName": "gost33794",
+    "TeamName": "The Twisted",
+    "Level": 52,
+    "Delve": 0,
+    "Rank": 598,
+    "Class": "Trickster"
+  },
+  {
+    "CharacterName": "ROB_Alistair",
+    "AccountName": "Alistairr",
+    "TeamName": "The Feared",
+    "Level": 73,
+    "Delve": 0,
+    "Rank": 488,
+    "Class": "Guardian"
+  },
+  {
+    "CharacterName": null,
+    "AccountName": "StopFlamin",
+    "TeamName": "The Hidden",
+    "Level": 0,
+    "Delve": 0,
+    "Rank": 0,
+    "Class": null
+  },
+  {
+    "CharacterName": "COP_Giga",
+    "AccountName": "gcttirth",
+    "TeamName": "The Formed",
+    "Level": 13,
+    "Delve": 0,
+    "Rank": 736,
+    "Class": "Marauder"
+  },
+  {
+    "CharacterName": "ROB_Zentun",
+    "AccountName": "kingZentun",
+    "TeamName": "The Twisted",
+    "Level": 93,
+    "Delve": 237,
+    "Rank": 134,
+    "Class": "Assassin"
+  },
+  {
+    "CharacterName": null,
+    "AccountName": "Lakthor",
+    "TeamName": "The Feared",
+    "Level": 0,
+    "Delve": 0,
+    "Rank": 0,
+    "Class": null
+  },
+  {
+    "CharacterName": null,
+    "AccountName": "novatrix",
+    "TeamName": "The Hidden",
+    "Level": 0,
+    "Delve": 0,
+    "Rank": 0,
+    "Class": null
+  },
+  {
+    "CharacterName": "COP_Slam",
+    "AccountName": "Miguelin18",
+    "TeamName": "The Formed",
+    "Level": 16,
+    "Delve": 0,
+    "Rank": 722,
+    "Class": "Duelist"
+  },
+  {
+    "CharacterName": "ROB_ADFGESRFDTGHEUKYH",
+    "AccountName": "zsedcx22",
+    "TeamName": "The Twisted",
+    "Level": 90,
+    "Delve": 0,
+    "Rank": 246,
+    "Class": "Pathfinder"
+  },
+  {
+    "CharacterName": "ROB_SparkingStuffs",
+    "AccountName": "Dec5952",
+    "TeamName": "The Feared",
+    "Level": 86,
+    "Delve": 0,
+    "Rank": 358,
+    "Class": "Assassin"
+  },
+  {
+    "CharacterName": "COP_Yubi_Yubi",
+    "AccountName": "Tortorion",
+    "TeamName": "The Hidden",
+    "Level": 95,
+    "Delve": 0,
+    "Rank": 82,
+    "Class": "Juggernaut"
+  },
+  {
+    "CharacterName": "COP_MaximumSlam",
+    "AccountName": "MaximumMagic87",
+    "TeamName": "The Formed",
+    "Level": 61,
+    "Delve": 0,
+    "Rank": 576,
+    "Class": "Champion"
+  },
+  {
+    "CharacterName": "ROB_ass_Cop",
+    "AccountName": "MasterK90",
+    "TeamName": "The Twisted",
+    "Level": 84,
+    "Delve": 0,
+    "Rank": 381,
+    "Class": "Assassin"
+  },
+  {
+    "CharacterName": "ROB_Eggs",
+    "AccountName": "Aemmon",
+    "TeamName": "The Feared",
+    "Level": 95,
+    "Delve": 283,
+    "Rank": 74,
+    "Class": "Guardian"
+  },
+  {
+    "CharacterName": "Cop_Box",
+    "AccountName": "darkFraud",
+    "TeamName": "The Hidden",
+    "Level": 83,
+    "Delve": 0,
+    "Rank": 399,
+    "Class": "Elementalist"
+  },
+  {
+    "CharacterName": "COP_A_CABANA",
+    "AccountName": "dpvBlackBelt",
+    "TeamName": "The Formed",
+    "Level": 95,
+    "Delve": 202,
+    "Rank": 68,
+    "Class": "Elementalist"
+  },
+  {
+    "CharacterName": "ROB_MaxTV",
+    "AccountName": "pig858",
+    "TeamName": "The Twisted",
+    "Level": 80,
+    "Delve": 0,
+    "Rank": 430,
+    "Class": "Trickster"
+  },
+  {
+    "CharacterName": "ROB_Resistense",
+    "AccountName": "DarkTYrany22",
+    "TeamName": "The Feared",
+    "Level": 88,
+    "Delve": 0,
+    "Rank": 299,
+    "Class": "Guardian"
+  },
+  {
+    "CharacterName": "COP_Dabs",
+    "AccountName": "DanMister",
+    "TeamName": "The Hidden",
+    "Level": 93,
+    "Delve": 98,
+    "Rank": 145,
+    "Class": "Gladiator"
+  },
+  {
+    "CharacterName": "COPㆍCriminal",
+    "AccountName": "MastermindJapan",
+    "TeamName": "The Formed",
+    "Level": 84,
+    "Delve": 0,
+    "Rank": 391,
+    "Class": "Occultist"
+  },
+  {
+    "CharacterName": "ROB_Tris",
+    "AccountName": "airbrushjunior",
+    "TeamName": "The Twisted",
+    "Level": 90,
+    "Delve": 49,
+    "Rank": 231,
+    "Class": "Inquisitor"
+  },
+  {
+    "CharacterName": "ROB_QueenKelli",
+    "AccountName": "QueenKelli",
+    "TeamName": "The Feared",
+    "Level": 88,
+    "Delve": 0,
+    "Rank": 300,
+    "Class": "Guardian"
+  },
+  {
+    "CharacterName": "COPS_POGGERS",
+    "AccountName": "MazzNaron",
+    "TeamName": "The Hidden",
+    "Level": 86,
+    "Delve": 76,
+    "Rank": 361,
+    "Class": "Elementalist"
+  },
+  {
+    "CharacterName": "COP_Matai",
+    "AccountName": "Mataiman",
+    "TeamName": "The Formed",
+    "Level": 96,
+    "Delve": 227,
+    "Rank": 34,
+    "Class": "Gladiator"
+  },
+  {
+    "CharacterName": "ROB_ponx",
+    "AccountName": "ponyikaj",
+    "TeamName": "The Twisted",
+    "Level": 41,
+    "Delve": 0,
+    "Rank": 625,
+    "Class": "Raider"
+  },
+  {
+    "CharacterName": "ROB_Stark",
+    "AccountName": "nathsy11",
+    "TeamName": "The Feared",
+    "Level": 23,
+    "Delve": 0,
+    "Rank": 694,
+    "Class": "Ranger"
+  },
+  {
+    "CharacterName": "COP_Raimei_Moikoh",
+    "AccountName": "Spencer3B",
+    "TeamName": "The Hidden",
+    "Level": 57,
+    "Delve": 0,
+    "Rank": 588,
+    "Class": "Elementalist"
+  },
+  {
+    "CharacterName": "COP_APOS",
+    "AccountName": "APinchOfSanity",
+    "TeamName": "The Formed",
+    "Level": 90,
+    "Delve": 103,
+    "Rank": 224,
+    "Class": "Juggernaut"
+  },
+  {
+    "CharacterName": "ROB_DeKlerk",
+    "AccountName": "yoshisque",
+    "TeamName": "The Twisted",
+    "Level": 85,
+    "Delve": 0,
+    "Rank": 372,
+    "Class": "Guardian"
+  },
+  {
+    "CharacterName": null,
+    "AccountName": "RareFN",
+    "TeamName": "The Feared",
+    "Level": 0,
+    "Delve": 0,
+    "Rank": 0,
+    "Class": null
+  },
+  {
+    "CharacterName": "COP_CORN",
+    "AccountName": "hailjh",
+    "TeamName": "The Hidden",
+    "Level": 93,
+    "Delve": 129,
+    "Rank": 138,
+    "Class": "Gladiator"
+  },
+  {
+    "CharacterName": null,
+    "AccountName": "Itzchurchill",
+    "TeamName": "The Formed",
+    "Level": 0,
+    "Delve": 0,
+    "Rank": 0,
+    "Class": null
+  },
+  {
+    "CharacterName": "ROB_UR_CUMMIES_DADDY",
+    "AccountName": "dylansm",
+    "TeamName": "The Twisted",
+    "Level": 68,
+    "Delve": 0,
+    "Rank": 539,
+    "Class": "Saboteur"
+  },
+  {
+    "CharacterName": null,
+    "AccountName": "maiconpavi",
+    "TeamName": "The Feared",
+    "Level": 0,
+    "Delve": 0,
+    "Rank": 0,
+    "Class": null
+  },
+  {
+    "CharacterName": null,
+    "AccountName": "callmeloser123",
+    "TeamName": "The Hidden",
+    "Level": 0,
+    "Delve": 0,
+    "Rank": 0,
+    "Class": null
+  },
+  {
+    "CharacterName": "CoP_Warmth",
+    "AccountName": "kristjansth",
+    "TeamName": "The Formed",
+    "Level": 52,
+    "Delve": 0,
+    "Rank": 597,
+    "Class": "Gladiator"
+  },
+  {
+    "CharacterName": "ROB_Ando",
+    "AccountName": "AndonKavic",
+    "TeamName": "The Twisted",
+    "Level": 91,
+    "Delve": 52,
+    "Rank": 214,
+    "Class": "Hierophant"
+  },
+  {
+    "CharacterName": null,
+    "AccountName": "DebzFlame",
+    "TeamName": "The Feared",
+    "Level": 0,
+    "Delve": 0,
+    "Rank": 0,
+    "Class": null
+  },
+  {
+    "CharacterName": "COP_ernicHotAF",
+    "AccountName": "Vevert",
+    "TeamName": "The Hidden",
+    "Level": 93,
+    "Delve": 196,
+    "Rank": 124,
+    "Class": "Chieftain"
+  },
+  {
+    "CharacterName": "COP_Bowser_I",
+    "AccountName": "Bowser300",
+    "TeamName": "The Formed",
+    "Level": 86,
+    "Delve": 55,
+    "Rank": 338,
+    "Class": "Berserker"
+  },
+  {
+    "CharacterName": null,
+    "AccountName": "Kurrak",
+    "TeamName": "The Twisted",
+    "Level": 0,
+    "Delve": 0,
+    "Rank": 0,
+    "Class": null
+  },
+  {
+    "CharacterName": "ROB_dopamine",
+    "AccountName": "_overseer",
+    "TeamName": "The Feared",
+    "Level": 78,
+    "Delve": 0,
+    "Rank": 448,
+    "Class": "Assassin"
+  },
+  {
+    "CharacterName": "COP_FarmHHForU",
+    "AccountName": "AtroCty",
+    "TeamName": "The Hidden",
+    "Level": 92,
+    "Delve": 84,
+    "Rank": 196,
+    "Class": "Gladiator"
+  },
+  {
+    "CharacterName": null,
+    "AccountName": "Sebuśi",
+    "TeamName": "The Formed",
+    "Level": 0,
+    "Delve": 0,
+    "Rank": 0,
+    "Class": null
+  },
+  {
+    "CharacterName": null,
+    "AccountName": "shadowpantera",
+    "TeamName": "The Twisted",
+    "Level": 0,
+    "Delve": 0,
+    "Rank": 0,
+    "Class": null
+  },
+  {
+    "CharacterName": null,
+    "AccountName": "ElementalBear",
+    "TeamName": "The Feared",
+    "Level": 0,
+    "Delve": 0,
+    "Rank": 0,
+    "Class": null
+  },
+  {
+    "CharacterName": "COP_realDonaldTrump",
+    "AccountName": "SuperTacoman",
+    "TeamName": "The Hidden",
+    "Level": 85,
+    "Delve": 39,
+    "Rank": 376,
+    "Class": "Champion"
+  },
+  {
+    "CharacterName": "COP_ScuffedBuildGamer",
+    "AccountName": "WhieSkies",
+    "TeamName": "The Formed",
+    "Level": 95,
+    "Delve": 510,
+    "Rank": 81,
+    "Class": "Ascendant"
+  },
+  {
+    "CharacterName": "ROB_Nephris",
+    "AccountName": "portos101",
+    "TeamName": "The Twisted",
+    "Level": 88,
+    "Delve": 59,
+    "Rank": 295,
+    "Class": "Pathfinder"
+  },
+  {
+    "CharacterName": "ROB_PheonixxZA",
+    "AccountName": "PheonixxZA",
+    "TeamName": "The Feared",
+    "Level": 69,
+    "Delve": 0,
+    "Rank": 524,
+    "Class": "Saboteur"
+  },
+  {
+    "CharacterName": null,
+    "AccountName": "Grootheid",
+    "TeamName": "The Hidden",
+    "Level": 0,
+    "Delve": 0,
+    "Rank": 0,
+    "Class": null
+  },
+  {
+    "CharacterName": "COP_DEBIT",
+    "AccountName": "Debit",
+    "TeamName": "The Formed",
+    "Level": 96,
+    "Delve": 129,
+    "Rank": 37,
+    "Class": "Elementalist"
+  },
+  {
+    "CharacterName": "ROB_HomeOfficeEDagain",
+    "AccountName": "deinernst123",
+    "TeamName": "The Twisted",
+    "Level": 92,
+    "Delve": 151,
+    "Rank": 166,
+    "Class": "Trickster"
+  },
+  {
+    "CharacterName": "ROB_Waxyguy",
+    "AccountName": "DeWile",
+    "TeamName": "The Feared",
+    "Level": 90,
+    "Delve": 49,
+    "Rank": 245,
+    "Class": "Trickster"
+  },
+  {
+    "CharacterName": "COP_Crye",
+    "AccountName": "Cryeon09",
+    "TeamName": "The Hidden",
+    "Level": 92,
+    "Delve": 92,
+    "Rank": 190,
+    "Class": "Champion"
+  },
+  {
+    "CharacterName": "COPS_Cryo",
+    "AccountName": "frostyalex454",
+    "TeamName": "The Formed",
+    "Level": 76,
+    "Delve": 41,
+    "Rank": 464,
+    "Class": "Necromancer"
+  },
+  {
+    "CharacterName": "ROB_Totemdeez",
+    "AccountName": "Tykewn",
+    "TeamName": "The Twisted",
+    "Level": 87,
+    "Delve": 0,
+    "Rank": 324,
+    "Class": "Hierophant"
+  },
+  {
+    "CharacterName": "ROB_Gram",
+    "AccountName": "gramcraker1",
+    "TeamName": "The Feared",
+    "Level": 94,
+    "Delve": 287,
+    "Rank": 115,
+    "Class": "Pathfinder"
+  },
+  {
+    "CharacterName": "COP_Necrobot",
+    "AccountName": "Noodlestick",
+    "TeamName": "The Hidden",
+    "Level": 69,
+    "Delve": 0,
+    "Rank": 529,
+    "Class": "Necromancer"
+  },
+  {
+    "CharacterName": "COB_itXIX",
+    "AccountName": "nikidino8",
+    "TeamName": "The Formed",
+    "Level": 78,
+    "Delve": 44,
+    "Rank": 453,
+    "Class": "Gladiator"
+  },
+  {
+    "CharacterName": "ROB_myhp",
+    "AccountName": "yuzzazles",
+    "TeamName": "The Twisted",
+    "Level": 64,
+    "Delve": 0,
+    "Rank": 560,
+    "Class": "Assassin"
+  },
+  {
+    "CharacterName": null,
+    "AccountName": "Takeda85",
+    "TeamName": "The Feared",
+    "Level": 0,
+    "Delve": 0,
+    "Rank": 0,
+    "Class": null
+  },
+  {
+    "CharacterName": "COPblaaashhh",
+    "AccountName": "Kse7en",
+    "TeamName": "The Hidden",
+    "Level": 47,
+    "Delve": 0,
+    "Rank": 605,
+    "Class": "Champion"
+  },
+  {
+    "CharacterName": "COP_TheLiability",
+    "AccountName": "Xehn",
+    "TeamName": "The Formed",
+    "Level": 92,
+    "Delve": 66,
+    "Rank": 160,
+    "Class": "Occultist"
+  },
+  {
+    "CharacterName": "ROB_Reeze",
+    "AccountName": "Rakio",
+    "TeamName": "The Twisted",
+    "Level": 90,
+    "Delve": 44,
+    "Rank": 249,
+    "Class": "Trickster"
+  },
+  {
+    "CharacterName": "ROB_Loj",
+    "AccountName": "LoveOfJustice19",
+    "TeamName": "The Feared",
+    "Level": 94,
+    "Delve": 251,
+    "Rank": 93,
+    "Class": "Trickster"
+  },
+  {
+    "CharacterName": "Cop_DropOpenUpShop",
+    "AccountName": "KrisHenderson",
+    "TeamName": "The Hidden",
+    "Level": 87,
+    "Delve": 0,
+    "Rank": 312,
+    "Class": "Slayer"
+  },
+  {
+    "CharacterName": null,
+    "AccountName": "healadin1",
+    "TeamName": "The Formed",
+    "Level": 0,
+    "Delve": 0,
+    "Rank": 0,
+    "Class": null
+  },
+  {
+    "CharacterName": "Rob_Pekora",
+    "AccountName": "vraccers",
+    "TeamName": "The Twisted",
+    "Level": 76,
+    "Delve": 0,
+    "Rank": 472,
+    "Class": "Ascendant"
+  },
+  {
+    "CharacterName": "ROB_Out",
+    "AccountName": "OsOscarius",
+    "TeamName": "The Feared",
+    "Level": 88,
+    "Delve": 77,
+    "Rank": 283,
+    "Class": "Saboteur"
+  },
+  {
+    "CharacterName": "COP_per",
+    "AccountName": "Karvasius_9665",
+    "TeamName": "The Hidden",
+    "Level": 78,
+    "Delve": 0,
+    "Rank": 455,
+    "Class": "Chieftain"
+  },
+  {
+    "CharacterName": null,
+    "AccountName": "Zertik",
+    "TeamName": "The Formed",
+    "Level": 0,
+    "Delve": 0,
+    "Rank": 0,
+    "Class": null
+  },
+  {
+    "CharacterName": null,
+    "AccountName": "LawClawy",
+    "TeamName": "The Twisted",
+    "Level": 0,
+    "Delve": 0,
+    "Rank": 0,
+    "Class": null
+  },
+  {
+    "CharacterName": "ROB_Noah",
+    "AccountName": "bubbleninja",
+    "TeamName": "The Feared",
+    "Level": 25,
+    "Delve": 0,
+    "Rank": 690,
+    "Class": "Ranger"
+  },
+  {
+    "CharacterName": "COP_ulatedWithYourMom",
+    "AccountName": "kcolor",
+    "TeamName": "The Hidden",
+    "Level": 95,
+    "Delve": 108,
+    "Rank": 78,
+    "Class": "Chieftain"
+  },
+  {
+    "CharacterName": "COP_Gaia",
+    "AccountName": "KimSky",
+    "TeamName": "The Formed",
+    "Level": 20,
+    "Delve": 0,
+    "Rank": 709,
+    "Class": "Duelist"
+  },
+  {
+    "CharacterName": "ROB_ert",
+    "AccountName": "MicroRice",
+    "TeamName": "The Twisted",
+    "Level": 96,
+    "Delve": 219,
+    "Rank": 29,
+    "Class": "Guardian"
+  },
+  {
+    "CharacterName": "ROB_PLZENJOYGAME",
+    "AccountName": "IamKaru",
+    "TeamName": "The Feared",
+    "Level": 88,
+    "Delve": 82,
+    "Rank": 301,
+    "Class": "Assassin"
+  },
+  {
+    "CharacterName": null,
+    "AccountName": "ballsmahonie",
+    "TeamName": "The Hidden",
+    "Level": 0,
+    "Delve": 0,
+    "Rank": 0,
+    "Class": null
+  },
+  {
+    "CharacterName": "COP_Wox",
+    "AccountName": "woxex",
+    "TeamName": "The Formed",
+    "Level": 70,
+    "Delve": 0,
+    "Rank": 518,
+    "Class": "Ascendant"
+  },
+  {
+    "CharacterName": "ROB_Kloozy",
+    "AccountName": "Kloozy",
+    "TeamName": "The Twisted",
+    "Level": 13,
+    "Delve": 0,
+    "Rank": 733,
+    "Class": "Shadow"
+  },
+  {
+    "CharacterName": "ROB_binHood_Slinger",
+    "AccountName": "the_gunslinger_666",
+    "TeamName": "The Feared",
+    "Level": 72,
+    "Delve": 0,
+    "Rank": 499,
+    "Class": "Pathfinder"
+  },
+  {
+    "CharacterName": "COP_Quintao",
+    "AccountName": "Gusstavos",
+    "TeamName": "The Hidden",
+    "Level": 12,
+    "Delve": 0,
+    "Rank": 740,
+    "Class": "Witch"
+  },
+  {
+    "CharacterName": null,
+    "AccountName": "ImDaJosh",
+    "TeamName": "The Formed",
+    "Level": 0,
+    "Delve": 0,
+    "Rank": 0,
+    "Class": null
+  },
+  {
+    "CharacterName": "ROB_wttreplicablueprint",
+    "AccountName": "NoobInAction",
+    "TeamName": "The Twisted",
+    "Level": 85,
+    "Delve": 46,
+    "Rank": 365,
+    "Class": "Ascendant"
+  },
+  {
+    "CharacterName": "ROB_BERS_EZ_WIN",
+    "AccountName": "MiguelFg",
+    "TeamName": "The Feared",
+    "Level": 94,
+    "Delve": 150,
+    "Rank": 106,
+    "Class": "Trickster"
+  },
+  {
+    "CharacterName": "COP_ShaulinW",
+    "AccountName": "willyshaulin117",
+    "TeamName": "The Hidden",
+    "Level": 77,
+    "Delve": 51,
+    "Rank": 456,
+    "Class": "Juggernaut"
+  },
+  {
+    "CharacterName": "COP_craigtn",
+    "AccountName": "craigtn",
+    "TeamName": "The Formed",
+    "Level": 70,
+    "Delve": 0,
+    "Rank": 517,
+    "Class": "Champion"
+  },
+  {
+    "CharacterName": null,
+    "AccountName": "DrGilgamesh",
+    "TeamName": "The Twisted",
+    "Level": 0,
+    "Delve": 0,
+    "Rank": 0,
+    "Class": null
+  },
+  {
+    "CharacterName": "ROB_BERY",
+    "AccountName": "lovelygom",
+    "TeamName": "The Feared",
+    "Level": 44,
+    "Delve": 0,
+    "Rank": 613,
+    "Class": "Inquisitor"
+  },
+  {
+    "CharacterName": null,
+    "AccountName": "whood",
+    "TeamName": "The Hidden",
+    "Level": 0,
+    "Delve": 0,
+    "Rank": 0,
+    "Class": null
+  },
+  {
+    "CharacterName": null,
+    "AccountName": "EvolBe",
+    "TeamName": "The Formed",
+    "Level": 0,
+    "Delve": 0,
+    "Rank": 0,
+    "Class": null
+  },
+  {
+    "CharacterName": null,
+    "AccountName": "sparkdaniel",
+    "TeamName": "The Twisted",
+    "Level": 0,
+    "Delve": 0,
+    "Rank": 0,
+    "Class": null
+  },
+  {
+    "CharacterName": "ROB_Xiaobo",
+    "AccountName": "kscxiaobo",
+    "TeamName": "The Feared",
+    "Level": 92,
+    "Delve": 0,
+    "Rank": 182,
+    "Class": "Assassin"
+  },
+  {
+    "CharacterName": "COP_ReformsNeeded",
+    "AccountName": "PFR7",
+    "TeamName": "The Hidden",
+    "Level": 87,
+    "Delve": 0,
+    "Rank": 330,
+    "Class": "Chieftain"
+  },
+  {
+    "CharacterName": "COP_TyriuthBlasting",
+    "AccountName": "Tyriuth",
+    "TeamName": "The Formed",
+    "Level": 64,
+    "Delve": 0,
+    "Rank": 559,
+    "Class": "Chieftain"
+  },
+  {
+    "CharacterName": "ROB_totemenslaver",
+    "AccountName": "zeztar",
+    "TeamName": "The Twisted",
+    "Level": 83,
+    "Delve": 0,
+    "Rank": 404,
+    "Class": "Hierophant"
+  },
+  {
+    "CharacterName": null,
+    "AccountName": "hobsbawn",
+    "TeamName": "The Feared",
+    "Level": 0,
+    "Delve": 0,
+    "Rank": 0,
+    "Class": null
+  },
+  {
+    "CharacterName": null,
+    "AccountName": "deadlydoze",
+    "TeamName": "The Hidden",
+    "Level": 0,
+    "Delve": 0,
+    "Rank": 0,
+    "Class": null
+  },
+  {
+    "CharacterName": "COP_LordNaCl",
+    "AccountName": "LordNaCl",
+    "TeamName": "The Formed",
+    "Level": 27,
+    "Delve": 0,
+    "Rank": 681,
+    "Class": "Duelist"
+  },
+  {
+    "CharacterName": null,
+    "AccountName": "FireyBombz",
+    "TeamName": "The Twisted",
+    "Level": 0,
+    "Delve": 0,
+    "Rank": 0,
+    "Class": null
+  },
+  {
+    "CharacterName": "ROB_SeltzerACAB",
+    "AccountName": "Fraud",
+    "TeamName": "The Feared",
+    "Level": 96,
+    "Delve": 501,
+    "Rank": 42,
+    "Class": "Assassin"
+  },
+  {
+    "CharacterName": "Copvid",
+    "AccountName": "enigmahod",
+    "TeamName": "The Hidden",
+    "Level": 81,
+    "Delve": 0,
+    "Rank": 423,
+    "Class": "Champion"
+  },
+  {
+    "CharacterName": "COP_IcySlaughter",
+    "AccountName": "Teddymaul5",
+    "TeamName": "The Formed",
+    "Level": 58,
+    "Delve": 0,
+    "Rank": 585,
+    "Class": "Berserker"
+  },
+  {
+    "CharacterName": "Rob_UmbryLances",
+    "AccountName": "Umbryz",
+    "TeamName": "The Twisted",
+    "Level": 93,
+    "Delve": 176,
+    "Rank": 130,
+    "Class": "Deadeye"
+  },
+  {
+    "CharacterName": "ROB_Koggyㆍ",
+    "AccountName": "Koggy",
+    "TeamName": "The Feared",
+    "Level": 60,
+    "Delve": 0,
+    "Rank": 577,
+    "Class": "Trickster"
+  },
+  {
+    "CharacterName": null,
+    "AccountName": "Axle88",
+    "TeamName": "The Hidden",
+    "Level": 0,
+    "Delve": 0,
+    "Rank": 0,
+    "Class": null
+  },
+  {
+    "CharacterName": null,
+    "AccountName": "Ysengrimus",
+    "TeamName": "The Formed",
+    "Level": 0,
+    "Delve": 0,
+    "Rank": 0,
+    "Class": null
+  },
+  {
+    "CharacterName": null,
+    "AccountName": "Rpgambit",
+    "TeamName": "The Twisted",
+    "Level": 0,
+    "Delve": 0,
+    "Rank": 0,
+    "Class": null
+  },
+  {
+    "CharacterName": "ROB_Dabsch",
+    "AccountName": "dabsch",
+    "TeamName": "The Feared",
+    "Level": 68,
+    "Delve": 0,
+    "Rank": 533,
+    "Class": "Raider"
+  },
+  {
+    "CharacterName": "Cop_ZertyZ_Champion",
+    "AccountName": "SaySayMCYT",
+    "TeamName": "The Hidden",
+    "Level": 41,
+    "Delve": 0,
+    "Rank": 624,
+    "Class": "Champion"
+  },
+  {
+    "CharacterName": null,
+    "AccountName": "emolistic",
+    "TeamName": "The Formed",
+    "Level": 0,
+    "Delve": 0,
+    "Rank": 0,
+    "Class": null
+  },
+  {
+    "CharacterName": "ROB_BloodAngel",
+    "AccountName": "BloodAngel6908",
+    "TeamName": "The Twisted",
+    "Level": 61,
+    "Delve": 0,
+    "Rank": 573,
+    "Class": "Hierophant"
+  },
+  {
+    "CharacterName": "ROB_TheElderScrolls",
+    "AccountName": "Micro24",
+    "TeamName": "The Feared",
+    "Level": 94,
+    "Delve": 501,
+    "Rank": 107,
+    "Class": "Assassin"
+  },
+  {
+    "CharacterName": "COP_pokiW",
+    "AccountName": "reh",
+    "TeamName": "The Hidden",
+    "Level": 85,
+    "Delve": 59,
+    "Rank": 363,
+    "Class": "Occultist"
+  },
+  {
+    "CharacterName": null,
+    "AccountName": "mim4432",
+    "TeamName": "The Formed",
+    "Level": 0,
+    "Delve": 0,
+    "Rank": 0,
+    "Class": null
+  },
+  {
+    "CharacterName": "ROB_Biscuit",
+    "AccountName": "Sea_Biscuit",
+    "TeamName": "The Twisted",
+    "Level": 95,
+    "Delve": 0,
+    "Rank": 61,
+    "Class": "Trickster"
+  },
+  {
+    "CharacterName": null,
+    "AccountName": "antiwirusas",
+    "TeamName": "The Feared",
+    "Level": 0,
+    "Delve": 0,
+    "Rank": 0,
+    "Class": null
+  },
+  {
+    "CharacterName": "COP_DropAndRoll",
+    "AccountName": "Flamingjockeyz",
+    "TeamName": "The Hidden",
+    "Level": 14,
+    "Delve": 0,
+    "Rank": 730,
+    "Class": "Witch"
+  },
+  {
+    "CharacterName": "COP_PizzaIsLove",
+    "AccountName": "HideOnPizza",
+    "TeamName": "The Formed",
+    "Level": 86,
+    "Delve": 45,
+    "Rank": 350,
+    "Class": "Chieftain"
+  },
+  {
+    "CharacterName": "ROB_kttd",
+    "AccountName": "khonsuthagod",
+    "TeamName": "The Twisted",
+    "Level": 70,
+    "Delve": 0,
+    "Rank": 514,
+    "Class": "Hierophant"
+  },
+  {
+    "CharacterName": "ROB_Soupline",
+    "AccountName": "soupline",
+    "TeamName": "The Feared",
+    "Level": 93,
+    "Delve": 131,
+    "Rank": 125,
+    "Class": "Pathfinder"
+  },
+  {
+    "CharacterName": "COP_Motoko",
+    "AccountName": "Asuga",
+    "TeamName": "The Hidden",
+    "Level": 90,
+    "Delve": 93,
+    "Rank": 236,
+    "Class": "Occultist"
+  },
+  {
+    "CharacterName": "COP_Mizuwari",
+    "AccountName": "Mizuwarii",
+    "TeamName": "The Formed",
+    "Level": 92,
+    "Delve": 0,
+    "Rank": 157,
+    "Class": "Ascendant"
+  },
+  {
+    "CharacterName": "ROB_blazin",
+    "AccountName": "GetMcDiddled",
+    "TeamName": "The Twisted",
+    "Level": 91,
+    "Delve": 0,
+    "Rank": 200,
+    "Class": "Assassin"
+  },
+  {
+    "CharacterName": "ROB_Xvolve",
+    "AccountName": "Xvolve2",
+    "TeamName": "The Feared",
+    "Level": 8,
+    "Delve": 0,
+    "Rank": 752,
+    "Class": "Shadow"
+  },
+  {
+    "CharacterName": "COP_CQU",
+    "AccountName": "Cqu",
+    "TeamName": "The Hidden",
+    "Level": 86,
+    "Delve": 0,
+    "Rank": 346,
+    "Class": "Occultist"
+  },
+  {
+    "CharacterName": "COP_Carry",
+    "AccountName": "beliebalie",
+    "TeamName": "The Formed",
+    "Level": 79,
+    "Delve": 0,
+    "Rank": 440,
+    "Class": "Gladiator"
+  },
+  {
+    "CharacterName": "ROB_Raakin",
+    "AccountName": "Schnickerz",
+    "TeamName": "The Twisted",
+    "Level": 2,
+    "Delve": 0,
+    "Rank": 771,
+    "Class": "Ranger"
+  },
+  {
+    "CharacterName": "ROB_Eliza",
+    "AccountName": "miton",
+    "TeamName": "The Feared",
+    "Level": 90,
+    "Delve": 0,
+    "Rank": 260,
+    "Class": "Trickster"
+  },
+  {
+    "CharacterName": "COP_lolfix",
+    "AccountName": "lolfix",
+    "TeamName": "The Hidden",
+    "Level": 91,
+    "Delve": 85,
+    "Rank": 221,
+    "Class": "Necromancer"
+  },
+  {
+    "CharacterName": "COP_Vindog",
+    "AccountName": "vnaynay24",
+    "TeamName": "The Formed",
+    "Level": 95,
+    "Delve": 208,
+    "Rank": 85,
+    "Class": "Necromancer"
+  },
+  {
+    "CharacterName": "ROB_in",
+    "AccountName": "WereFang",
+    "TeamName": "The Twisted",
+    "Level": 81,
+    "Delve": 0,
+    "Rank": 416,
+    "Class": "Assassin"
+  },
+  {
+    "CharacterName": "ROB_Heltn",
+    "AccountName": "Helt0n",
+    "TeamName": "The Feared",
+    "Level": 8,
+    "Delve": 0,
+    "Rank": 755,
+    "Class": "Shadow"
+  },
+  {
+    "CharacterName": "COP_ilLegalSummons",
+    "AccountName": "Optaka",
+    "TeamName": "The Hidden",
+    "Level": 91,
+    "Delve": 63,
+    "Rank": 215,
+    "Class": "Necromancer"
+  },
+  {
+    "CharacterName": "COP_Skeleton",
+    "AccountName": "skeleton432",
+    "TeamName": "The Formed",
+    "Level": 8,
+    "Delve": 0,
+    "Rank": 754,
+    "Class": "Witch"
+  },
+  {
+    "CharacterName": null,
+    "AccountName": "polerules25",
+    "TeamName": "The Twisted",
+    "Level": 0,
+    "Delve": 0,
+    "Rank": 0,
+    "Class": null
+  },
+  {
+    "CharacterName": null,
+    "AccountName": "FeLiZMeX",
+    "TeamName": "The Feared",
+    "Level": 0,
+    "Delve": 0,
+    "Rank": 0,
+    "Class": null
+  },
+  {
+    "CharacterName": null,
+    "AccountName": "karvensi",
+    "TeamName": "The Hidden",
+    "Level": 0,
+    "Delve": 0,
+    "Rank": 0,
+    "Class": null
+  },
+  {
+    "CharacterName": null,
+    "AccountName": "kiravor",
+    "TeamName": "The Formed",
+    "Level": 0,
+    "Delve": 0,
+    "Rank": 0,
+    "Class": null
+  },
+  {
+    "CharacterName": "ROB_Razue",
+    "AccountName": "Razuee",
+    "TeamName": "The Twisted",
+    "Level": 70,
+    "Delve": 0,
+    "Rank": 512,
+    "Class": "Trickster"
+  },
+  {
+    "CharacterName": "ROBboringbuild",
+    "AccountName": "stealthyninjat",
+    "TeamName": "The Feared",
+    "Level": 90,
+    "Delve": 0,
+    "Rank": 257,
+    "Class": "Trickster"
+  },
+  {
+    "CharacterName": "COP_Again",
+    "AccountName": "sayhey25",
+    "TeamName": "The Hidden",
+    "Level": 92,
+    "Delve": 92,
+    "Rank": 186,
+    "Class": "Champion"
+  },
+  {
+    "CharacterName": null,
+    "AccountName": "Schlaxy",
+    "TeamName": "The Formed",
+    "Level": 0,
+    "Delve": 0,
+    "Rank": 0,
+    "Class": null
+  },
+  {
+    "CharacterName": "Rob_ertDeniro",
+    "AccountName": "MiguelSRLJ",
+    "TeamName": "The Twisted",
+    "Level": 20,
+    "Delve": 0,
+    "Rank": 711,
+    "Class": "Ranger"
+  },
+  {
+    "CharacterName": "ROB_inyoublind",
+    "AccountName": "Divekick",
+    "TeamName": "The Feared",
+    "Level": 79,
+    "Delve": 0,
+    "Rank": 446,
+    "Class": "Trickster"
+  },
+  {
+    "CharacterName": "COP_Lere",
+    "AccountName": "Lerexis",
+    "TeamName": "The Hidden",
+    "Level": 45,
+    "Delve": 0,
+    "Rank": 608,
+    "Class": "Ascendant"
+  },
+  {
+    "CharacterName": "COP_JAMMA",
+    "AccountName": "JammaBro",
+    "TeamName": "The Formed",
+    "Level": 94,
+    "Delve": 153,
+    "Rank": 89,
+    "Class": "Gladiator"
+  },
+  {
+    "CharacterName": "ASDELPASAAA",
+    "AccountName": "Asdelpada",
+    "TeamName": "The Twisted",
+    "Level": 72,
+    "Delve": 0,
+    "Rank": 497,
+    "Class": "Assassin"
+  },
+  {
+    "CharacterName": "ROB_n_ROLL",
+    "AccountName": "eknathon",
+    "TeamName": "The Feared",
+    "Level": 67,
+    "Delve": 0,
+    "Rank": 546,
+    "Class": "Raider"
+  },
+  {
+    "CharacterName": "COPS_Ryvster",
+    "AccountName": "Ryvster96",
+    "TeamName": "The Hidden",
+    "Level": 86,
+    "Delve": 0,
+    "Rank": 343,
+    "Class": "Juggernaut"
+  },
+  {
+    "CharacterName": null,
+    "AccountName": "1BaneBoy",
+    "TeamName": "The Formed",
+    "Level": 0,
+    "Delve": 0,
+    "Rank": 0,
+    "Class": null
+  },
+  {
+    "CharacterName": "MinionMichelle",
+    "AccountName": "RayRazer",
+    "TeamName": "The Twisted",
+    "Level": 81,
+    "Delve": 0,
+    "Rank": 421,
+    "Class": "Invalid Class (Necromancer)"
+  },
+  {
+    "CharacterName": "ROB_momo",
+    "AccountName": "momookgoodyes",
+    "TeamName": "The Feared",
+    "Level": 90,
+    "Delve": 57,
+    "Rank": 233,
+    "Class": "Trickster"
+  },
+  {
+    "CharacterName": null,
+    "AccountName": "ZachOK",
+    "TeamName": "The Hidden",
+    "Level": 0,
+    "Delve": 0,
+    "Rank": 0,
+    "Class": null
+  },
+  {
+    "CharacterName": "COP_ImpaleHeathens",
+    "AccountName": "Centered",
+    "TeamName": "The Formed",
+    "Level": 75,
+    "Delve": 0,
+    "Rank": 476,
+    "Class": "Champion"
+  },
+  {
+    "CharacterName": "ROB_SHHAUN",
+    "AccountName": "shhaun",
+    "TeamName": "The Twisted",
+    "Level": 1,
+    "Delve": 0,
+    "Rank": 855,
+    "Class": "Shadow"
+  },
+  {
+    "CharacterName": "ROB_Dao",
+    "AccountName": "Daolung",
+    "TeamName": "The Feared",
+    "Level": 93,
+    "Delve": 175,
+    "Rank": 117,
+    "Class": "Assassin"
+  },
+  {
+    "CharacterName": "COP_EoinsFaceClapper",
+    "AccountName": "ChogaidhDia",
+    "TeamName": "The Hidden",
+    "Level": 91,
+    "Delve": 106,
+    "Rank": 216,
+    "Class": "Chieftain"
+  },
+  {
+    "CharacterName": "COP_Dezzy",
+    "AccountName": "jshrade",
+    "TeamName": "The Formed",
+    "Level": 88,
+    "Delve": 79,
+    "Rank": 287,
+    "Class": "Ascendant"
+  },
+  {
+    "CharacterName": "ROB_Butternuts",
+    "AccountName": "Butternuts",
+    "TeamName": "The Twisted",
+    "Level": 91,
+    "Delve": 67,
+    "Rank": 210,
+    "Class": "Inquisitor"
+  },
+  {
+    "CharacterName": "ROB_Meyor",
+    "AccountName": "Meyox",
+    "TeamName": "The Feared",
+    "Level": 95,
+    "Delve": 257,
+    "Rank": 54,
+    "Class": "Assassin"
+  },
+  {
+    "CharacterName": "COP_IMANECROBOI",
+    "AccountName": "xx_peruna_xx",
+    "TeamName": "The Hidden",
+    "Level": 74,
+    "Delve": 0,
+    "Rank": 479,
+    "Class": "Necromancer"
+  },
+  {
+    "CharacterName": null,
+    "AccountName": "Tiringking",
+    "TeamName": "The Formed",
+    "Level": 0,
+    "Delve": 0,
+    "Rank": 0,
+    "Class": null
+  },
+  {
+    "CharacterName": null,
+    "AccountName": "electist",
+    "TeamName": "The Twisted",
+    "Level": 0,
+    "Delve": 0,
+    "Rank": 0,
+    "Class": null
+  },
+  {
+    "CharacterName": "ROB_Elmin",
+    "AccountName": "jagiellonia",
+    "TeamName": "The Feared",
+    "Level": 95,
+    "Delve": 300,
+    "Rank": 52,
+    "Class": "Trickster"
+  },
+  {
+    "CharacterName": "COP_MrCharger",
+    "AccountName": "MrCharger8",
+    "TeamName": "The Hidden",
+    "Level": 77,
+    "Delve": 0,
+    "Rank": 462,
+    "Class": "Chieftain"
+  },
+  {
+    "CharacterName": "COPkumatsu",
+    "AccountName": "glorageric",
+    "TeamName": "The Formed",
+    "Level": 82,
+    "Delve": 44,
+    "Rank": 406,
+    "Class": "Gladiator"
+  },
+  {
+    "CharacterName": "ROB_Nazeblah",
+    "AccountName": "Nazeblah",
+    "TeamName": "The Twisted",
+    "Level": 16,
+    "Delve": 0,
+    "Rank": 720,
+    "Class": "Shadow"
+  },
+  {
+    "CharacterName": "ROB_stealyourmom",
+    "AccountName": "tagormaster",
+    "TeamName": "The Feared",
+    "Level": 89,
+    "Delve": 80,
+    "Rank": 276,
+    "Class": "Saboteur"
+  },
+  {
+    "CharacterName": "COP_ypaste",
+    "AccountName": "tomoliop",
+    "TeamName": "The Hidden",
+    "Level": 53,
+    "Delve": 0,
+    "Rank": 595,
+    "Class": "Gladiator"
+  },
+  {
+    "CharacterName": null,
+    "AccountName": "Spyral7",
+    "TeamName": "The Formed",
+    "Level": 0,
+    "Delve": 0,
+    "Rank": 0,
+    "Class": null
+  },
+  {
+    "CharacterName": "ROB_StealingElections",
+    "AccountName": "SpongeBOZZ666",
+    "TeamName": "The Twisted",
+    "Level": 85,
+    "Delve": 59,
+    "Rank": 371,
+    "Class": "Trickster"
+  },
+  {
+    "CharacterName": "ROB_Chief_of_the_thief",
+    "AccountName": "SleepyJoe716",
+    "TeamName": "The Feared",
+    "Level": 43,
+    "Delve": 0,
+    "Rank": 618,
+    "Class": "Trickster"
+  },
+  {
+    "CharacterName": "COP_DONUT_DELIVERY",
+    "AccountName": "Hammerklau",
+    "TeamName": "The Hidden",
+    "Level": 61,
+    "Delve": 0,
+    "Rank": 571,
+    "Class": "Necromancer"
+  },
+  {
+    "CharacterName": "COP_Nova",
+    "AccountName": "rodmanj1207",
+    "TeamName": "The Formed",
+    "Level": 88,
+    "Delve": 0,
+    "Rank": 282,
+    "Class": "Necromancer"
+  },
+  {
+    "CharacterName": "ROB_Rusty",
+    "AccountName": "rustroot333",
+    "TeamName": "The Twisted",
+    "Level": 89,
+    "Delve": 101,
+    "Rank": 273,
+    "Class": "Raider"
+  },
+  {
+    "CharacterName": "ROB_AjBanana",
+    "AccountName": "AjBanana",
+    "TeamName": "The Feared",
+    "Level": 92,
+    "Delve": 50,
+    "Rank": 175,
+    "Class": "Assassin"
+  },
+  {
+    "CharacterName": "COPS_CYYYYYCLONEE",
+    "AccountName": "sil3nt1497",
+    "TeamName": "The Hidden",
+    "Level": 89,
+    "Delve": 50,
+    "Rank": 277,
+    "Class": "Champion"
+  },
+  {
+    "CharacterName": "COP_Tootaly_takeTWO",
+    "AccountName": "Tootaly",
+    "TeamName": "The Formed",
+    "Level": 85,
+    "Delve": 0,
+    "Rank": 375,
+    "Class": "Necromancer"
+  },
+  {
+    "CharacterName": "ROB_Simeon",
+    "AccountName": "S1meon_ttv",
+    "TeamName": "The Twisted",
+    "Level": 100,
+    "Delve": 501,
+    "Rank": 1,
+    "Class": "Saboteur"
+  },
+  {
+    "CharacterName": "ROB_Exdii",
+    "AccountName": "Exdii_Raven",
+    "TeamName": "The Feared",
+    "Level": 87,
+    "Delve": 57,
+    "Rank": 337,
+    "Class": "Assassin"
+  },
+  {
+    "CharacterName": null,
+    "AccountName": "Atinyton",
+    "TeamName": "The Hidden",
+    "Level": 0,
+    "Delve": 0,
+    "Rank": 0,
+    "Class": null
+  },
+  {
+    "CharacterName": "COP_thinth",
+    "AccountName": "thjnth",
+    "TeamName": "The Formed",
+    "Level": 94,
+    "Delve": 178,
+    "Rank": 112,
+    "Class": "Gladiator"
+  },
+  {
+    "CharacterName": "ROB_you_blind",
+    "AccountName": "ImmortalTalisman",
+    "TeamName": "The Twisted",
+    "Level": 61,
+    "Delve": 0,
+    "Rank": 575,
+    "Class": "Raider"
+  },
+  {
+    "CharacterName": "ROB_Tod",
+    "AccountName": "todin",
+    "TeamName": "The Feared",
+    "Level": 87,
+    "Delve": 0,
+    "Rank": 336,
+    "Class": "Assassin"
+  },
+  {
+    "CharacterName": "COP_RossPierrDol",
+    "AccountName": "RossPierrDol",
+    "TeamName": "The Hidden",
+    "Level": 97,
+    "Delve": 91,
+    "Rank": 22,
+    "Class": "Berserker"
+  },
+  {
+    "CharacterName": "COP_xela",
+    "AccountName": "xelahaha",
+    "TeamName": "The Formed",
+    "Level": 87,
+    "Delve": 0,
+    "Rank": 329,
+    "Class": "Berserker"
+  },
+  {
+    "CharacterName": "ROBinMuriel",
+    "AccountName": "Kirhao",
+    "TeamName": "The Twisted",
+    "Level": 90,
+    "Delve": 42,
+    "Rank": 239,
+    "Class": "Deadeye"
+  },
+  {
+    "CharacterName": "ROB_mud",
+    "AccountName": "mudmud",
+    "TeamName": "The Feared",
+    "Level": 91,
+    "Delve": 72,
+    "Rank": 213,
+    "Class": "Assassin"
+  },
+  {
+    "CharacterName": "COP_AR",
+    "AccountName": "ar234",
+    "TeamName": "The Hidden",
+    "Level": 93,
+    "Delve": 117,
+    "Rank": 122,
+    "Class": "Occultist"
+  },
+  {
+    "CharacterName": "COP_Kyrill",
+    "AccountName": "Kyrill181",
+    "TeamName": "The Formed",
+    "Level": 85,
+    "Delve": 0,
+    "Rank": 364,
+    "Class": "Champion"
+  },
+  {
+    "CharacterName": "Rob_Loystoyskoys",
+    "AccountName": "layas",
+    "TeamName": "The Twisted",
+    "Level": 55,
+    "Delve": 0,
+    "Rank": 591,
+    "Class": "Ascendant"
+  },
+  {
+    "CharacterName": "ROB_SuperSheep",
+    "AccountName": "SuperSheep578",
+    "TeamName": "The Feared",
+    "Level": 92,
+    "Delve": 211,
+    "Rank": 164,
+    "Class": "Trickster"
+  },
+  {
+    "CharacterName": null,
+    "AccountName": "lichaem1",
+    "TeamName": "The Hidden",
+    "Level": 0,
+    "Delve": 0,
+    "Rank": 0,
+    "Class": null
+  },
+  {
+    "CharacterName": null,
+    "AccountName": "Retrickz",
+    "TeamName": "The Formed",
+    "Level": 0,
+    "Delve": 0,
+    "Rank": 0,
+    "Class": null
+  },
+  {
+    "CharacterName": null,
+    "AccountName": "skadrwo",
+    "TeamName": "The Twisted",
+    "Level": 0,
+    "Delve": 0,
+    "Rank": 0,
+    "Class": null
+  },
+  {
+    "CharacterName": "ROB_Xarc",
+    "AccountName": "Xarc",
+    "TeamName": "The Feared",
+    "Level": 92,
+    "Delve": 43,
+    "Rank": 155,
+    "Class": "Assassin"
+  },
+  {
+    "CharacterName": "COP_ManaSprinkler",
+    "AccountName": "April_Spades",
+    "TeamName": "The Hidden",
+    "Level": 33,
+    "Delve": 0,
+    "Rank": 650,
+    "Class": "Necromancer"
+  },
+  {
+    "CharacterName": "COP_WolfUhWrestingRobs",
+    "AccountName": "WolfOfWar94",
+    "TeamName": "The Formed",
+    "Level": 80,
+    "Delve": 40,
+    "Rank": 438,
+    "Class": "Necromancer"
+  },
+  {
+    "CharacterName": "ROB_ColonelMeow",
+    "AccountName": "astrobones",
+    "TeamName": "The Twisted",
+    "Level": 95,
+    "Delve": 334,
+    "Rank": 57,
+    "Class": "Guardian"
+  },
+  {
+    "CharacterName": "ROB_PigDestroyer",
+    "AccountName": "MetalheadNorm",
+    "TeamName": "The Feared",
+    "Level": 90,
+    "Delve": 0,
+    "Rank": 243,
+    "Class": "Trickster"
+  },
+  {
+    "CharacterName": null,
+    "AccountName": "crankypants1",
+    "TeamName": "The Hidden",
+    "Level": 0,
+    "Delve": 0,
+    "Rank": 0,
+    "Class": null
+  },
+  {
+    "CharacterName": null,
+    "AccountName": "RekiLive",
+    "TeamName": "The Formed",
+    "Level": 0,
+    "Delve": 0,
+    "Rank": 0,
+    "Class": null
+  },
+  {
+    "CharacterName": null,
+    "AccountName": "Benjaminx",
+    "TeamName": "The Twisted",
+    "Level": 0,
+    "Delve": 0,
+    "Rank": 0,
+    "Class": null
+  },
+  {
+    "CharacterName": "ROB_thelfenix",
+    "AccountName": "thelfenix",
+    "TeamName": "The Feared",
+    "Level": 94,
+    "Delve": 184,
+    "Rank": 91,
+    "Class": "Pathfinder"
+  },
+  {
+    "CharacterName": "COP_EliotNessie",
+    "AccountName": "kalt",
+    "TeamName": "The Hidden",
+    "Level": 56,
+    "Delve": 0,
+    "Rank": 589,
+    "Class": "Ascendant"
+  },
+  {
+    "CharacterName": null,
+    "AccountName": "PRJEWDEVIL",
+    "TeamName": "The Formed",
+    "Level": 0,
+    "Delve": 0,
+    "Rank": 0,
+    "Class": null
+  },
+  {
+    "CharacterName": "ROB_RaiderOfTheLostAFK",
+    "AccountName": "Deadwasp",
+    "TeamName": "The Twisted",
+    "Level": 92,
+    "Delve": 105,
+    "Rank": 189,
+    "Class": "Raider"
+  },
+  {
+    "CharacterName": null,
+    "AccountName": "Goofy_Heffalump",
+    "TeamName": "The Feared",
+    "Level": 0,
+    "Delve": 0,
+    "Rank": 0,
+    "Class": null
+  },
+  {
+    "CharacterName": "COP_Manni_YEPCOPS",
+    "AccountName": "comoestoy",
+    "TeamName": "The Hidden",
+    "Level": 99,
+    "Delve": 501,
+    "Rank": 2,
+    "Class": "Champion"
+  },
+  {
+    "CharacterName": "COP_Shilkmake",
+    "AccountName": "Shilkmake",
+    "TeamName": "The Formed",
+    "Level": 91,
+    "Delve": 93,
+    "Rank": 209,
+    "Class": "Gladiator"
+  },
+  {
+    "CharacterName": "ROB_Neato",
+    "AccountName": "thatsrealneato",
+    "TeamName": "The Twisted",
+    "Level": 95,
+    "Delve": 81,
+    "Rank": 66,
+    "Class": "Trickster"
+  },
+  {
+    "CharacterName": "ROB_KAMEHAMEHA",
+    "AccountName": "Runruckree",
+    "TeamName": "The Feared",
+    "Level": 89,
+    "Delve": 87,
+    "Rank": 275,
+    "Class": "Inquisitor"
+  },
+  {
+    "CharacterName": "COP_Bella",
+    "AccountName": "bellstrand",
+    "TeamName": "The Hidden",
+    "Level": 84,
+    "Delve": 56,
+    "Rank": 390,
+    "Class": "Ascendant"
+  },
+  {
+    "CharacterName": "YesIStealBelongings",
+    "AccountName": "WhiteVessel",
+    "TeamName": "The Formed",
+    "Level": 12,
+    "Delve": 0,
+    "Rank": 738,
+    "Class": "Invalid Class (Shadow)"
+  },
+  {
+    "CharacterName": "ROB_Avarice",
+    "AccountName": "Avar1ce_",
+    "TeamName": "The Twisted",
+    "Level": 92,
+    "Delve": 500,
+    "Rank": 171,
+    "Class": "Raider"
+  },
+  {
+    "CharacterName": "ROB_Facd",
+    "AccountName": "crashtested",
+    "TeamName": "The Feared",
+    "Level": 84,
+    "Delve": 48,
+    "Rank": 393,
+    "Class": "Assassin"
+  },
+  {
+    "CharacterName": null,
+    "AccountName": "Bayne77",
+    "TeamName": "The Hidden",
+    "Level": 0,
+    "Delve": 0,
+    "Rank": 0,
+    "Class": null
+  },
+  {
+    "CharacterName": null,
+    "AccountName": "naveslaiks",
+    "TeamName": "The Formed",
+    "Level": 0,
+    "Delve": 0,
+    "Rank": 0,
+    "Class": null
+  },
+  {
+    "CharacterName": null,
+    "AccountName": "MikeMeta",
+    "TeamName": "The Twisted",
+    "Level": 0,
+    "Delve": 0,
+    "Rank": 0,
+    "Class": null
+  },
+  {
+    "CharacterName": "ROB_AgonyGirl",
+    "AccountName": "MagJuul",
+    "TeamName": "The Feared",
+    "Level": 87,
+    "Delve": 0,
+    "Rank": 327,
+    "Class": "Pathfinder"
+  },
+  {
+    "CharacterName": "COP_tainlance",
+    "AccountName": "Sveth",
+    "TeamName": "The Hidden",
+    "Level": 90,
+    "Delve": 0,
+    "Rank": 254,
+    "Class": "Ascendant"
+  },
+  {
+    "CharacterName": "COP_Zombie",
+    "AccountName": "The_Mage24",
+    "TeamName": "The Formed",
+    "Level": 87,
+    "Delve": 100,
+    "Rank": 322,
+    "Class": "Necromancer"
+  },
+  {
+    "CharacterName": null,
+    "AccountName": "Yrx",
+    "TeamName": "The Twisted",
+    "Level": 0,
+    "Delve": 0,
+    "Rank": 0,
+    "Class": null
+  },
+  {
+    "CharacterName": "ROB_Snazzypois",
+    "AccountName": "Snazzybacon",
+    "TeamName": "The Feared",
+    "Level": 33,
+    "Delve": 0,
+    "Rank": 655,
+    "Class": "Shadow"
+  },
+  {
+    "CharacterName": null,
+    "AccountName": "thingy1",
+    "TeamName": "The Hidden",
+    "Level": 0,
+    "Delve": 0,
+    "Rank": 0,
+    "Class": null
+  },
+  {
+    "CharacterName": null,
+    "AccountName": "Bladmiral",
+    "TeamName": "The Formed",
+    "Level": 0,
+    "Delve": 0,
+    "Rank": 0,
+    "Class": null
+  },
+  {
+    "CharacterName": "ROBGoose",
+    "AccountName": "Mindshock",
+    "TeamName": "The Twisted",
+    "Level": 88,
+    "Delve": 0,
+    "Rank": 309,
+    "Class": "Guardian"
+  },
+  {
+    "CharacterName": "ROB_ZeFrost",
+    "AccountName": "ZeFrost",
+    "TeamName": "The Feared",
+    "Level": 96,
+    "Delve": 200,
+    "Rank": 35,
+    "Class": "Trickster"
+  },
+  {
+    "CharacterName": "COP_WeeWoo",
+    "AccountName": "allmightymeep",
+    "TeamName": "The Hidden",
+    "Level": 45,
+    "Delve": 0,
+    "Rank": 612,
+    "Class": "Berserker"
+  },
+  {
+    "CharacterName": "COP_Jaay",
+    "AccountName": "Jaay4",
+    "TeamName": "The Formed",
+    "Level": 89,
+    "Delve": 124,
+    "Rank": 268,
+    "Class": "Occultist"
+  },
+  {
+    "CharacterName": "ROB_Blink",
+    "AccountName": "Fabio1994",
+    "TeamName": "The Twisted",
+    "Level": 1,
+    "Delve": 0,
+    "Rank": 864,
+    "Class": "Templar"
+  },
+  {
+    "CharacterName": null,
+    "AccountName": "Motherfndci",
+    "TeamName": "The Feared",
+    "Level": 0,
+    "Delve": 0,
+    "Rank": 0,
+    "Class": null
+  },
+  {
+    "CharacterName": null,
+    "AccountName": "RKZQLF",
+    "TeamName": "The Hidden",
+    "Level": 0,
+    "Delve": 0,
+    "Rank": 0,
+    "Class": null
+  },
+  {
+    "CharacterName": null,
+    "AccountName": "Wrektar",
+    "TeamName": "The Formed",
+    "Level": 0,
+    "Delve": 0,
+    "Rank": 0,
+    "Class": null
+  },
+  {
+    "CharacterName": "ROB_Gabernik",
+    "AccountName": "Gabernik1",
+    "TeamName": "The Twisted",
+    "Level": 97,
+    "Delve": 0,
+    "Rank": 14,
+    "Class": "Ascendant"
+  },
+  {
+    "CharacterName": "ROB_Roysss",
+    "AccountName": "Simon0601",
+    "TeamName": "The Feared",
+    "Level": 67,
+    "Delve": 0,
+    "Rank": 544,
+    "Class": "Saboteur"
+  },
+  {
+    "CharacterName": null,
+    "AccountName": "nCubed",
+    "TeamName": "The Hidden",
+    "Level": 0,
+    "Delve": 0,
+    "Rank": 0,
+    "Class": null
+  },
+  {
+    "CharacterName": "COP_xXLACERATIONXx",
+    "AccountName": "Niadoria",
+    "TeamName": "The Formed",
+    "Level": 20,
+    "Delve": 0,
+    "Rank": 708,
+    "Class": "Duelist"
+  },
+  {
+    "CharacterName": null,
+    "AccountName": "Pahxy",
+    "TeamName": "The Twisted",
+    "Level": 0,
+    "Delve": 0,
+    "Rank": 0,
+    "Class": null
+  },
+  {
+    "CharacterName": "ROB_OldManChaos",
+    "AccountName": "chaosgod183",
+    "TeamName": "The Feared",
+    "Level": 93,
+    "Delve": 200,
+    "Rank": 133,
+    "Class": "Hierophant"
+  },
+  {
+    "CharacterName": "COP_jerome",
+    "AccountName": "butkevinsaid555",
+    "TeamName": "The Hidden",
+    "Level": 69,
+    "Delve": 0,
+    "Rank": 528,
+    "Class": "Ascendant"
+  },
+  {
+    "CharacterName": "COP_Highfall",
+    "AccountName": "Gonthore",
+    "TeamName": "The Formed",
+    "Level": 2,
+    "Delve": 0,
+    "Rank": 772,
+    "Class": "Witch"
+  },
+  {
+    "CharacterName": "ROB_Jolech",
+    "AccountName": "Ruffleberg",
+    "TeamName": "The Twisted",
+    "Level": 88,
+    "Delve": 65,
+    "Rank": 284,
+    "Class": "Pathfinder"
+  },
+  {
+    "CharacterName": "ROB_Viisiu",
+    "AccountName": "upviisiu",
+    "TeamName": "The Feared",
+    "Level": 92,
+    "Delve": 69,
+    "Rank": 167,
+    "Class": "Trickster"
+  },
+  {
+    "CharacterName": "COP_Silas",
+    "AccountName": "kakius",
+    "TeamName": "The Hidden",
+    "Level": 92,
+    "Delve": 65,
+    "Rank": 183,
+    "Class": "Champion"
+  },
+  {
+    "CharacterName": "COP_Boom",
+    "AccountName": "boomdie1",
+    "TeamName": "The Formed",
+    "Level": 86,
+    "Delve": 0,
+    "Rank": 347,
+    "Class": "Elementalist"
+  },
+  {
+    "CharacterName": null,
+    "AccountName": "invarse",
+    "TeamName": "The Twisted",
+    "Level": 0,
+    "Delve": 0,
+    "Rank": 0,
+    "Class": null
+  },
+  {
+    "CharacterName": "ROB_RobRobYourBoat",
+    "AccountName": "firudu",
+    "TeamName": "The Feared",
+    "Level": 93,
+    "Delve": 66,
+    "Rank": 123,
+    "Class": "Pathfinder"
+  },
+  {
+    "CharacterName": "COP_Fluppiline",
+    "AccountName": "njansen",
+    "TeamName": "The Hidden",
+    "Level": 92,
+    "Delve": 40,
+    "Rank": 192,
+    "Class": "Elementalist"
+  },
+  {
+    "CharacterName": "COP_FreddiePD",
+    "AccountName": "freddie1737",
+    "TeamName": "The Formed",
+    "Level": 83,
+    "Delve": 0,
+    "Rank": 398,
+    "Class": "Gladiator"
+  },
+  {
+    "CharacterName": null,
+    "AccountName": "slicezz",
+    "TeamName": "The Twisted",
+    "Level": 0,
+    "Delve": 0,
+    "Rank": 0,
+    "Class": null
+  },
+  {
+    "CharacterName": "ROB_Ant",
+    "AccountName": "Antzzz",
+    "TeamName": "The Feared",
+    "Level": 65,
+    "Delve": 0,
+    "Rank": 555,
+    "Class": "Trickster"
+  }
+]

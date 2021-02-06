@@ -45,10 +45,10 @@ namespace BPL3.Services
                 if (i != null) 
                 {
                     i.Obtained = "True";
-                    teamItem.Team.Points += 20;
+                    teamItem.Team.SetPoints += 20;
                     var set = teamItem.Items.Where(it => it.SetName == i.SetName && it.Obtained == "False").ToList();
                     if (set.Count == 0)
-                        teamItem.Team.Points += 200;
+                        teamItem.Team.SetPoints += 100;
                 }
             }
             return teamItem;

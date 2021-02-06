@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\FERNANDODASILVASALGA\\source\\repos\\BPL3\\BPL3\\BPL3.csproj": {}
+    "C:\\Users\\FERNANDODASILVASALGA\\Documents\\repos\\BPL3_Backend\\BPL3\\BPL3.csproj": {}
   },
   "projects": {
-    "C:\\Users\\FERNANDODASILVASALGA\\source\\repos\\BPL3\\BPL3\\BPL3.csproj": {
+    "C:\\Users\\FERNANDODASILVASALGA\\Documents\\repos\\BPL3_Backend\\BPL3\\BPL3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\FERNANDODASILVASALGA\\source\\repos\\BPL3\\BPL3\\BPL3.csproj",
+        "projectUniqueName": "C:\\Users\\FERNANDODASILVASALGA\\Documents\\repos\\BPL3_Backend\\BPL3\\BPL3.csproj",
         "projectName": "BPL3",
-        "projectPath": "C:\\Users\\FERNANDODASILVASALGA\\source\\repos\\BPL3\\BPL3\\BPL3.csproj",
+        "projectPath": "C:\\Users\\FERNANDODASILVASALGA\\Documents\\repos\\BPL3_Backend\\BPL3\\BPL3.csproj",
         "packagesPath": "C:\\Users\\FERNANDODASILVASALGA\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\FERNANDODASILVASALGA\\source\\repos\\BPL3\\BPL3\\obj\\",
+        "outputPath": "C:\\Users\\FERNANDODASILVASALGA\\Documents\\repos\\BPL3_Backend\\BPL3\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\FERNANDODASILVASALGA\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -43,6 +43,14 @@
             "AngleSharp": {
               "target": "Package",
               "version": "[0.14.0, )"
+            },
+            "CsvHelper": {
+              "target": "Package",
+              "version": "[22.1.2, )"
+            },
+            "Microsoft.Extensions.Http": {
+              "target": "Package",
+              "version": "[5.0.0, )"
             },
             "Newtonsoft.Json": {
               "target": "Package",

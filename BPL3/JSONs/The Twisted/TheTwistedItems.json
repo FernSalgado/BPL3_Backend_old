@@ -6,7 +6,7 @@
   },
   {
     "Name": "Shaper's Touch",
-    "Obtained": "False",
+    "Obtained": "True",
     "SetName": "Shaper's Set"
   },
   {
@@ -61,7 +61,7 @@
   },
   {
     "Name": "Blasphemer's Grasp",
-    "Obtained": "False",
+    "Obtained": "True",
     "SetName": "Elder's Set"
   },
   {
@@ -71,7 +71,7 @@
   },
   {
     "Name": "Nebuloch",
-    "Obtained": "False",
+    "Obtained": "True",
     "SetName": "Elder's Set"
   },
   {
@@ -86,7 +86,7 @@
   },
   {
     "Name": "Disintegrator",
-    "Obtained": "False",
+    "Obtained": "True",
     "SetName": "Uber Elder's Set"
   },
   {
@@ -141,7 +141,7 @@
   },
   {
     "Name": "Circle of Nostalgia",
-    "Obtained": "False",
+    "Obtained": "True",
     "SetName": "Synthesis Set"
   },
   {
@@ -205,7 +205,7 @@
     "SetName": "Maven's Set"
   },
   {
-    "Name": "Doppelgänger Guise",
+    "Name": "Doppelgï¿½nger Guise",
     "Obtained": "False",
     "SetName": "Maven's Set"
   },
@@ -246,17 +246,17 @@
   },
   {
     "Name": "The Pandemonius",
-    "Obtained": "False",
+    "Obtained": "True",
     "SetName": "Tul's Set"
   },
   {
     "Name": "The Perfect Form",
-    "Obtained": "False",
+    "Obtained": "True",
     "SetName": "Tul's Set"
   },
   {
     "Name": "Tulfall",
-    "Obtained": "False",
+    "Obtained": "True",
     "SetName": "Tul's Set"
   },
   {
